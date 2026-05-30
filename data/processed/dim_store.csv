@@ -1,0 +1,26 @@
+store_key,store_id,store_name,store_type,province,city,region,open_date
+1,STORE-001,iBox Mall Kelapa Gading 1,iBox,Jawa Timur,Malang,Non-Jabodetabek,2018-04-06
+2,STORE-002,Erafone Living World 2,Erafone,Jawa Timur,Malang,Non-Jabodetabek,2020-04-10
+3,STORE-003,Urban Republic Living World 3,Urban Republic,DKI Jakarta,Jakarta Barat,Jabodetabek,2022-03-23
+4,STORE-004,Eraspace Grand Indonesia 4,Eraspace,Jawa Timur,Malang,Non-Jabodetabek,2020-06-29
+5,STORE-005,iBox Living World 5,iBox,Banten,Tangerang Selatan,Jabodetabek,2021-03-10
+6,STORE-006,Erafone Galaxy Mall 6,Erafone,Sumatera Utara,Medan,Non-Jabodetabek,2018-03-12
+7,STORE-007,Urban Republic Beachwalk 7,Urban Republic,Banten,Tangerang Selatan,Jabodetabek,2019-03-20
+8,STORE-008,Eraspace Central Park 8,Eraspace,Banten,Tangerang,Jabodetabek,2022-06-16
+9,STORE-009,iBox Beachwalk 9,iBox,Jawa Barat,Bogor,Jabodetabek,2023-05-07
+10,STORE-010,Erafone Paris Van Java 10,Erafone,Bali,Denpasar,Non-Jabodetabek,2021-09-23
+11,STORE-011,Urban Republic Grand Indonesia 11,Urban Republic,Jawa Barat,Bandung,Jabodetabek,2019-11-25
+12,STORE-012,Eraspace Tunjungan Plaza 12,Eraspace,Jawa Barat,Bogor,Jabodetabek,2018-12-10
+13,STORE-013,iBox Living World 13,iBox,Jawa Barat,Bogor,Jabodetabek,2023-11-14
+14,STORE-014,Erafone Central Park 14,Erafone,Sumatera Utara,Medan,Non-Jabodetabek,2023-07-15
+15,STORE-015,Urban Republic Paris Van Java 15,Urban Republic,Jawa Timur,Malang,Non-Jabodetabek,2021-10-15
+16,STORE-016,Eraspace Beachwalk 16,Eraspace,Jawa Barat,Bandung,Jabodetabek,2022-07-24
+17,STORE-017,iBox Tunjungan Plaza 17,iBox,DKI Jakarta,Jakarta Barat,Jabodetabek,2023-06-25
+18,STORE-018,Erafone Beachwalk 18,Erafone,Bali,Badung,Non-Jabodetabek,2020-08-23
+19,STORE-019,Urban Republic Living World 19,Urban Republic,Jawa Timur,Malang,Non-Jabodetabek,2023-10-09
+20,STORE-020,Eraspace Grand Indonesia 20,Eraspace,Bali,Denpasar,Non-Jabodetabek,2022-10-10
+21,STORE-021,iBox Galaxy Mall 21,iBox,Sumatera Utara,Medan,Non-Jabodetabek,2019-06-06
+22,STORE-022,Erafone Mall Kelapa Gading 22,Erafone,DKI Jakarta,Jakarta Selatan,Jabodetabek,2019-05-13
+23,STORE-023,Urban Republic Living World 23,Urban Republic,Jawa Barat,Bekasi,Jabodetabek,2019-04-11
+24,STORE-024,Eraspace Living World 24,Eraspace,DKI Jakarta,Jakarta Utara,Jabodetabek,2019-12-01
+25,STORE-025,iBox Summarecon Mall 25,iBox,Sumatera Utara,Deli Serdang,Non-Jabodetabek,2022-09-09

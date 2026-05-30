@@ -1,0 +1,1001 @@
+customer_key,customer_id,customer_name,gender,birth_date,loyalty_tier,customer_segment,province,city,registered_date
+1,CUST-0001,Dewi Pratama,Male,1982-03-24,Silver,Student,Sumatera Utara,Deli Serdang,2022-03-03
+2,CUST-0002,Citra Santoso,Male,1997-11-23,Regular,SMB,Jawa Barat,Bandung,2023-07-24
+3,CUST-0003,Adi Wijaya,Female,1983-03-07,Regular,Student,Sumatera Utara,Deli Serdang,2024-01-06
+4,CUST-0004,Maya Susanto,Female,1992-02-13,Regular,SMB,Jawa Timur,Surabaya,2024-01-11
+5,CUST-0005,Wahyu Santoso,Male,1996-04-25,Regular,Family,Sumatera Utara,Medan,2022-11-30
+6,CUST-0006,Maya Permana,Male,1994-11-06,Regular,Family,Jawa Barat,Depok,2025-02-14
+7,CUST-0007,Hana Permana,Male,2000-06-13,Regular,SMB,DKI Jakarta,Jakarta Selatan,2023-10-07
+8,CUST-0008,Gita Gunawan,Male,1983-03-08,Silver,Gadget Enthusiast,Banten,Tangerang Selatan,2024-03-28
+9,CUST-0009,Maya Santoso,Male,1999-01-28,Silver,Gadget Enthusiast,Jawa Barat,Bogor,2022-05-11
+10,CUST-0010,Nadia Halim,Female,1992-01-22,Silver,SMB,Bali,Badung,2023-07-01
+11,CUST-0011,Lina Saputra,Male,1989-01-24,Gold,Family,Jawa Timur,Malang,2024-11-05
+12,CUST-0012,Yuni Santoso,Male,1992-09-01,Silver,Student,Jawa Barat,Depok,2024-01-14
+13,CUST-0013,Joko Santoso,Male,1977-12-16,Platinum,SMB,DKI Jakarta,Jakarta Selatan,2022-09-15
+14,CUST-0014,Eka Gunawan,Female,1991-10-14,Gold,Professional,Bali,Denpasar,2023-10-01
+15,CUST-0015,Nadia Permana,Male,1982-04-03,Silver,Professional,Banten,Tangerang Selatan,2023-03-28
+16,CUST-0016,Adi Saputra,Male,1977-01-28,Silver,Family,Sumatera Utara,Medan,2024-09-21
+17,CUST-0017,Gita Siregar,Male,2000-08-26,Regular,Gadget Enthusiast,Jawa Barat,Bogor,2023-12-27
+18,CUST-0018,Putra Halim,Male,1976-07-24,Regular,Professional,Banten,Tangerang,2025-01-03
+19,CUST-0019,Rani Wijaya,Female,1989-04-28,Regular,SMB,Banten,Tangerang,2022-07-20
+20,CUST-0020,Budi Siregar,Male,1980-07-16,Gold,Student,DKI Jakarta,Jakarta Pusat,2022-12-04
+21,CUST-0021,Nadia Pratama,Female,1984-07-23,Regular,Family,Banten,Tangerang Selatan,2023-03-22
+22,CUST-0022,Budi Susanto,Female,1976-01-19,Regular,SMB,Sumatera Utara,Medan,2022-06-14
+23,CUST-0023,Fajar Saputra,Male,1987-02-19,Silver,Gadget Enthusiast,Bali,Denpasar,2024-12-06
+24,CUST-0024,Lina Lestari,Male,1983-07-05,Regular,Student,Jawa Barat,Depok,2022-01-20
+25,CUST-0025,Rani Susanto,Male,1992-04-17,Gold,Student,Bali,Denpasar,2023-05-16
+26,CUST-0026,Maya Lestari,Female,1994-11-17,Gold,Family,Jawa Barat,Bogor,2022-08-01
+27,CUST-0027,Eka Lestari,Male,1983-05-20,Silver,Family,DKI Jakarta,Jakarta Pusat,2024-11-01
+28,CUST-0028,Sari Lestari,Female,2001-05-02,Gold,Family,DKI Jakarta,Jakarta Pusat,2022-11-27
+29,CUST-0029,Rani Siregar,Male,1978-02-23,Silver,Family,Sumatera Utara,Deli Serdang,2025-02-05
+30,CUST-0030,Eka Halim,Female,1986-01-12,Gold,Gadget Enthusiast,Jawa Barat,Bandung,2022-11-13
+31,CUST-0031,Hana Wijaya,Male,1980-12-11,Regular,Student,Jawa Barat,Bogor,2024-02-23
+32,CUST-0032,Budi Gunawan,Female,1986-05-27,Regular,Professional,Jawa Barat,Bekasi,2024-03-27
+33,CUST-0033,Lina Lestari,Female,1995-09-13,Gold,Family,DKI Jakarta,Jakarta Barat,2023-01-01
+34,CUST-0034,Wahyu Lestari,Female,1986-12-26,Silver,SMB,DKI Jakarta,Jakarta Pusat,2022-08-25
+35,CUST-0035,Nadia Susanto,Male,1997-07-01,Regular,Family,Jawa Barat,Depok,2023-10-05
+36,CUST-0036,Dewi Lestari,Female,1985-07-23,Regular,Gadget Enthusiast,Bali,Badung,2022-12-23
+37,CUST-0037,Yuni Susanto,Male,1984-05-07,Regular,Gadget Enthusiast,Jawa Timur,Malang,2023-03-14
+38,CUST-0038,Tono Gunawan,Male,1984-09-22,Gold,Professional,Sumatera Utara,Medan,2023-09-28
+39,CUST-0039,Hana Santoso,Male,1982-08-20,Regular,SMB,Jawa Barat,Bandung,2023-02-03
+40,CUST-0040,Nadia Gunawan,Male,1995-12-01,Gold,Professional,Banten,Tangerang,2022-12-27
+41,CUST-0041,Tono Gunawan,Male,1989-03-26,Regular,Professional,DKI Jakarta,Jakarta Selatan,2023-07-22
+42,CUST-0042,Tono Gunawan,Female,1989-02-23,Regular,Family,Sumatera Utara,Medan,2025-01-11
+43,CUST-0043,Citra Wijaya,Female,1997-03-23,Regular,Family,Jawa Barat,Bekasi,2025-01-16
+44,CUST-0044,Rani Halim,Female,1987-10-23,Regular,Family,DKI Jakarta,Jakarta Selatan,2023-09-04
+45,CUST-0045,Nadia Halim,Female,1982-05-14,Regular,Gadget Enthusiast,Bali,Denpasar,2022-12-05
+46,CUST-0046,Rani Wijaya,Female,1993-10-22,Silver,Professional,Bali,Denpasar,2024-08-03
+47,CUST-0047,Fajar Pratama,Female,1981-08-11,Regular,Gadget Enthusiast,Jawa Timur,Malang,2023-06-01
+48,CUST-0048,Citra Gunawan,Female,1982-11-03,Silver,Professional,DKI Jakarta,Jakarta Pusat,2023-02-13
+49,CUST-0049,Adi Susanto,Male,1990-11-04,Silver,Family,Jawa Barat,Bekasi,2022-12-10
+50,CUST-0050,Yuni Susanto,Male,2005-05-04,Gold,SMB,Sumatera Utara,Medan,2024-02-08
+51,CUST-0051,Nadia Santoso,Male,1997-05-28,Gold,SMB,DKI Jakarta,Jakarta Selatan,2022-03-26
+52,CUST-0052,Maya Siregar,Male,1991-11-11,Regular,Family,Banten,Tangerang Selatan,2024-07-30
+53,CUST-0053,Eka Halim,Female,1989-07-27,Gold,Student,Jawa Barat,Depok,2023-07-26
+54,CUST-0054,Rani Santoso,Female,1975-08-28,Silver,Family,Banten,Tangerang Selatan,2023-06-14
+55,CUST-0055,Lina Lestari,Male,1991-04-03,Silver,Professional,Bali,Badung,2024-09-02
+56,CUST-0056,Sari Gunawan,Female,1982-07-23,Silver,Family,DKI Jakarta,Jakarta Pusat,2024-08-27
+57,CUST-0057,Vina Siregar,Female,1986-12-15,Regular,Student,Jawa Timur,Malang,2023-01-30
+58,CUST-0058,Lina Saputra,Male,1981-12-16,Platinum,Professional,Sumatera Utara,Medan,2023-08-30
+59,CUST-0059,Hana Permana,Male,1997-09-05,Platinum,SMB,Jawa Barat,Depok,2023-08-22
+60,CUST-0060,Eka Gunawan,Female,1990-08-15,Platinum,Family,DKI Jakarta,Jakarta Pusat,2024-09-05
+61,CUST-0061,Dewi Saputra,Male,1993-11-22,Regular,SMB,Banten,Tangerang Selatan,2023-09-15
+62,CUST-0062,Citra Santoso,Male,1999-09-13,Gold,Gadget Enthusiast,DKI Jakarta,Jakarta Utara,2023-09-18
+63,CUST-0063,Wahyu Susanto,Male,1995-04-09,Regular,Professional,DKI Jakarta,Jakarta Pusat,2025-02-04
+64,CUST-0064,Citra Wijaya,Female,1997-10-16,Regular,Family,DKI Jakarta,Jakarta Utara,2024-07-18
+65,CUST-0065,Citra Santoso,Male,1988-02-18,Regular,Family,Jawa Timur,Sidoarjo,2023-08-15
+66,CUST-0066,Rani Saputra,Female,2005-05-17,Regular,SMB,Banten,Tangerang Selatan,2022-03-23
+67,CUST-0067,Putra Permana,Male,1977-04-22,Platinum,Family,Bali,Badung,2022-03-24
+68,CUST-0068,Fajar Gunawan,Female,1980-10-14,Regular,Family,Bali,Badung,2023-10-20
+69,CUST-0069,Dewi Wijaya,Female,1984-11-13,Regular,Family,Jawa Timur,Malang,2023-06-01
+70,CUST-0070,Lina Saputra,Female,1988-01-07,Silver,Gadget Enthusiast,Banten,Tangerang,2024-06-24
+71,CUST-0071,Budi Santoso,Male,2004-05-15,Regular,SMB,Jawa Timur,Sidoarjo,2023-05-06
+72,CUST-0072,Fajar Lestari,Female,1977-04-27,Regular,Student,Bali,Denpasar,2022-11-12
+73,CUST-0073,Sari Lestari,Female,2001-08-16,Silver,Gadget Enthusiast,Bali,Badung,2023-01-26
+74,CUST-0074,Yuni Siregar,Male,1983-07-11,Gold,Family,Sumatera Utara,Medan,2023-09-04
+75,CUST-0075,Wahyu Susanto,Male,1989-09-16,Silver,SMB,Sumatera Utara,Deli Serdang,2024-02-12
+76,CUST-0076,Rani Permana,Female,1982-07-02,Platinum,Professional,Jawa Barat,Bekasi,2024-10-11
+77,CUST-0077,Budi Wijaya,Male,2002-08-04,Silver,Gadget Enthusiast,Bali,Badung,2022-11-13
+78,CUST-0078,Citra Gunawan,Female,1995-02-28,Platinum,Gadget Enthusiast,Jawa Timur,Malang,2025-01-13
+79,CUST-0079,Budi Susanto,Female,1982-12-03,Regular,Family,DKI Jakarta,Jakarta Selatan,2022-03-01
+80,CUST-0080,Budi Permana,Female,1986-07-05,Regular,SMB,DKI Jakarta,Jakarta Barat,2024-02-23
+81,CUST-0081,Yuni Santoso,Male,1989-11-09,Silver,Gadget Enthusiast,Banten,Tangerang,2023-08-13
+82,CUST-0082,Vina Wijaya,Female,1993-05-21,Silver,Gadget Enthusiast,DKI Jakarta,Jakarta Utara,2023-09-11
+83,CUST-0083,Gita Halim,Male,1987-10-12,Platinum,Family,Banten,Tangerang,2022-02-14
+84,CUST-0084,Nadia Lestari,Female,2001-05-25,Silver,Family,DKI Jakarta,Jakarta Pusat,2023-03-25
+85,CUST-0085,Gita Susanto,Male,1995-02-21,Regular,Gadget Enthusiast,Jawa Timur,Sidoarjo,2022-03-10
+86,CUST-0086,Wahyu Permana,Male,2004-05-11,Regular,Professional,Sumatera Utara,Medan,2025-01-09
+87,CUST-0087,Maya Siregar,Male,1983-08-26,Gold,Gadget Enthusiast,Bali,Badung,2022-06-04
+88,CUST-0088,Eka Santoso,Female,1977-07-01,Regular,Family,Sumatera Utara,Deli Serdang,2024-02-20
+89,CUST-0089,Maya Saputra,Female,1975-10-18,Silver,Gadget Enthusiast,Sumatera Utara,Medan,2023-09-11
+90,CUST-0090,Putra Saputra,Male,1984-08-04,Gold,Professional,Jawa Barat,Bandung,2024-03-06
+91,CUST-0091,Rani Permana,Male,2003-07-21,Regular,Family,Sumatera Utara,Deli Serdang,2023-03-21
+92,CUST-0092,Rani Gunawan,Male,1996-06-18,Regular,Family,Jawa Barat,Depok,2023-01-24
+93,CUST-0093,Dewi Gunawan,Male,1976-06-08,Gold,Professional,DKI Jakarta,Jakarta Selatan,2022-05-21
+94,CUST-0094,Vina Santoso,Male,1985-03-26,Gold,Professional,Bali,Denpasar,2022-09-24
+95,CUST-0095,Vina Lestari,Male,1979-01-12,Regular,Student,Jawa Barat,Bandung,2022-09-17
+96,CUST-0096,Putra Siregar,Female,1989-06-17,Regular,Professional,DKI Jakarta,Jakarta Pusat,2022-03-30
+97,CUST-0097,Tono Lestari,Male,1990-07-14,Silver,Gadget Enthusiast,Banten,Tangerang,2022-05-31
+98,CUST-0098,Citra Permana,Male,1979-05-20,Platinum,SMB,Bali,Denpasar,2023-08-27
+99,CUST-0099,Rani Siregar,Male,2000-12-04,Regular,Professional,Bali,Badung,2024-04-27
+100,CUST-0100,Lina Gunawan,Male,1985-07-11,Regular,Professional,Banten,Tangerang Selatan,2024-08-29
+101,CUST-0101,Citra Saputra,Female,1978-12-24,Platinum,SMB,DKI Jakarta,Jakarta Pusat,2023-11-07
+102,CUST-0102,Dewi Halim,Female,2002-12-02,Silver,Family,Jawa Timur,Sidoarjo,2022-08-01
+103,CUST-0103,Wahyu Siregar,Female,1982-02-12,Gold,SMB,Jawa Barat,Bekasi,2023-04-09
+104,CUST-0104,Putra Siregar,Female,1975-03-09,Regular,Professional,Bali,Denpasar,2024-03-31
+105,CUST-0105,Citra Wijaya,Male,1998-09-07,Regular,Professional,Sumatera Utara,Medan,2024-01-28
+106,CUST-0106,Joko Permana,Male,1979-03-25,Silver,Family,Bali,Denpasar,2024-06-26
+107,CUST-0107,Putra Gunawan,Female,1983-04-25,Regular,Student,Bali,Badung,2023-08-04
+108,CUST-0108,Wahyu Gunawan,Male,1982-07-20,Regular,Professional,Bali,Badung,2022-10-09
+109,CUST-0109,Indra Lestari,Male,1990-12-14,Regular,Professional,Jawa Timur,Surabaya,2024-10-21
+110,CUST-0110,Vina Permana,Male,1988-01-15,Gold,SMB,DKI Jakarta,Jakarta Utara,2024-05-29
+111,CUST-0111,Wahyu Halim,Female,1978-07-01,Regular,SMB,Sumatera Utara,Deli Serdang,2024-07-31
+112,CUST-0112,Maya Saputra,Male,1988-10-13,Regular,Family,Banten,Tangerang,2023-11-27
+113,CUST-0113,Hana Permana,Male,1991-09-07,Silver,Professional,Jawa Barat,Bandung,2023-04-29
+114,CUST-0114,Dewi Wijaya,Male,1994-03-25,Platinum,Gadget Enthusiast,Jawa Timur,Surabaya,2024-08-08
+115,CUST-0115,Wahyu Susanto,Female,1979-08-03,Silver,Family,Banten,Tangerang Selatan,2022-04-26
+116,CUST-0116,Maya Siregar,Female,1989-01-02,Silver,Student,DKI Jakarta,Jakarta Barat,2024-11-04
+117,CUST-0117,Nadia Gunawan,Female,2004-10-21,Silver,SMB,Bali,Denpasar,2022-11-05
+118,CUST-0118,Budi Gunawan,Male,1991-11-06,Silver,Gadget Enthusiast,DKI Jakarta,Jakarta Barat,2024-12-09
+119,CUST-0119,Tono Susanto,Female,2004-05-13,Gold,Family,Jawa Barat,Depok,2022-05-15
+120,CUST-0120,Lina Saputra,Female,1983-12-28,Regular,SMB,Bali,Badung,2022-10-17
+121,CUST-0121,Maya Lestari,Male,1994-12-03,Gold,SMB,Sumatera Utara,Deli Serdang,2022-07-11
+122,CUST-0122,Putra Siregar,Female,1984-03-07,Regular,Professional,Jawa Timur,Surabaya,2022-11-14
+123,CUST-0123,Citra Lestari,Female,2003-10-05,Regular,Professional,DKI Jakarta,Jakarta Pusat,2022-12-06
+124,CUST-0124,Rani Pratama,Male,1989-10-10,Regular,Professional,Banten,Tangerang Selatan,2023-09-26
+125,CUST-0125,Sari Santoso,Female,1989-05-25,Platinum,Professional,Jawa Timur,Sidoarjo,2022-10-11
+126,CUST-0126,Indra Pratama,Female,1992-02-23,Regular,Professional,Sumatera Utara,Deli Serdang,2023-07-13
+127,CUST-0127,Rani Siregar,Male,2005-04-27,Regular,SMB,Jawa Barat,Bogor,2024-02-05
+128,CUST-0128,Hana Halim,Male,1975-06-04,Gold,Professional,DKI Jakarta,Jakarta Barat,2022-03-20
+129,CUST-0129,Joko Gunawan,Female,1989-10-01,Regular,Professional,Sumatera Utara,Medan,2022-11-03
+130,CUST-0130,Vina Susanto,Male,1999-05-08,Regular,Gadget Enthusiast,Bali,Badung,2024-07-25
+131,CUST-0131,Citra Saputra,Male,1997-03-10,Silver,Professional,Banten,Tangerang,2024-05-03
+132,CUST-0132,Fajar Saputra,Male,2005-09-18,Regular,Gadget Enthusiast,Bali,Badung,2022-03-31
+133,CUST-0133,Nadia Permana,Male,1986-02-12,Regular,Family,Jawa Timur,Sidoarjo,2025-01-23
+134,CUST-0134,Lina Wijaya,Female,1995-03-26,Silver,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2022-03-17
+135,CUST-0135,Joko Santoso,Male,1985-05-17,Regular,Professional,DKI Jakarta,Jakarta Selatan,2023-08-09
+136,CUST-0136,Maya Pratama,Female,1978-06-14,Silver,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2023-11-26
+137,CUST-0137,Fajar Gunawan,Female,2004-09-09,Silver,Student,Sumatera Utara,Deli Serdang,2024-05-31
+138,CUST-0138,Yuni Wijaya,Female,1978-02-11,Regular,SMB,Bali,Badung,2024-05-22
+139,CUST-0139,Fajar Gunawan,Male,1998-06-20,Regular,Student,Jawa Timur,Malang,2022-06-03
+140,CUST-0140,Nadia Permana,Male,1979-10-22,Regular,Student,Bali,Denpasar,2023-04-29
+141,CUST-0141,Maya Permana,Male,1996-08-12,Gold,SMB,Banten,Tangerang,2022-10-09
+142,CUST-0142,Tono Permana,Female,1982-02-01,Silver,Gadget Enthusiast,Banten,Tangerang Selatan,2025-02-24
+143,CUST-0143,Dewi Lestari,Female,1981-10-10,Regular,Professional,Jawa Timur,Sidoarjo,2022-06-01
+144,CUST-0144,Rani Wijaya,Male,2000-11-28,Silver,Student,Sumatera Utara,Deli Serdang,2025-01-31
+145,CUST-0145,Vina Lestari,Male,2000-06-17,Platinum,Professional,Jawa Timur,Surabaya,2023-04-30
+146,CUST-0146,Sari Pratama,Female,1989-09-05,Regular,Gadget Enthusiast,Jawa Timur,Sidoarjo,2024-12-12
+147,CUST-0147,Putra Halim,Male,1985-11-03,Silver,Family,Bali,Denpasar,2022-09-20
+148,CUST-0148,Vina Susanto,Female,1991-01-27,Regular,Family,Jawa Barat,Bekasi,2023-04-07
+149,CUST-0149,Maya Siregar,Female,1981-11-18,Silver,SMB,Jawa Timur,Surabaya,2024-12-28
+150,CUST-0150,Citra Siregar,Male,1980-11-20,Gold,SMB,Sumatera Utara,Medan,2022-03-26
+151,CUST-0151,Adi Saputra,Male,1999-10-14,Gold,SMB,DKI Jakarta,Jakarta Barat,2023-08-17
+152,CUST-0152,Joko Gunawan,Female,1989-02-23,Regular,Gadget Enthusiast,Jawa Barat,Bogor,2024-08-09
+153,CUST-0153,Gita Permana,Female,2002-12-11,Platinum,Professional,Bali,Denpasar,2024-01-29
+154,CUST-0154,Tono Siregar,Male,1989-02-09,Regular,Student,DKI Jakarta,Jakarta Barat,2023-08-18
+155,CUST-0155,Nadia Susanto,Male,2001-06-19,Regular,Professional,Banten,Tangerang,2024-10-17
+156,CUST-0156,Tono Gunawan,Female,1975-02-13,Platinum,Professional,Banten,Tangerang Selatan,2023-12-24
+157,CUST-0157,Budi Pratama,Female,1984-09-01,Regular,Family,Jawa Timur,Malang,2024-01-20
+158,CUST-0158,Nadia Permana,Male,1993-09-07,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Utara,2025-01-31
+159,CUST-0159,Indra Susanto,Male,1978-07-12,Silver,Professional,Sumatera Utara,Medan,2024-11-08
+160,CUST-0160,Nadia Siregar,Male,1979-12-11,Silver,Professional,DKI Jakarta,Jakarta Pusat,2024-11-21
+161,CUST-0161,Eka Permana,Male,1987-10-24,Silver,SMB,Bali,Badung,2024-11-09
+162,CUST-0162,Vina Gunawan,Female,2001-01-12,Silver,Family,Sumatera Utara,Deli Serdang,2023-04-12
+163,CUST-0163,Budi Susanto,Female,1979-11-08,Platinum,Student,Banten,Tangerang,2023-01-26
+164,CUST-0164,Adi Gunawan,Male,1988-12-07,Gold,Student,Jawa Timur,Malang,2022-10-10
+165,CUST-0165,Tono Santoso,Female,1991-07-11,Regular,SMB,Bali,Badung,2023-12-03
+166,CUST-0166,Vina Permana,Female,1981-04-09,Regular,Family,Sumatera Utara,Deli Serdang,2023-08-15
+167,CUST-0167,Gita Gunawan,Female,1992-12-09,Silver,SMB,Jawa Timur,Malang,2024-02-17
+168,CUST-0168,Nadia Permana,Male,1984-12-03,Regular,SMB,Jawa Barat,Depok,2023-07-10
+169,CUST-0169,Vina Lestari,Male,1982-01-22,Regular,Family,Jawa Barat,Bandung,2024-08-25
+170,CUST-0170,Dewi Wijaya,Female,1995-08-16,Silver,Family,DKI Jakarta,Jakarta Selatan,2023-10-20
+171,CUST-0171,Joko Pratama,Male,2004-03-14,Platinum,Gadget Enthusiast,DKI Jakarta,Jakarta Selatan,2024-10-11
+172,CUST-0172,Fajar Lestari,Female,1993-10-04,Regular,SMB,DKI Jakarta,Jakarta Pusat,2024-12-09
+173,CUST-0173,Sari Wijaya,Female,1981-02-11,Silver,Family,Bali,Badung,2023-01-31
+174,CUST-0174,Fajar Susanto,Female,1991-06-03,Platinum,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2023-10-25
+175,CUST-0175,Hana Pratama,Male,1989-05-11,Silver,Professional,Jawa Timur,Malang,2022-05-08
+176,CUST-0176,Dewi Gunawan,Female,1996-09-23,Silver,Family,Jawa Timur,Surabaya,2024-01-23
+177,CUST-0177,Yuni Santoso,Female,1979-08-24,Silver,Gadget Enthusiast,Jawa Barat,Bekasi,2025-01-05
+178,CUST-0178,Gita Santoso,Female,1991-12-12,Regular,SMB,Sumatera Utara,Medan,2024-11-01
+179,CUST-0179,Gita Susanto,Male,1985-09-15,Regular,SMB,Bali,Denpasar,2024-07-01
+180,CUST-0180,Budi Gunawan,Female,1993-01-18,Silver,Gadget Enthusiast,Jawa Barat,Bogor,2023-06-06
+181,CUST-0181,Adi Santoso,Male,1988-06-23,Platinum,Student,Bali,Denpasar,2024-08-24
+182,CUST-0182,Budi Lestari,Male,1999-11-24,Platinum,Gadget Enthusiast,Banten,Tangerang,2024-07-07
+183,CUST-0183,Nadia Halim,Female,1978-03-18,Gold,Student,DKI Jakarta,Jakarta Selatan,2023-09-04
+184,CUST-0184,Rani Siregar,Male,1982-08-12,Regular,Student,Banten,Tangerang Selatan,2022-03-07
+185,CUST-0185,Putra Susanto,Male,1977-02-20,Silver,Student,DKI Jakarta,Jakarta Selatan,2023-05-17
+186,CUST-0186,Budi Halim,Male,1999-01-05,Gold,SMB,Banten,Tangerang,2023-10-16
+187,CUST-0187,Wahyu Susanto,Male,1984-03-22,Regular,Family,Sumatera Utara,Deli Serdang,2022-05-05
+188,CUST-0188,Vina Susanto,Female,1992-08-02,Platinum,Gadget Enthusiast,Sumatera Utara,Medan,2024-12-10
+189,CUST-0189,Lina Halim,Female,1987-03-25,Regular,Professional,Banten,Tangerang,2023-09-08
+190,CUST-0190,Eka Gunawan,Female,1992-09-05,Regular,Family,DKI Jakarta,Jakarta Utara,2022-06-11
+191,CUST-0191,Rani Permana,Male,1983-07-22,Gold,SMB,DKI Jakarta,Jakarta Selatan,2025-02-18
+192,CUST-0192,Gita Gunawan,Female,2005-01-07,Platinum,Student,Jawa Barat,Depok,2024-09-07
+193,CUST-0193,Hana Susanto,Female,2004-04-18,Regular,Family,Sumatera Utara,Medan,2023-09-24
+194,CUST-0194,Indra Permana,Female,1978-12-16,Regular,Student,Bali,Badung,2023-03-30
+195,CUST-0195,Eka Pratama,Female,1984-03-07,Regular,Professional,Jawa Timur,Sidoarjo,2024-10-19
+196,CUST-0196,Vina Permana,Female,1989-03-24,Regular,SMB,Jawa Timur,Malang,2024-09-27
+197,CUST-0197,Fajar Siregar,Male,2001-02-27,Gold,Gadget Enthusiast,Sumatera Utara,Medan,2022-10-09
+198,CUST-0198,Hana Saputra,Male,1981-09-15,Silver,SMB,Sumatera Utara,Medan,2024-09-16
+199,CUST-0199,Sari Pratama,Male,1975-09-24,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Utara,2023-01-03
+200,CUST-0200,Dewi Saputra,Male,1981-10-17,Gold,Student,Bali,Denpasar,2024-02-04
+201,CUST-0201,Nadia Gunawan,Male,1984-11-27,Silver,Student,Bali,Denpasar,2022-07-11
+202,CUST-0202,Nadia Halim,Male,1995-01-23,Silver,Gadget Enthusiast,Banten,Tangerang Selatan,2023-11-10
+203,CUST-0203,Wahyu Saputra,Male,1981-12-19,Regular,Student,Bali,Denpasar,2023-07-29
+204,CUST-0204,Vina Susanto,Male,2004-06-01,Silver,Gadget Enthusiast,Sumatera Utara,Medan,2022-06-07
+205,CUST-0205,Joko Wijaya,Female,1996-09-11,Gold,Student,Bali,Denpasar,2024-10-22
+206,CUST-0206,Maya Pratama,Male,2001-02-11,Platinum,Family,DKI Jakarta,Jakarta Utara,2022-03-02
+207,CUST-0207,Indra Gunawan,Female,1992-07-14,Gold,Family,Banten,Tangerang,2023-05-20
+208,CUST-0208,Citra Saputra,Female,1997-11-05,Regular,Student,Jawa Timur,Surabaya,2022-07-07
+209,CUST-0209,Adi Lestari,Female,1978-03-03,Regular,SMB,Banten,Tangerang Selatan,2024-11-15
+210,CUST-0210,Putra Saputra,Female,1992-02-20,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Pusat,2022-06-23
+211,CUST-0211,Vina Santoso,Female,1980-03-09,Silver,Student,Bali,Denpasar,2022-12-09
+212,CUST-0212,Putra Lestari,Female,2000-02-12,Silver,Professional,Banten,Tangerang Selatan,2024-07-26
+213,CUST-0213,Dewi Wijaya,Female,1985-10-13,Regular,SMB,Jawa Timur,Surabaya,2022-10-06
+214,CUST-0214,Joko Permana,Female,1985-03-13,Regular,Gadget Enthusiast,Bali,Denpasar,2023-05-12
+215,CUST-0215,Lina Halim,Female,1978-10-07,Silver,SMB,Jawa Timur,Malang,2022-02-25
+216,CUST-0216,Rani Santoso,Male,2001-07-22,Silver,Professional,Banten,Tangerang Selatan,2023-06-02
+217,CUST-0217,Eka Halim,Female,1994-08-19,Silver,Family,Banten,Tangerang,2025-01-04
+218,CUST-0218,Yuni Saputra,Female,1980-11-20,Platinum,Gadget Enthusiast,DKI Jakarta,Jakarta Selatan,2023-11-11
+219,CUST-0219,Putra Saputra,Female,1982-09-24,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Pusat,2024-08-06
+220,CUST-0220,Wahyu Siregar,Male,1990-02-10,Regular,Professional,Jawa Barat,Depok,2023-12-15
+221,CUST-0221,Joko Permana,Female,1986-08-04,Regular,Family,Banten,Tangerang,2022-04-02
+222,CUST-0222,Dewi Pratama,Male,1996-03-24,Silver,Gadget Enthusiast,Jawa Timur,Sidoarjo,2023-04-20
+223,CUST-0223,Nadia Wijaya,Female,1975-12-20,Regular,Gadget Enthusiast,Jawa Barat,Bogor,2024-03-07
+224,CUST-0224,Adi Santoso,Male,1993-02-26,Regular,Gadget Enthusiast,Jawa Barat,Depok,2022-08-22
+225,CUST-0225,Indra Gunawan,Female,1994-07-19,Regular,Gadget Enthusiast,Bali,Badung,2022-12-20
+226,CUST-0226,Joko Susanto,Male,1985-02-08,Regular,Professional,Bali,Denpasar,2024-11-12
+227,CUST-0227,Nadia Halim,Female,1988-03-16,Silver,Gadget Enthusiast,Bali,Denpasar,2023-08-15
+228,CUST-0228,Eka Wijaya,Male,2002-06-01,Regular,Gadget Enthusiast,Jawa Timur,Malang,2025-02-24
+229,CUST-0229,Tono Gunawan,Female,1997-08-16,Silver,Professional,Banten,Tangerang Selatan,2023-08-22
+230,CUST-0230,Budi Lestari,Male,1999-08-19,Silver,Student,Jawa Barat,Depok,2022-08-22
+231,CUST-0231,Indra Siregar,Male,1999-12-15,Platinum,Student,Jawa Timur,Sidoarjo,2023-05-22
+232,CUST-0232,Joko Pratama,Female,2002-02-15,Regular,SMB,Banten,Tangerang Selatan,2023-12-20
+233,CUST-0233,Yuni Halim,Male,2001-04-26,Regular,Family,Jawa Barat,Bekasi,2025-01-08
+234,CUST-0234,Fajar Permana,Female,1993-05-28,Regular,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2022-05-02
+235,CUST-0235,Indra Wijaya,Male,1979-12-11,Gold,Gadget Enthusiast,Sumatera Utara,Medan,2024-09-29
+236,CUST-0236,Eka Susanto,Female,1987-08-03,Silver,Family,Sumatera Utara,Deli Serdang,2024-01-26
+237,CUST-0237,Rani Gunawan,Male,2002-12-03,Regular,Gadget Enthusiast,Jawa Timur,Sidoarjo,2023-03-10
+238,CUST-0238,Sari Lestari,Female,1992-10-05,Regular,Gadget Enthusiast,Jawa Timur,Malang,2022-02-03
+239,CUST-0239,Dewi Wijaya,Male,2005-07-07,Gold,Family,Banten,Tangerang Selatan,2022-11-22
+240,CUST-0240,Indra Saputra,Female,1977-06-22,Regular,Family,Sumatera Utara,Deli Serdang,2023-04-25
+241,CUST-0241,Putra Saputra,Male,1981-08-03,Regular,Family,Sumatera Utara,Medan,2022-09-04
+242,CUST-0242,Putra Wijaya,Male,1987-02-24,Regular,Family,Banten,Tangerang,2023-09-05
+243,CUST-0243,Eka Halim,Male,1991-10-01,Regular,Professional,Jawa Barat,Bekasi,2022-11-07
+244,CUST-0244,Putra Susanto,Male,1977-02-05,Silver,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2023-12-21
+245,CUST-0245,Putra Permana,Female,1995-02-08,Gold,Student,Jawa Barat,Bekasi,2023-09-10
+246,CUST-0246,Gita Siregar,Female,1984-11-02,Regular,Professional,Bali,Denpasar,2024-10-20
+247,CUST-0247,Yuni Saputra,Female,2004-06-05,Silver,Professional,Bali,Denpasar,2024-08-22
+248,CUST-0248,Citra Pratama,Male,1983-04-02,Platinum,Gadget Enthusiast,Bali,Denpasar,2024-11-03
+249,CUST-0249,Joko Siregar,Female,1977-11-18,Regular,Student,Banten,Tangerang Selatan,2024-11-13
+250,CUST-0250,Gita Wijaya,Female,1993-11-25,Silver,Professional,Bali,Badung,2022-04-29
+251,CUST-0251,Hana Saputra,Female,1994-10-02,Regular,Professional,Banten,Tangerang,2022-01-24
+252,CUST-0252,Fajar Gunawan,Female,1980-06-05,Silver,Student,Jawa Timur,Sidoarjo,2022-03-02
+253,CUST-0253,Lina Halim,Male,1983-12-19,Silver,SMB,Jawa Timur,Sidoarjo,2024-01-08
+254,CUST-0254,Budi Gunawan,Female,1980-05-25,Regular,SMB,Bali,Denpasar,2022-01-06
+255,CUST-0255,Budi Pratama,Female,1986-07-05,Gold,Gadget Enthusiast,Jawa Barat,Bandung,2023-04-05
+256,CUST-0256,Lina Santoso,Female,2001-02-19,Silver,Student,Banten,Tangerang Selatan,2023-01-03
+257,CUST-0257,Hana Siregar,Male,2003-08-28,Regular,SMB,DKI Jakarta,Jakarta Utara,2024-07-24
+258,CUST-0258,Adi Permana,Female,1998-10-08,Silver,Gadget Enthusiast,Jawa Barat,Depok,2023-02-05
+259,CUST-0259,Vina Santoso,Female,1975-04-18,Platinum,Student,Jawa Barat,Bandung,2024-02-10
+260,CUST-0260,Joko Saputra,Female,1990-01-05,Regular,Professional,Jawa Barat,Bekasi,2024-11-30
+261,CUST-0261,Putra Permana,Male,1991-03-21,Regular,SMB,Banten,Tangerang,2022-05-08
+262,CUST-0262,Putra Wijaya,Female,2002-06-26,Regular,Professional,Jawa Barat,Depok,2022-06-02
+263,CUST-0263,Gita Wijaya,Male,1978-03-15,Regular,SMB,Bali,Denpasar,2024-01-04
+264,CUST-0264,Gita Gunawan,Female,2002-02-03,Gold,SMB,Jawa Timur,Malang,2022-03-24
+265,CUST-0265,Gita Permana,Male,2005-06-13,Silver,Family,Jawa Barat,Bandung,2022-12-23
+266,CUST-0266,Adi Halim,Male,1989-02-26,Regular,Student,Banten,Tangerang,2023-04-01
+267,CUST-0267,Eka Santoso,Male,1993-10-09,Platinum,Professional,Banten,Tangerang Selatan,2024-06-27
+268,CUST-0268,Eka Saputra,Male,2005-08-02,Gold,Gadget Enthusiast,Jawa Timur,Surabaya,2024-10-13
+269,CUST-0269,Adi Halim,Male,1986-04-06,Regular,Professional,Sumatera Utara,Deli Serdang,2022-03-12
+270,CUST-0270,Yuni Susanto,Female,1990-07-18,Regular,Gadget Enthusiast,Bali,Denpasar,2022-10-09
+271,CUST-0271,Putra Santoso,Male,1987-12-12,Regular,SMB,Sumatera Utara,Medan,2024-10-25
+272,CUST-0272,Lina Halim,Male,1985-10-08,Gold,Gadget Enthusiast,Jawa Timur,Surabaya,2024-12-20
+273,CUST-0273,Maya Susanto,Male,1982-11-08,Regular,Professional,Jawa Barat,Bekasi,2022-12-27
+274,CUST-0274,Hana Susanto,Female,2004-10-01,Gold,Gadget Enthusiast,Jawa Timur,Sidoarjo,2025-01-15
+275,CUST-0275,Joko Wijaya,Male,1976-04-20,Silver,Student,Banten,Tangerang,2023-11-11
+276,CUST-0276,Yuni Santoso,Male,2004-06-02,Silver,Professional,Jawa Barat,Depok,2022-08-16
+277,CUST-0277,Tono Permana,Female,1993-02-11,Regular,Professional,DKI Jakarta,Jakarta Barat,2024-06-13
+278,CUST-0278,Sari Permana,Male,1996-10-27,Regular,Family,Jawa Barat,Depok,2022-09-18
+279,CUST-0279,Fajar Pratama,Male,1980-10-11,Gold,Professional,Sumatera Utara,Deli Serdang,2023-11-10
+280,CUST-0280,Citra Santoso,Male,1995-02-27,Regular,Family,Jawa Timur,Malang,2023-03-06
+281,CUST-0281,Hana Saputra,Male,1998-01-02,Silver,Professional,Jawa Timur,Malang,2024-04-27
+282,CUST-0282,Sari Halim,Female,1978-08-26,Regular,Student,Jawa Timur,Sidoarjo,2022-03-10
+283,CUST-0283,Joko Pratama,Male,1977-06-06,Regular,Student,Jawa Timur,Malang,2025-01-25
+284,CUST-0284,Citra Permana,Male,1988-11-06,Regular,Family,Bali,Badung,2023-02-25
+285,CUST-0285,Gita Halim,Female,1984-04-04,Silver,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2022-11-11
+286,CUST-0286,Budi Permana,Male,1984-11-21,Regular,Student,DKI Jakarta,Jakarta Utara,2023-02-28
+287,CUST-0287,Fajar Lestari,Male,1984-07-16,Regular,SMB,DKI Jakarta,Jakarta Utara,2024-03-04
+288,CUST-0288,Fajar Permana,Male,1989-01-09,Regular,Family,Banten,Tangerang Selatan,2022-05-07
+289,CUST-0289,Eka Saputra,Female,1999-10-08,Gold,SMB,DKI Jakarta,Jakarta Barat,2024-05-07
+290,CUST-0290,Vina Gunawan,Female,1984-02-13,Silver,SMB,Bali,Denpasar,2022-10-29
+291,CUST-0291,Dewi Gunawan,Male,2000-04-05,Regular,Gadget Enthusiast,Jawa Barat,Bekasi,2023-02-18
+292,CUST-0292,Eka Susanto,Male,1977-07-18,Gold,SMB,Jawa Timur,Malang,2024-12-06
+293,CUST-0293,Putra Saputra,Male,1993-10-19,Gold,SMB,Banten,Tangerang,2022-07-26
+294,CUST-0294,Joko Siregar,Female,1987-11-16,Regular,Gadget Enthusiast,Jawa Timur,Malang,2022-10-22
+295,CUST-0295,Yuni Susanto,Male,1987-06-23,Silver,Family,Sumatera Utara,Deli Serdang,2024-02-02
+296,CUST-0296,Adi Permana,Female,2001-08-28,Regular,Gadget Enthusiast,Jawa Timur,Malang,2023-10-20
+297,CUST-0297,Indra Halim,Male,1989-04-27,Gold,Student,Bali,Denpasar,2023-09-30
+298,CUST-0298,Tono Halim,Male,1981-04-27,Regular,Student,Jawa Barat,Bandung,2024-01-09
+299,CUST-0299,Gita Lestari,Female,1995-02-22,Regular,SMB,Jawa Timur,Malang,2024-07-02
+300,CUST-0300,Fajar Gunawan,Female,1980-05-24,Regular,Student,Bali,Badung,2022-11-30
+301,CUST-0301,Wahyu Santoso,Male,1983-11-14,Gold,Student,Jawa Barat,Bekasi,2024-08-28
+302,CUST-0302,Eka Wijaya,Male,1983-10-26,Silver,Family,Bali,Denpasar,2024-05-17
+303,CUST-0303,Nadia Permana,Male,1989-05-22,Silver,Student,Banten,Tangerang Selatan,2024-11-13
+304,CUST-0304,Maya Siregar,Female,1996-02-16,Platinum,Family,Sumatera Utara,Deli Serdang,2023-07-22
+305,CUST-0305,Indra Lestari,Male,2003-01-26,Silver,Family,Jawa Barat,Bekasi,2023-06-16
+306,CUST-0306,Putra Halim,Male,1985-12-23,Gold,Family,Banten,Tangerang,2024-11-04
+307,CUST-0307,Joko Wijaya,Female,1978-08-05,Silver,SMB,Sumatera Utara,Medan,2023-01-10
+308,CUST-0308,Lina Saputra,Male,1998-05-14,Regular,Family,Jawa Barat,Depok,2024-08-07
+309,CUST-0309,Dewi Gunawan,Female,2003-04-17,Silver,Gadget Enthusiast,DKI Jakarta,Jakarta Pusat,2022-04-21
+310,CUST-0310,Eka Wijaya,Female,1993-08-05,Gold,Gadget Enthusiast,Jawa Barat,Depok,2023-11-13
+311,CUST-0311,Fajar Permana,Male,1989-05-07,Silver,Student,Sumatera Utara,Medan,2022-09-23
+312,CUST-0312,Yuni Halim,Female,1988-08-13,Silver,Family,Sumatera Utara,Deli Serdang,2022-01-29
+313,CUST-0313,Lina Siregar,Male,1995-12-08,Regular,Student,Jawa Barat,Bandung,2024-02-25
+314,CUST-0314,Tono Susanto,Male,2001-01-10,Regular,SMB,Jawa Timur,Surabaya,2024-12-09
+315,CUST-0315,Lina Halim,Female,2003-08-12,Regular,Gadget Enthusiast,Sumatera Utara,Medan,2022-02-09
+316,CUST-0316,Hana Santoso,Male,1998-01-19,Regular,Student,Sumatera Utara,Medan,2024-02-08
+317,CUST-0317,Indra Siregar,Male,1996-02-21,Regular,Student,Bali,Denpasar,2024-05-03
+318,CUST-0318,Rani Halim,Female,1997-03-07,Regular,Student,DKI Jakarta,Jakarta Barat,2024-12-01
+319,CUST-0319,Indra Susanto,Female,2001-02-17,Regular,Student,Bali,Denpasar,2024-10-16
+320,CUST-0320,Gita Susanto,Male,1986-12-14,Regular,Gadget Enthusiast,Jawa Barat,Depok,2023-03-02
+321,CUST-0321,Sari Permana,Male,1996-02-04,Regular,Student,Jawa Barat,Bandung,2024-11-13
+322,CUST-0322,Citra Saputra,Male,1989-05-09,Regular,Professional,Jawa Timur,Sidoarjo,2022-03-22
+323,CUST-0323,Joko Permana,Female,1998-02-04,Regular,Professional,Sumatera Utara,Deli Serdang,2022-12-16
+324,CUST-0324,Lina Permana,Male,1986-06-06,Regular,Gadget Enthusiast,Banten,Tangerang Selatan,2023-07-11
+325,CUST-0325,Nadia Gunawan,Male,1979-12-24,Regular,SMB,Banten,Tangerang,2024-09-15
+326,CUST-0326,Wahyu Gunawan,Female,1994-01-28,Gold,Student,Jawa Barat,Bogor,2024-04-22
+327,CUST-0327,Rani Pratama,Female,1975-12-28,Platinum,Family,DKI Jakarta,Jakarta Barat,2024-11-29
+328,CUST-0328,Tono Susanto,Male,1990-06-22,Gold,SMB,DKI Jakarta,Jakarta Utara,2022-04-22
+329,CUST-0329,Adi Wijaya,Female,2002-03-03,Regular,Family,Bali,Badung,2023-07-24
+330,CUST-0330,Budi Siregar,Female,2001-04-03,Gold,Gadget Enthusiast,Jawa Barat,Bogor,2022-06-30
+331,CUST-0331,Sari Gunawan,Female,1998-11-01,Regular,SMB,Jawa Timur,Surabaya,2025-01-29
+332,CUST-0332,Adi Saputra,Male,1995-11-15,Regular,Student,Bali,Badung,2023-04-02
+333,CUST-0333,Rani Permana,Female,1997-08-04,Regular,Family,Bali,Badung,2023-08-21
+334,CUST-0334,Vina Siregar,Male,1976-03-16,Regular,SMB,Jawa Timur,Sidoarjo,2023-02-06
+335,CUST-0335,Gita Saputra,Female,2001-04-23,Silver,Student,Banten,Tangerang,2022-09-10
+336,CUST-0336,Rani Gunawan,Female,1975-09-24,Gold,SMB,Sumatera Utara,Medan,2024-09-16
+337,CUST-0337,Tono Wijaya,Male,1978-07-22,Silver,Gadget Enthusiast,Sumatera Utara,Medan,2024-05-07
+338,CUST-0338,Yuni Santoso,Female,1984-08-26,Regular,SMB,Jawa Timur,Malang,2023-09-05
+339,CUST-0339,Vina Permana,Male,1981-10-23,Platinum,Professional,Sumatera Utara,Medan,2024-10-28
+340,CUST-0340,Vina Permana,Female,1992-08-19,Gold,SMB,Sumatera Utara,Medan,2022-08-07
+341,CUST-0341,Adi Halim,Male,1981-05-25,Platinum,Family,Jawa Barat,Bandung,2022-10-27
+342,CUST-0342,Budi Lestari,Female,2001-08-04,Silver,Family,Jawa Barat,Bandung,2022-04-07
+343,CUST-0343,Nadia Halim,Male,1975-12-09,Regular,Student,Banten,Tangerang Selatan,2023-01-18
+344,CUST-0344,Fajar Siregar,Male,1988-05-18,Regular,Family,DKI Jakarta,Jakarta Utara,2022-01-12
+345,CUST-0345,Lina Gunawan,Male,1979-06-20,Silver,SMB,Sumatera Utara,Medan,2025-01-31
+346,CUST-0346,Maya Saputra,Male,2005-03-17,Regular,SMB,Sumatera Utara,Deli Serdang,2024-04-06
+347,CUST-0347,Citra Permana,Female,1985-06-10,Platinum,Student,Jawa Barat,Bekasi,2022-08-23
+348,CUST-0348,Maya Gunawan,Male,1996-06-13,Regular,SMB,Jawa Barat,Bekasi,2023-08-03
+349,CUST-0349,Adi Siregar,Female,1990-01-10,Silver,Student,Jawa Timur,Sidoarjo,2022-12-09
+350,CUST-0350,Vina Siregar,Male,1996-11-25,Gold,Professional,DKI Jakarta,Jakarta Pusat,2025-01-06
+351,CUST-0351,Putra Saputra,Male,1989-12-11,Regular,Professional,Sumatera Utara,Medan,2023-05-31
+352,CUST-0352,Vina Saputra,Female,1988-07-15,Regular,Student,Bali,Denpasar,2024-03-08
+353,CUST-0353,Dewi Siregar,Male,1997-02-12,Gold,Family,DKI Jakarta,Jakarta Pusat,2022-06-27
+354,CUST-0354,Joko Gunawan,Male,1990-03-18,Silver,SMB,Banten,Tangerang Selatan,2023-08-28
+355,CUST-0355,Eka Lestari,Male,1992-09-05,Regular,SMB,Sumatera Utara,Deli Serdang,2024-03-18
+356,CUST-0356,Vina Siregar,Male,1998-12-24,Regular,SMB,DKI Jakarta,Jakarta Barat,2022-10-19
+357,CUST-0357,Fajar Wijaya,Male,1978-03-22,Gold,SMB,Jawa Barat,Depok,2024-08-02
+358,CUST-0358,Vina Saputra,Male,1983-02-07,Regular,Professional,Jawa Timur,Sidoarjo,2022-07-24
+359,CUST-0359,Joko Susanto,Female,1990-08-11,Silver,Family,DKI Jakarta,Jakarta Selatan,2023-10-10
+360,CUST-0360,Putra Wijaya,Male,2000-04-23,Gold,Professional,DKI Jakarta,Jakarta Barat,2023-11-11
+361,CUST-0361,Sari Gunawan,Female,1990-09-04,Gold,Professional,Banten,Tangerang Selatan,2025-01-08
+362,CUST-0362,Gita Lestari,Male,2003-01-28,Gold,SMB,Sumatera Utara,Medan,2023-06-18
+363,CUST-0363,Vina Siregar,Female,1987-04-25,Regular,SMB,Banten,Tangerang,2024-11-11
+364,CUST-0364,Citra Halim,Male,1996-04-28,Silver,Professional,Jawa Timur,Sidoarjo,2024-07-02
+365,CUST-0365,Fajar Wijaya,Female,2005-06-02,Regular,Family,Bali,Denpasar,2023-04-25
+366,CUST-0366,Budi Santoso,Female,1990-08-02,Regular,SMB,Bali,Badung,2023-07-15
+367,CUST-0367,Indra Susanto,Female,1995-07-12,Regular,Professional,Bali,Denpasar,2024-11-23
+368,CUST-0368,Nadia Permana,Female,2003-10-01,Regular,Student,Jawa Timur,Malang,2024-11-19
+369,CUST-0369,Indra Santoso,Male,1986-10-23,Silver,Gadget Enthusiast,Jawa Barat,Bekasi,2023-11-08
+370,CUST-0370,Dewi Gunawan,Female,1981-10-06,Regular,Professional,Sumatera Utara,Deli Serdang,2022-11-26
+371,CUST-0371,Eka Siregar,Male,1980-05-06,Gold,Family,DKI Jakarta,Jakarta Selatan,2022-06-25
+372,CUST-0372,Gita Gunawan,Female,1980-04-27,Silver,SMB,Bali,Badung,2023-06-26
+373,CUST-0373,Fajar Permana,Male,1987-07-05,Regular,SMB,Banten,Tangerang,2024-05-09
+374,CUST-0374,Eka Susanto,Female,2003-10-20,Silver,Professional,DKI Jakarta,Jakarta Selatan,2025-01-09
+375,CUST-0375,Adi Halim,Female,2002-01-23,Regular,Gadget Enthusiast,Bali,Badung,2024-02-20
+376,CUST-0376,Maya Susanto,Female,1979-05-16,Gold,Student,Sumatera Utara,Medan,2023-08-04
+377,CUST-0377,Yuni Siregar,Male,1975-12-24,Silver,Student,Banten,Tangerang Selatan,2024-11-30
+378,CUST-0378,Adi Halim,Female,1988-06-04,Silver,Family,Sumatera Utara,Medan,2023-06-20
+379,CUST-0379,Vina Halim,Female,1996-07-25,Silver,SMB,Bali,Badung,2024-09-15
+380,CUST-0380,Fajar Permana,Female,1984-10-12,Gold,Professional,Bali,Badung,2022-07-25
+381,CUST-0381,Gita Siregar,Male,1980-07-21,Gold,Gadget Enthusiast,Banten,Tangerang Selatan,2022-06-30
+382,CUST-0382,Citra Lestari,Male,1994-01-24,Silver,SMB,Jawa Barat,Depok,2023-08-10
+383,CUST-0383,Yuni Pratama,Female,1975-04-28,Regular,SMB,Jawa Barat,Bogor,2024-11-11
+384,CUST-0384,Tono Santoso,Male,1986-04-21,Platinum,Gadget Enthusiast,Bali,Denpasar,2023-12-25
+385,CUST-0385,Nadia Halim,Male,1998-12-03,Silver,SMB,Bali,Denpasar,2023-12-14
+386,CUST-0386,Maya Lestari,Female,2004-07-19,Regular,SMB,Jawa Barat,Bekasi,2022-08-07
+387,CUST-0387,Vina Saputra,Female,2005-02-26,Silver,SMB,Bali,Badung,2022-02-26
+388,CUST-0388,Sari Saputra,Female,1995-04-22,Gold,Gadget Enthusiast,Jawa Timur,Surabaya,2023-12-25
+389,CUST-0389,Tono Siregar,Male,1984-02-13,Regular,Professional,DKI Jakarta,Jakarta Barat,2024-09-02
+390,CUST-0390,Lina Permana,Male,2005-12-22,Silver,Professional,Jawa Barat,Depok,2023-05-11
+391,CUST-0391,Indra Santoso,Male,2001-10-12,Gold,Gadget Enthusiast,Jawa Barat,Bekasi,2022-01-14
+392,CUST-0392,Vina Pratama,Female,1990-10-28,Regular,SMB,Banten,Tangerang Selatan,2023-07-28
+393,CUST-0393,Nadia Santoso,Male,1991-07-16,Regular,Professional,Bali,Denpasar,2024-07-25
+394,CUST-0394,Dewi Siregar,Male,1975-11-07,Regular,Family,Banten,Tangerang Selatan,2023-01-19
+395,CUST-0395,Vina Lestari,Female,2005-10-11,Silver,Professional,Jawa Barat,Depok,2024-05-08
+396,CUST-0396,Maya Permana,Female,1980-10-05,Gold,Family,Banten,Tangerang Selatan,2023-04-28
+397,CUST-0397,Vina Halim,Male,2000-12-05,Regular,Professional,Banten,Tangerang,2024-11-24
+398,CUST-0398,Vina Permana,Female,1992-10-02,Silver,Student,Banten,Tangerang Selatan,2023-03-18
+399,CUST-0399,Indra Gunawan,Female,1998-06-09,Silver,Family,Sumatera Utara,Medan,2023-12-06
+400,CUST-0400,Adi Halim,Male,1993-10-21,Regular,SMB,DKI Jakarta,Jakarta Barat,2024-09-25
+401,CUST-0401,Rani Saputra,Female,1995-03-28,Silver,SMB,Banten,Tangerang Selatan,2024-04-08
+402,CUST-0402,Citra Saputra,Male,1985-06-21,Regular,Gadget Enthusiast,Jawa Barat,Depok,2024-01-14
+403,CUST-0403,Wahyu Siregar,Male,1980-01-05,Silver,Student,Banten,Tangerang Selatan,2023-03-08
+404,CUST-0404,Fajar Halim,Male,2004-08-18,Gold,SMB,DKI Jakarta,Jakarta Pusat,2022-06-20
+405,CUST-0405,Dewi Lestari,Male,1995-07-10,Silver,Gadget Enthusiast,Bali,Denpasar,2022-09-16
+406,CUST-0406,Eka Siregar,Male,1996-06-28,Gold,Gadget Enthusiast,Jawa Barat,Bandung,2025-01-12
+407,CUST-0407,Indra Siregar,Male,1993-10-15,Silver,SMB,Banten,Tangerang,2023-09-27
+408,CUST-0408,Maya Gunawan,Male,1989-05-12,Regular,Student,Bali,Denpasar,2022-01-01
+409,CUST-0409,Tono Wijaya,Female,1992-01-23,Platinum,Gadget Enthusiast,Jawa Timur,Malang,2023-09-06
+410,CUST-0410,Adi Halim,Male,2000-01-18,Regular,SMB,Jawa Timur,Sidoarjo,2024-06-14
+411,CUST-0411,Nadia Santoso,Female,1982-05-03,Regular,SMB,Jawa Barat,Bogor,2023-07-05
+412,CUST-0412,Putra Santoso,Male,1984-02-21,Silver,Gadget Enthusiast,DKI Jakarta,Jakarta Selatan,2023-01-20
+413,CUST-0413,Lina Pratama,Male,1980-02-10,Silver,Student,Jawa Barat,Bandung,2023-04-22
+414,CUST-0414,Citra Wijaya,Male,1985-07-10,Silver,Student,DKI Jakarta,Jakarta Utara,2023-11-08
+415,CUST-0415,Citra Wijaya,Female,1977-09-16,Gold,Family,DKI Jakarta,Jakarta Barat,2024-02-21
+416,CUST-0416,Adi Saputra,Female,1999-08-08,Regular,Student,Sumatera Utara,Medan,2024-12-03
+417,CUST-0417,Gita Gunawan,Female,1980-11-24,Gold,SMB,Banten,Tangerang Selatan,2022-09-08
+418,CUST-0418,Indra Gunawan,Male,1986-01-28,Platinum,Professional,Sumatera Utara,Deli Serdang,2024-06-08
+419,CUST-0419,Lina Pratama,Male,1987-04-01,Silver,Gadget Enthusiast,Jawa Barat,Depok,2022-11-14
+420,CUST-0420,Maya Saputra,Female,1977-11-20,Regular,Professional,Jawa Barat,Bekasi,2025-01-03
+421,CUST-0421,Dewi Wijaya,Female,1992-11-25,Silver,Student,Banten,Tangerang,2024-02-13
+422,CUST-0422,Maya Wijaya,Female,1997-08-18,Regular,Professional,Jawa Timur,Surabaya,2025-01-18
+423,CUST-0423,Maya Permana,Female,2002-10-28,Regular,Professional,Sumatera Utara,Deli Serdang,2024-07-09
+424,CUST-0424,Joko Lestari,Female,1975-11-17,Gold,SMB,Bali,Badung,2023-05-05
+425,CUST-0425,Lina Saputra,Male,1991-11-16,Regular,Family,Sumatera Utara,Deli Serdang,2022-08-15
+426,CUST-0426,Dewi Siregar,Male,2001-03-06,Regular,Gadget Enthusiast,Sumatera Utara,Medan,2023-01-28
+427,CUST-0427,Dewi Pratama,Female,1991-10-23,Regular,Professional,Bali,Badung,2022-05-26
+428,CUST-0428,Adi Santoso,Male,1989-11-02,Gold,Student,Sumatera Utara,Deli Serdang,2023-06-29
+429,CUST-0429,Tono Pratama,Female,1977-04-17,Silver,SMB,Sumatera Utara,Medan,2024-02-29
+430,CUST-0430,Gita Santoso,Male,1992-12-18,Gold,Professional,Bali,Denpasar,2023-01-05
+431,CUST-0431,Vina Halim,Male,1992-10-15,Gold,SMB,Bali,Badung,2023-10-27
+432,CUST-0432,Maya Halim,Female,1994-04-19,Regular,SMB,Sumatera Utara,Deli Serdang,2023-06-05
+433,CUST-0433,Maya Gunawan,Male,1998-01-10,Silver,Family,Banten,Tangerang Selatan,2022-01-14
+434,CUST-0434,Joko Santoso,Male,1999-12-27,Regular,Family,Jawa Barat,Depok,2022-11-16
+435,CUST-0435,Eka Lestari,Male,1982-05-26,Silver,SMB,Jawa Timur,Sidoarjo,2023-03-22
+436,CUST-0436,Citra Permana,Female,2001-12-23,Silver,Family,Banten,Tangerang,2022-03-18
+437,CUST-0437,Wahyu Halim,Female,1986-07-14,Silver,SMB,DKI Jakarta,Jakarta Pusat,2022-01-24
+438,CUST-0438,Nadia Pratama,Male,1985-09-19,Silver,Professional,Jawa Timur,Sidoarjo,2022-11-10
+439,CUST-0439,Budi Halim,Male,1988-05-26,Regular,Student,Banten,Tangerang,2024-09-01
+440,CUST-0440,Wahyu Pratama,Female,1977-07-17,Gold,Gadget Enthusiast,Bali,Badung,2025-02-19
+441,CUST-0441,Gita Gunawan,Male,1982-02-09,Regular,SMB,Banten,Tangerang,2022-07-03
+442,CUST-0442,Dewi Halim,Female,1981-06-12,Platinum,SMB,Banten,Tangerang Selatan,2024-06-24
+443,CUST-0443,Yuni Wijaya,Male,1981-11-12,Silver,Professional,Banten,Tangerang,2022-10-30
+444,CUST-0444,Joko Pratama,Male,1984-08-16,Regular,SMB,Jawa Timur,Sidoarjo,2023-03-10
+445,CUST-0445,Gita Siregar,Female,1994-12-05,Regular,SMB,Bali,Badung,2022-03-31
+446,CUST-0446,Indra Wijaya,Male,2000-12-20,Regular,Student,DKI Jakarta,Jakarta Barat,2022-05-17
+447,CUST-0447,Nadia Lestari,Male,1975-05-28,Platinum,SMB,Sumatera Utara,Deli Serdang,2022-07-23
+448,CUST-0448,Lina Gunawan,Male,1981-09-15,Regular,SMB,Bali,Denpasar,2023-09-17
+449,CUST-0449,Lina Gunawan,Male,1986-11-12,Platinum,SMB,Banten,Tangerang,2023-07-19
+450,CUST-0450,Budi Lestari,Female,1982-03-11,Silver,Student,Banten,Tangerang,2024-02-22
+451,CUST-0451,Tono Susanto,Female,1982-10-05,Regular,Professional,Sumatera Utara,Medan,2023-02-28
+452,CUST-0452,Eka Susanto,Male,1984-12-23,Regular,Professional,Bali,Denpasar,2022-11-20
+453,CUST-0453,Lina Saputra,Male,1985-03-24,Platinum,Family,Bali,Denpasar,2024-06-26
+454,CUST-0454,Indra Wijaya,Male,1980-01-25,Silver,SMB,Jawa Barat,Bandung,2023-04-18
+455,CUST-0455,Yuni Santoso,Female,1977-12-25,Silver,SMB,Jawa Barat,Bandung,2024-08-18
+456,CUST-0456,Maya Wijaya,Female,1979-03-07,Regular,Student,Banten,Tangerang Selatan,2023-07-07
+457,CUST-0457,Putra Santoso,Male,1977-03-15,Regular,Student,Sumatera Utara,Medan,2024-02-19
+458,CUST-0458,Lina Halim,Male,1989-08-27,Gold,Professional,Bali,Denpasar,2024-11-28
+459,CUST-0459,Vina Halim,Female,1991-11-02,Regular,Family,Sumatera Utara,Medan,2023-08-09
+460,CUST-0460,Rani Wijaya,Male,1997-09-05,Regular,SMB,Banten,Tangerang Selatan,2022-08-20
+461,CUST-0461,Fajar Susanto,Female,1988-06-15,Regular,Professional,Sumatera Utara,Medan,2024-07-20
+462,CUST-0462,Citra Lestari,Male,1997-12-04,Silver,Family,Jawa Timur,Sidoarjo,2022-06-24
+463,CUST-0463,Tono Halim,Female,1992-07-02,Gold,SMB,Sumatera Utara,Medan,2022-11-04
+464,CUST-0464,Fajar Wijaya,Female,1984-05-24,Silver,Student,Jawa Barat,Bandung,2022-09-27
+465,CUST-0465,Gita Pratama,Male,1989-08-28,Silver,Gadget Enthusiast,Bali,Badung,2023-05-03
+466,CUST-0466,Gita Susanto,Female,1988-08-03,Gold,Family,Sumatera Utara,Deli Serdang,2025-02-15
+467,CUST-0467,Gita Pratama,Male,1995-06-02,Silver,SMB,Jawa Barat,Bekasi,2023-09-04
+468,CUST-0468,Lina Saputra,Female,1980-03-22,Platinum,SMB,DKI Jakarta,Jakarta Pusat,2024-01-08
+469,CUST-0469,Budi Saputra,Female,2003-07-27,Regular,Professional,Jawa Timur,Malang,2022-09-07
+470,CUST-0470,Indra Permana,Male,1997-04-20,Silver,SMB,Bali,Badung,2022-06-29
+471,CUST-0471,Sari Susanto,Female,1994-06-09,Silver,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2024-10-05
+472,CUST-0472,Fajar Susanto,Male,1975-02-01,Silver,Professional,Jawa Barat,Depok,2024-04-29
+473,CUST-0473,Putra Pratama,Male,1975-11-07,Regular,Student,Jawa Timur,Malang,2023-09-23
+474,CUST-0474,Joko Siregar,Male,1978-11-11,Silver,SMB,Bali,Badung,2022-03-01
+475,CUST-0475,Fajar Santoso,Female,2004-08-26,Regular,Professional,Jawa Timur,Malang,2024-08-01
+476,CUST-0476,Vina Permana,Male,2001-09-10,Silver,Student,Banten,Tangerang Selatan,2023-03-03
+477,CUST-0477,Wahyu Permana,Male,1983-01-11,Silver,Professional,Jawa Timur,Surabaya,2024-03-08
+478,CUST-0478,Fajar Susanto,Female,1997-01-09,Silver,Professional,DKI Jakarta,Jakarta Barat,2024-02-01
+479,CUST-0479,Rani Lestari,Male,1978-06-26,Silver,Gadget Enthusiast,Jawa Barat,Depok,2024-10-21
+480,CUST-0480,Eka Santoso,Female,1999-06-05,Regular,Student,Jawa Timur,Malang,2024-07-29
+481,CUST-0481,Nadia Siregar,Female,2004-01-22,Regular,Student,DKI Jakarta,Jakarta Pusat,2022-07-31
+482,CUST-0482,Tono Lestari,Male,1985-04-07,Silver,Gadget Enthusiast,DKI Jakarta,Jakarta Barat,2022-08-29
+483,CUST-0483,Indra Wijaya,Male,1975-10-18,Regular,Family,Jawa Barat,Depok,2025-01-30
+484,CUST-0484,Lina Lestari,Male,1980-02-10,Regular,Gadget Enthusiast,Jawa Barat,Depok,2022-04-14
+485,CUST-0485,Dewi Halim,Female,1987-03-23,Silver,Family,DKI Jakarta,Jakarta Pusat,2023-11-12
+486,CUST-0486,Gita Siregar,Male,1977-12-15,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Utara,2024-08-21
+487,CUST-0487,Hana Santoso,Female,1987-03-23,Silver,Student,Jawa Barat,Depok,2024-08-31
+488,CUST-0488,Dewi Permana,Male,1984-06-20,Silver,Gadget Enthusiast,Banten,Tangerang Selatan,2022-08-08
+489,CUST-0489,Lina Siregar,Female,1992-08-13,Regular,Professional,Sumatera Utara,Medan,2025-01-27
+490,CUST-0490,Fajar Gunawan,Female,1981-12-19,Silver,Family,Banten,Tangerang,2025-01-20
+491,CUST-0491,Hana Wijaya,Female,1978-10-20,Silver,Gadget Enthusiast,Sumatera Utara,Medan,2022-12-27
+492,CUST-0492,Joko Halim,Female,1985-08-21,Regular,Professional,DKI Jakarta,Jakarta Pusat,2022-01-01
+493,CUST-0493,Eka Wijaya,Female,1994-10-15,Silver,Family,Banten,Tangerang Selatan,2023-09-06
+494,CUST-0494,Wahyu Lestari,Male,1993-01-20,Regular,SMB,Banten,Tangerang Selatan,2022-04-19
+495,CUST-0495,Adi Siregar,Female,2002-01-08,Silver,Gadget Enthusiast,Jawa Timur,Surabaya,2024-04-11
+496,CUST-0496,Nadia Halim,Male,1990-03-07,Gold,Family,Bali,Denpasar,2024-05-04
+497,CUST-0497,Eka Lestari,Male,1975-02-21,Silver,Gadget Enthusiast,Sumatera Utara,Medan,2024-06-13
+498,CUST-0498,Eka Saputra,Female,2003-12-20,Silver,Gadget Enthusiast,Jawa Barat,Bogor,2024-11-09
+499,CUST-0499,Putra Siregar,Female,1982-03-14,Silver,Professional,Banten,Tangerang Selatan,2024-10-24
+500,CUST-0500,Indra Halim,Male,1976-10-16,Regular,Gadget Enthusiast,Bali,Badung,2022-06-13
+501,CUST-0501,Eka Siregar,Male,1991-10-03,Silver,Student,Jawa Timur,Malang,2025-01-09
+502,CUST-0502,Wahyu Lestari,Female,1992-01-16,Silver,Family,Bali,Denpasar,2024-05-12
+503,CUST-0503,Maya Lestari,Male,1997-10-24,Silver,SMB,Jawa Timur,Surabaya,2022-12-13
+504,CUST-0504,Wahyu Pratama,Male,1984-08-03,Regular,SMB,Sumatera Utara,Deli Serdang,2023-07-30
+505,CUST-0505,Indra Lestari,Male,2004-10-24,Gold,Family,DKI Jakarta,Jakarta Pusat,2023-04-29
+506,CUST-0506,Sari Wijaya,Female,1977-03-20,Gold,Professional,Bali,Denpasar,2024-06-20
+507,CUST-0507,Fajar Santoso,Male,1995-05-25,Regular,Gadget Enthusiast,Bali,Badung,2024-03-27
+508,CUST-0508,Sari Lestari,Female,1996-12-13,Regular,Gadget Enthusiast,Banten,Tangerang,2022-01-25
+509,CUST-0509,Joko Gunawan,Male,1978-09-21,Silver,Family,Banten,Tangerang Selatan,2023-11-18
+510,CUST-0510,Indra Lestari,Female,1989-11-24,Silver,Professional,DKI Jakarta,Jakarta Barat,2023-10-04
+511,CUST-0511,Vina Pratama,Male,1975-07-04,Silver,Family,Sumatera Utara,Medan,2023-03-26
+512,CUST-0512,Joko Lestari,Male,1994-02-02,Platinum,Student,Jawa Barat,Bandung,2022-09-03
+513,CUST-0513,Citra Susanto,Male,2003-02-23,Regular,Student,Jawa Barat,Bogor,2024-07-17
+514,CUST-0514,Indra Halim,Female,1980-02-09,Regular,Family,Sumatera Utara,Deli Serdang,2022-05-04
+515,CUST-0515,Indra Lestari,Male,1990-04-20,Silver,Student,Jawa Barat,Bogor,2022-10-22
+516,CUST-0516,Vina Halim,Female,1997-05-04,Regular,Family,Jawa Barat,Bandung,2024-07-02
+517,CUST-0517,Adi Gunawan,Male,1996-07-09,Silver,Gadget Enthusiast,Jawa Barat,Bandung,2024-09-06
+518,CUST-0518,Putra Halim,Male,1975-07-23,Silver,Family,Sumatera Utara,Medan,2023-11-14
+519,CUST-0519,Joko Halim,Female,1992-06-03,Gold,Family,DKI Jakarta,Jakarta Pusat,2023-02-20
+520,CUST-0520,Fajar Siregar,Male,1984-12-13,Silver,Family,DKI Jakarta,Jakarta Utara,2024-09-23
+521,CUST-0521,Citra Gunawan,Male,1976-04-01,Silver,Student,Sumatera Utara,Medan,2025-01-12
+522,CUST-0522,Joko Gunawan,Male,1976-06-02,Regular,Professional,Bali,Badung,2024-12-07
+523,CUST-0523,Rani Siregar,Male,1976-12-05,Gold,SMB,Jawa Barat,Bekasi,2022-04-04
+524,CUST-0524,Hana Wijaya,Male,2003-05-27,Regular,Professional,DKI Jakarta,Jakarta Selatan,2022-05-11
+525,CUST-0525,Dewi Saputra,Male,2000-04-14,Regular,SMB,Banten,Tangerang,2025-01-22
+526,CUST-0526,Eka Permana,Male,1985-02-04,Silver,Professional,Jawa Barat,Bandung,2024-01-28
+527,CUST-0527,Vina Wijaya,Male,1979-02-26,Gold,Student,Banten,Tangerang,2024-09-24
+528,CUST-0528,Citra Pratama,Male,1997-11-19,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Selatan,2022-09-17
+529,CUST-0529,Gita Wijaya,Female,1988-04-06,Regular,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2022-06-30
+530,CUST-0530,Joko Permana,Male,1981-02-17,Silver,SMB,Banten,Tangerang,2024-11-05
+531,CUST-0531,Hana Gunawan,Female,1976-04-04,Silver,Gadget Enthusiast,Sumatera Utara,Medan,2024-10-15
+532,CUST-0532,Fajar Wijaya,Male,1995-06-10,Regular,SMB,Sumatera Utara,Medan,2024-07-17
+533,CUST-0533,Budi Saputra,Male,1980-01-16,Regular,Professional,Sumatera Utara,Medan,2024-06-29
+534,CUST-0534,Wahyu Susanto,Male,1998-11-11,Regular,Professional,Jawa Timur,Malang,2024-04-24
+535,CUST-0535,Gita Halim,Female,1993-08-02,Regular,SMB,Jawa Barat,Bandung,2024-07-20
+536,CUST-0536,Fajar Halim,Female,1998-04-21,Regular,Student,Jawa Timur,Surabaya,2022-05-03
+537,CUST-0537,Indra Wijaya,Female,1988-03-25,Gold,SMB,DKI Jakarta,Jakarta Utara,2022-11-18
+538,CUST-0538,Yuni Wijaya,Male,1988-09-16,Regular,Gadget Enthusiast,Bali,Denpasar,2023-05-21
+539,CUST-0539,Hana Permana,Male,2004-10-01,Platinum,SMB,Banten,Tangerang,2022-03-10
+540,CUST-0540,Putra Siregar,Male,1989-08-08,Silver,Gadget Enthusiast,Banten,Tangerang Selatan,2023-03-23
+541,CUST-0541,Eka Permana,Male,1975-08-22,Silver,SMB,Jawa Timur,Surabaya,2022-02-19
+542,CUST-0542,Rani Gunawan,Male,2000-06-21,Gold,Student,Jawa Barat,Bogor,2024-02-28
+543,CUST-0543,Lina Siregar,Female,1999-05-23,Gold,Student,DKI Jakarta,Jakarta Barat,2023-11-19
+544,CUST-0544,Budi Siregar,Male,1978-07-12,Regular,SMB,Sumatera Utara,Deli Serdang,2022-05-18
+545,CUST-0545,Vina Santoso,Male,1992-02-21,Regular,Family,Jawa Barat,Depok,2024-10-28
+546,CUST-0546,Putra Lestari,Female,1986-08-16,Regular,SMB,DKI Jakarta,Jakarta Pusat,2024-12-27
+547,CUST-0547,Joko Gunawan,Male,1981-08-03,Gold,Family,Bali,Badung,2022-06-07
+548,CUST-0548,Dewi Wijaya,Male,1990-03-28,Regular,SMB,Jawa Timur,Surabaya,2022-09-28
+549,CUST-0549,Sari Permana,Male,1984-04-03,Gold,SMB,Banten,Tangerang Selatan,2023-11-19
+550,CUST-0550,Putra Susanto,Female,1990-10-22,Regular,Professional,Jawa Timur,Sidoarjo,2023-09-20
+551,CUST-0551,Fajar Lestari,Female,1984-01-05,Regular,Professional,Jawa Barat,Bogor,2022-11-26
+552,CUST-0552,Vina Lestari,Male,1980-04-04,Regular,Professional,Jawa Barat,Bekasi,2023-02-25
+553,CUST-0553,Vina Pratama,Female,1979-06-15,Gold,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2024-10-19
+554,CUST-0554,Eka Gunawan,Male,1998-09-17,Regular,Family,Jawa Timur,Surabaya,2022-10-29
+555,CUST-0555,Wahyu Gunawan,Male,1998-08-02,Regular,Gadget Enthusiast,Jawa Timur,Sidoarjo,2023-03-28
+556,CUST-0556,Rani Permana,Male,1994-11-07,Regular,SMB,DKI Jakarta,Jakarta Barat,2024-07-01
+557,CUST-0557,Citra Siregar,Female,1985-10-20,Regular,Gadget Enthusiast,Banten,Tangerang,2024-01-28
+558,CUST-0558,Nadia Permana,Female,1986-05-15,Silver,Gadget Enthusiast,DKI Jakarta,Jakarta Barat,2024-05-01
+559,CUST-0559,Rani Lestari,Female,1979-10-20,Regular,Gadget Enthusiast,Jawa Barat,Bogor,2024-12-11
+560,CUST-0560,Lina Saputra,Male,1975-07-21,Regular,SMB,Bali,Badung,2024-08-04
+561,CUST-0561,Wahyu Wijaya,Female,1984-09-16,Gold,Family,Jawa Barat,Bekasi,2024-10-08
+562,CUST-0562,Vina Gunawan,Male,1979-05-10,Silver,Family,Jawa Barat,Bandung,2024-05-04
+563,CUST-0563,Fajar Gunawan,Male,1978-05-16,Silver,SMB,Sumatera Utara,Medan,2024-09-11
+564,CUST-0564,Wahyu Halim,Female,1997-02-12,Gold,Professional,Jawa Timur,Sidoarjo,2022-04-30
+565,CUST-0565,Eka Permana,Female,1980-01-09,Silver,Family,Banten,Tangerang,2022-04-10
+566,CUST-0566,Joko Lestari,Male,1999-11-06,Silver,Professional,Bali,Denpasar,2025-01-18
+567,CUST-0567,Lina Permana,Female,1996-12-23,Silver,Family,Sumatera Utara,Deli Serdang,2022-10-22
+568,CUST-0568,Adi Wijaya,Female,1999-08-14,Regular,Professional,Bali,Badung,2024-10-27
+569,CUST-0569,Hana Santoso,Female,1989-02-04,Gold,Gadget Enthusiast,Bali,Denpasar,2023-12-15
+570,CUST-0570,Joko Permana,Female,1980-12-10,Gold,Professional,Jawa Barat,Bogor,2022-09-21
+571,CUST-0571,Eka Santoso,Male,1979-02-14,Regular,Gadget Enthusiast,Jawa Timur,Surabaya,2024-06-02
+572,CUST-0572,Budi Santoso,Male,1990-02-09,Regular,Student,DKI Jakarta,Jakarta Pusat,2022-07-17
+573,CUST-0573,Dewi Susanto,Male,1996-06-01,Gold,Family,Jawa Barat,Bekasi,2023-12-14
+574,CUST-0574,Maya Wijaya,Male,1978-10-25,Regular,Professional,Bali,Denpasar,2023-08-01
+575,CUST-0575,Fajar Siregar,Male,2004-09-28,Regular,SMB,DKI Jakarta,Jakarta Pusat,2023-01-15
+576,CUST-0576,Rani Saputra,Female,1988-04-17,Regular,Family,Jawa Barat,Depok,2022-09-11
+577,CUST-0577,Rani Saputra,Female,1999-06-23,Regular,Gadget Enthusiast,Bali,Denpasar,2022-08-25
+578,CUST-0578,Nadia Lestari,Female,1982-09-14,Regular,Student,Banten,Tangerang Selatan,2024-09-01
+579,CUST-0579,Maya Wijaya,Male,1987-08-17,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Utara,2022-07-28
+580,CUST-0580,Fajar Saputra,Female,1981-10-28,Regular,Gadget Enthusiast,Jawa Timur,Surabaya,2024-10-19
+581,CUST-0581,Indra Susanto,Female,1986-08-22,Gold,Student,Bali,Badung,2022-09-08
+582,CUST-0582,Indra Gunawan,Male,1975-02-24,Silver,Professional,Banten,Tangerang,2024-02-23
+583,CUST-0583,Yuni Permana,Male,1999-02-22,Gold,Professional,Jawa Barat,Depok,2023-08-25
+584,CUST-0584,Sari Gunawan,Female,2000-09-18,Platinum,Student,Bali,Badung,2024-02-25
+585,CUST-0585,Rani Permana,Female,1976-01-06,Silver,Professional,Banten,Tangerang Selatan,2023-10-02
+586,CUST-0586,Nadia Gunawan,Female,1990-09-28,Regular,SMB,DKI Jakarta,Jakarta Utara,2024-02-13
+587,CUST-0587,Yuni Permana,Male,1975-10-02,Gold,SMB,Jawa Timur,Malang,2022-02-25
+588,CUST-0588,Lina Halim,Female,1986-07-12,Regular,Professional,DKI Jakarta,Jakarta Utara,2023-10-02
+589,CUST-0589,Wahyu Saputra,Female,1978-06-06,Regular,Gadget Enthusiast,Sumatera Utara,Medan,2024-05-15
+590,CUST-0590,Wahyu Siregar,Male,1997-08-19,Silver,Family,Banten,Tangerang Selatan,2022-07-20
+591,CUST-0591,Sari Saputra,Female,1990-09-26,Silver,Family,Sumatera Utara,Medan,2024-06-11
+592,CUST-0592,Gita Gunawan,Male,1984-05-02,Gold,SMB,Sumatera Utara,Medan,2022-07-08
+593,CUST-0593,Wahyu Saputra,Female,1977-10-26,Regular,Family,Bali,Badung,2022-06-07
+594,CUST-0594,Joko Siregar,Female,1981-07-13,Silver,SMB,Jawa Timur,Malang,2023-01-05
+595,CUST-0595,Adi Siregar,Male,1996-12-15,Gold,Student,Jawa Barat,Bogor,2024-12-05
+596,CUST-0596,Gita Permana,Male,1979-12-22,Gold,Gadget Enthusiast,Banten,Tangerang,2023-10-15
+597,CUST-0597,Citra Santoso,Female,1995-03-09,Regular,Professional,Banten,Tangerang Selatan,2023-01-29
+598,CUST-0598,Adi Santoso,Female,1992-07-14,Regular,Professional,Jawa Timur,Malang,2022-03-01
+599,CUST-0599,Indra Lestari,Male,2005-12-16,Regular,Student,Sumatera Utara,Medan,2023-10-05
+600,CUST-0600,Yuni Lestari,Female,1996-11-03,Regular,SMB,DKI Jakarta,Jakarta Utara,2024-10-21
+601,CUST-0601,Dewi Siregar,Female,2003-02-08,Gold,Family,Sumatera Utara,Deli Serdang,2023-11-06
+602,CUST-0602,Wahyu Halim,Female,1981-03-04,Platinum,Gadget Enthusiast,Sumatera Utara,Medan,2024-04-16
+603,CUST-0603,Indra Susanto,Female,1997-02-11,Regular,Professional,DKI Jakarta,Jakarta Utara,2023-07-23
+604,CUST-0604,Eka Permana,Female,1975-11-20,Gold,Professional,Banten,Tangerang Selatan,2023-06-03
+605,CUST-0605,Vina Halim,Female,2003-11-04,Regular,Gadget Enthusiast,Jawa Timur,Sidoarjo,2023-06-08
+606,CUST-0606,Joko Saputra,Male,2002-03-15,Gold,Gadget Enthusiast,Jawa Barat,Depok,2022-03-11
+607,CUST-0607,Indra Saputra,Female,2004-06-23,Regular,SMB,Banten,Tangerang Selatan,2023-11-01
+608,CUST-0608,Rani Pratama,Female,2000-11-05,Regular,Family,DKI Jakarta,Jakarta Selatan,2023-10-05
+609,CUST-0609,Wahyu Saputra,Male,1991-12-25,Gold,Gadget Enthusiast,DKI Jakarta,Jakarta Selatan,2023-10-17
+610,CUST-0610,Rani Gunawan,Female,1980-11-19,Gold,Professional,Sumatera Utara,Medan,2022-06-22
+611,CUST-0611,Putra Permana,Female,2005-10-08,Regular,Professional,Jawa Barat,Bogor,2022-04-12
+612,CUST-0612,Nadia Susanto,Male,1977-06-06,Silver,Gadget Enthusiast,Banten,Tangerang Selatan,2024-07-18
+613,CUST-0613,Sari Saputra,Male,2005-05-10,Regular,Gadget Enthusiast,Jawa Barat,Bekasi,2023-02-28
+614,CUST-0614,Yuni Santoso,Male,1988-03-14,Regular,Family,Jawa Timur,Sidoarjo,2023-04-28
+615,CUST-0615,Yuni Gunawan,Female,1977-01-16,Silver,Gadget Enthusiast,Jawa Barat,Depok,2024-05-16
+616,CUST-0616,Yuni Lestari,Male,1976-06-08,Regular,SMB,DKI Jakarta,Jakarta Pusat,2024-02-20
+617,CUST-0617,Joko Halim,Male,2005-09-02,Regular,SMB,Sumatera Utara,Deli Serdang,2024-10-06
+618,CUST-0618,Lina Gunawan,Female,1997-09-14,Regular,Student,Jawa Barat,Bandung,2022-09-19
+619,CUST-0619,Sari Lestari,Female,1984-05-20,Silver,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2022-12-04
+620,CUST-0620,Lina Gunawan,Male,1981-03-02,Regular,Family,Jawa Barat,Bogor,2022-12-01
+621,CUST-0621,Rani Halim,Male,1989-06-23,Regular,Student,DKI Jakarta,Jakarta Utara,2022-10-31
+622,CUST-0622,Dewi Permana,Female,1980-03-24,Silver,Student,DKI Jakarta,Jakarta Selatan,2024-12-13
+623,CUST-0623,Wahyu Wijaya,Male,1999-08-22,Regular,Student,Banten,Tangerang,2024-03-18
+624,CUST-0624,Maya Susanto,Male,1975-02-15,Regular,Family,DKI Jakarta,Jakarta Barat,2022-01-12
+625,CUST-0625,Lina Pratama,Female,2005-12-24,Gold,Family,Sumatera Utara,Deli Serdang,2023-10-24
+626,CUST-0626,Budi Saputra,Male,1987-05-06,Regular,Professional,Bali,Badung,2022-11-30
+627,CUST-0627,Nadia Halim,Male,1978-05-16,Silver,Family,Jawa Timur,Sidoarjo,2022-09-26
+628,CUST-0628,Maya Saputra,Male,1990-08-13,Silver,Gadget Enthusiast,Jawa Timur,Sidoarjo,2022-07-04
+629,CUST-0629,Putra Permana,Female,1995-07-03,Regular,Gadget Enthusiast,Bali,Denpasar,2023-04-05
+630,CUST-0630,Eka Gunawan,Female,1989-07-03,Regular,Professional,Bali,Denpasar,2023-09-08
+631,CUST-0631,Hana Siregar,Male,1992-02-02,Silver,Gadget Enthusiast,Banten,Tangerang Selatan,2022-07-13
+632,CUST-0632,Rani Susanto,Female,1993-02-25,Regular,Gadget Enthusiast,Jawa Timur,Malang,2023-01-03
+633,CUST-0633,Fajar Halim,Female,2003-12-10,Silver,Gadget Enthusiast,DKI Jakarta,Jakarta Pusat,2023-06-27
+634,CUST-0634,Lina Wijaya,Male,1998-10-09,Silver,Student,Jawa Barat,Bekasi,2024-03-19
+635,CUST-0635,Dewi Pratama,Female,1997-07-28,Regular,SMB,Jawa Barat,Bogor,2024-01-09
+636,CUST-0636,Nadia Lestari,Male,1975-04-04,Silver,Professional,DKI Jakarta,Jakarta Selatan,2022-02-24
+637,CUST-0637,Gita Gunawan,Male,1988-11-28,Regular,Gadget Enthusiast,Sumatera Utara,Medan,2022-10-31
+638,CUST-0638,Sari Halim,Male,2003-03-24,Platinum,Gadget Enthusiast,DKI Jakarta,Jakarta Pusat,2022-02-10
+639,CUST-0639,Rani Susanto,Female,1993-07-02,Regular,Gadget Enthusiast,Jawa Barat,Bekasi,2024-05-01
+640,CUST-0640,Sari Susanto,Male,1990-07-16,Regular,Student,Bali,Badung,2024-12-17
+641,CUST-0641,Adi Halim,Male,1983-11-14,Regular,SMB,Bali,Badung,2023-12-12
+642,CUST-0642,Rani Halim,Female,1998-04-16,Regular,Professional,DKI Jakarta,Jakarta Selatan,2023-11-26
+643,CUST-0643,Yuni Gunawan,Female,2005-07-27,Silver,Student,Jawa Barat,Depok,2024-09-15
+644,CUST-0644,Eka Wijaya,Female,1978-07-16,Regular,Student,Jawa Barat,Bekasi,2022-02-07
+645,CUST-0645,Maya Lestari,Male,1980-09-02,Regular,Student,Jawa Timur,Sidoarjo,2023-04-10
+646,CUST-0646,Dewi Siregar,Female,1985-06-25,Silver,Gadget Enthusiast,Jawa Barat,Bogor,2024-07-25
+647,CUST-0647,Dewi Saputra,Male,1991-02-06,Gold,Family,Bali,Denpasar,2022-11-18
+648,CUST-0648,Joko Gunawan,Male,1979-11-12,Gold,Gadget Enthusiast,Bali,Badung,2024-05-01
+649,CUST-0649,Adi Santoso,Female,1991-03-03,Silver,Gadget Enthusiast,Banten,Tangerang Selatan,2024-01-09
+650,CUST-0650,Hana Wijaya,Male,1979-07-14,Gold,SMB,Bali,Badung,2024-01-11
+651,CUST-0651,Adi Gunawan,Male,1977-06-11,Regular,Gadget Enthusiast,Jawa Barat,Bandung,2022-03-17
+652,CUST-0652,Eka Susanto,Female,1987-11-23,Gold,Student,DKI Jakarta,Jakarta Barat,2023-07-27
+653,CUST-0653,Tono Susanto,Female,1995-04-18,Gold,Family,Jawa Barat,Bogor,2022-06-22
+654,CUST-0654,Budi Siregar,Male,1991-09-10,Silver,Family,Jawa Timur,Malang,2024-12-03
+655,CUST-0655,Lina Wijaya,Female,1982-05-24,Silver,Family,DKI Jakarta,Jakarta Pusat,2023-06-16
+656,CUST-0656,Tono Permana,Male,1989-05-19,Regular,Professional,DKI Jakarta,Jakarta Pusat,2024-12-28
+657,CUST-0657,Yuni Santoso,Female,1996-12-19,Silver,SMB,Jawa Timur,Malang,2023-05-23
+658,CUST-0658,Dewi Permana,Female,1989-02-05,Gold,Student,Bali,Denpasar,2022-07-08
+659,CUST-0659,Budi Halim,Male,1989-02-12,Gold,SMB,Jawa Barat,Bogor,2024-10-18
+660,CUST-0660,Putra Gunawan,Female,2001-03-05,Silver,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2022-09-22
+661,CUST-0661,Tono Siregar,Female,1990-01-24,Gold,Student,DKI Jakarta,Jakarta Selatan,2024-04-16
+662,CUST-0662,Dewi Saputra,Female,1976-09-05,Regular,Family,Jawa Timur,Sidoarjo,2023-09-14
+663,CUST-0663,Joko Gunawan,Male,2000-10-14,Gold,Professional,DKI Jakarta,Jakarta Selatan,2023-01-10
+664,CUST-0664,Sari Pratama,Male,2002-01-14,Gold,SMB,DKI Jakarta,Jakarta Barat,2022-09-29
+665,CUST-0665,Eka Siregar,Female,1996-08-05,Gold,SMB,Sumatera Utara,Deli Serdang,2024-04-18
+666,CUST-0666,Nadia Santoso,Male,2005-11-15,Silver,Professional,Banten,Tangerang Selatan,2022-02-20
+667,CUST-0667,Wahyu Lestari,Male,1981-10-18,Regular,SMB,Bali,Denpasar,2023-01-04
+668,CUST-0668,Adi Lestari,Female,1977-09-20,Silver,Gadget Enthusiast,Jawa Barat,Bekasi,2022-02-17
+669,CUST-0669,Lina Halim,Male,2002-09-11,Regular,Student,Jawa Barat,Bogor,2025-01-14
+670,CUST-0670,Fajar Lestari,Female,1999-02-05,Silver,Family,Jawa Barat,Bekasi,2023-01-07
+671,CUST-0671,Adi Pratama,Male,1985-03-14,Regular,Student,Jawa Timur,Malang,2022-04-17
+672,CUST-0672,Gita Santoso,Female,1991-09-13,Regular,Family,Bali,Denpasar,2024-08-09
+673,CUST-0673,Vina Halim,Male,1988-11-08,Silver,SMB,DKI Jakarta,Jakarta Utara,2022-07-27
+674,CUST-0674,Hana Siregar,Female,1993-07-15,Regular,Professional,Sumatera Utara,Medan,2023-05-18
+675,CUST-0675,Vina Halim,Male,1975-08-27,Silver,Professional,Bali,Badung,2022-01-02
+676,CUST-0676,Budi Gunawan,Female,2001-11-13,Gold,Professional,Jawa Timur,Sidoarjo,2024-11-11
+677,CUST-0677,Joko Pratama,Female,1977-07-23,Silver,Family,Jawa Barat,Bandung,2023-12-03
+678,CUST-0678,Indra Gunawan,Female,1985-04-15,Gold,Professional,Jawa Timur,Surabaya,2022-01-05
+679,CUST-0679,Yuni Gunawan,Male,1988-09-23,Gold,SMB,DKI Jakarta,Jakarta Pusat,2022-06-16
+680,CUST-0680,Citra Siregar,Male,1986-07-27,Regular,Student,DKI Jakarta,Jakarta Utara,2022-09-13
+681,CUST-0681,Rani Permana,Male,1982-12-01,Silver,Family,Jawa Barat,Bogor,2023-01-28
+682,CUST-0682,Citra Susanto,Male,1982-08-12,Silver,SMB,Sumatera Utara,Deli Serdang,2023-03-05
+683,CUST-0683,Adi Santoso,Male,2002-05-19,Regular,Professional,Sumatera Utara,Deli Serdang,2022-12-26
+684,CUST-0684,Citra Susanto,Male,1983-10-28,Regular,Student,Jawa Barat,Bandung,2024-12-27
+685,CUST-0685,Yuni Lestari,Male,2005-07-21,Gold,Family,Sumatera Utara,Deli Serdang,2024-06-04
+686,CUST-0686,Putra Lestari,Female,1986-09-25,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Utara,2024-12-26
+687,CUST-0687,Rani Permana,Male,1985-02-19,Platinum,Professional,DKI Jakarta,Jakarta Utara,2024-05-17
+688,CUST-0688,Citra Santoso,Female,1984-02-21,Regular,Gadget Enthusiast,Jawa Barat,Bekasi,2022-02-19
+689,CUST-0689,Wahyu Permana,Male,1990-04-11,Gold,SMB,Jawa Timur,Surabaya,2023-04-30
+690,CUST-0690,Citra Susanto,Male,1995-08-19,Platinum,Student,Bali,Badung,2024-02-12
+691,CUST-0691,Lina Saputra,Female,1976-05-20,Regular,Student,Jawa Barat,Bandung,2025-02-19
+692,CUST-0692,Budi Lestari,Male,1994-07-08,Regular,Gadget Enthusiast,Banten,Tangerang Selatan,2024-05-26
+693,CUST-0693,Yuni Susanto,Male,1989-09-11,Regular,Student,DKI Jakarta,Jakarta Barat,2022-05-19
+694,CUST-0694,Wahyu Santoso,Female,1986-07-16,Regular,Student,Bali,Denpasar,2022-05-04
+695,CUST-0695,Eka Lestari,Female,1984-10-18,Regular,Family,Bali,Badung,2023-12-04
+696,CUST-0696,Joko Permana,Male,1982-09-27,Regular,Professional,DKI Jakarta,Jakarta Selatan,2023-02-15
+697,CUST-0697,Gita Saputra,Female,1997-12-15,Silver,Gadget Enthusiast,Jawa Timur,Surabaya,2023-11-05
+698,CUST-0698,Fajar Saputra,Female,1982-01-21,Silver,Professional,Banten,Tangerang,2024-09-11
+699,CUST-0699,Lina Halim,Male,2001-01-12,Regular,SMB,Jawa Barat,Bogor,2022-08-24
+700,CUST-0700,Eka Lestari,Female,1976-01-07,Regular,Family,Banten,Tangerang,2022-12-23
+701,CUST-0701,Lina Siregar,Male,1975-03-27,Gold,Professional,Jawa Barat,Bekasi,2024-02-16
+702,CUST-0702,Dewi Permana,Female,1982-06-26,Regular,Professional,Jawa Barat,Depok,2023-01-24
+703,CUST-0703,Gita Siregar,Female,1994-07-21,Gold,Family,Banten,Tangerang Selatan,2023-05-22
+704,CUST-0704,Budi Lestari,Male,1998-02-26,Silver,SMB,Jawa Barat,Bogor,2024-02-06
+705,CUST-0705,Sari Siregar,Female,1997-06-17,Silver,Gadget Enthusiast,Banten,Tangerang,2024-08-28
+706,CUST-0706,Indra Susanto,Male,1982-04-15,Regular,Family,Banten,Tangerang,2024-05-20
+707,CUST-0707,Nadia Susanto,Female,1992-02-05,Regular,SMB,Jawa Barat,Depok,2023-12-22
+708,CUST-0708,Hana Susanto,Female,1988-08-15,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Utara,2023-10-12
+709,CUST-0709,Indra Halim,Female,1982-05-21,Gold,Family,DKI Jakarta,Jakarta Selatan,2024-10-24
+710,CUST-0710,Tono Siregar,Female,2004-04-04,Regular,SMB,Sumatera Utara,Medan,2023-02-15
+711,CUST-0711,Lina Santoso,Female,1984-12-27,Regular,SMB,Sumatera Utara,Deli Serdang,2022-10-10
+712,CUST-0712,Vina Lestari,Female,2001-06-26,Platinum,SMB,DKI Jakarta,Jakarta Barat,2022-01-25
+713,CUST-0713,Sari Siregar,Male,1982-12-24,Regular,SMB,Jawa Barat,Bogor,2025-02-05
+714,CUST-0714,Rani Gunawan,Female,2002-04-14,Regular,Gadget Enthusiast,Jawa Timur,Surabaya,2025-02-17
+715,CUST-0715,Adi Permana,Female,2005-12-01,Regular,Gadget Enthusiast,Jawa Barat,Bekasi,2024-04-06
+716,CUST-0716,Vina Lestari,Male,1993-01-05,Platinum,Professional,Jawa Timur,Sidoarjo,2024-03-11
+717,CUST-0717,Citra Siregar,Female,1978-06-19,Silver,Family,Banten,Tangerang,2022-07-10
+718,CUST-0718,Fajar Saputra,Male,2001-12-20,Regular,Student,Sumatera Utara,Medan,2024-03-01
+719,CUST-0719,Joko Santoso,Male,1989-01-12,Regular,Gadget Enthusiast,Jawa Barat,Depok,2024-03-11
+720,CUST-0720,Fajar Saputra,Female,1998-02-13,Regular,Professional,Jawa Barat,Bogor,2023-09-27
+721,CUST-0721,Putra Gunawan,Male,1991-12-22,Regular,Professional,Jawa Barat,Depok,2024-07-01
+722,CUST-0722,Citra Halim,Female,2004-10-16,Silver,Student,Bali,Denpasar,2023-08-13
+723,CUST-0723,Rani Permana,Female,1994-03-14,Gold,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2024-07-26
+724,CUST-0724,Nadia Wijaya,Female,1997-01-08,Gold,SMB,Sumatera Utara,Medan,2023-08-21
+725,CUST-0725,Citra Santoso,Male,1986-02-25,Regular,Family,Banten,Tangerang Selatan,2023-03-01
+726,CUST-0726,Tono Pratama,Male,1995-12-22,Regular,Gadget Enthusiast,Banten,Tangerang,2023-02-03
+727,CUST-0727,Nadia Pratama,Male,1997-03-11,Regular,Student,DKI Jakarta,Jakarta Barat,2025-01-28
+728,CUST-0728,Hana Gunawan,Female,2001-03-06,Silver,Professional,Jawa Barat,Bogor,2023-08-26
+729,CUST-0729,Dewi Siregar,Male,1977-11-25,Regular,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2024-01-04
+730,CUST-0730,Fajar Santoso,Male,1989-12-02,Regular,Family,Sumatera Utara,Medan,2024-06-28
+731,CUST-0731,Budi Susanto,Female,1999-04-08,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Pusat,2022-02-27
+732,CUST-0732,Adi Permana,Male,2005-02-26,Silver,Student,Jawa Barat,Bandung,2024-05-01
+733,CUST-0733,Tono Saputra,Male,1994-04-18,Regular,Student,Jawa Timur,Malang,2024-01-01
+734,CUST-0734,Lina Wijaya,Female,1975-07-07,Regular,Family,DKI Jakarta,Jakarta Utara,2024-01-26
+735,CUST-0735,Budi Saputra,Female,1999-10-16,Platinum,SMB,Jawa Barat,Bogor,2023-10-27
+736,CUST-0736,Nadia Wijaya,Female,2002-11-16,Regular,SMB,Jawa Timur,Surabaya,2024-07-08
+737,CUST-0737,Nadia Siregar,Male,1982-01-20,Regular,Gadget Enthusiast,Sumatera Utara,Medan,2023-05-14
+738,CUST-0738,Yuni Saputra,Female,1990-05-07,Regular,Student,DKI Jakarta,Jakarta Selatan,2023-05-03
+739,CUST-0739,Yuni Gunawan,Male,1983-06-21,Gold,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2023-08-14
+740,CUST-0740,Adi Santoso,Female,1982-04-18,Gold,Professional,Sumatera Utara,Deli Serdang,2024-02-21
+741,CUST-0741,Tono Permana,Male,1977-08-03,Regular,Professional,Jawa Barat,Bogor,2023-02-23
+742,CUST-0742,Eka Saputra,Male,1991-02-14,Regular,Professional,Jawa Barat,Bekasi,2023-05-17
+743,CUST-0743,Putra Wijaya,Female,1984-10-15,Gold,Gadget Enthusiast,Bali,Denpasar,2022-06-13
+744,CUST-0744,Maya Halim,Female,1989-07-17,Gold,Gadget Enthusiast,Banten,Tangerang,2022-06-20
+745,CUST-0745,Joko Susanto,Male,1983-07-15,Regular,SMB,Bali,Denpasar,2024-09-11
+746,CUST-0746,Citra Permana,Male,1979-04-01,Silver,Gadget Enthusiast,Jawa Barat,Bogor,2024-03-19
+747,CUST-0747,Maya Halim,Male,1988-01-04,Regular,Gadget Enthusiast,Banten,Tangerang Selatan,2023-06-07
+748,CUST-0748,Maya Siregar,Female,1997-01-21,Regular,Family,Sumatera Utara,Deli Serdang,2022-02-27
+749,CUST-0749,Eka Lestari,Male,1983-04-20,Regular,Student,Bali,Badung,2024-02-27
+750,CUST-0750,Nadia Susanto,Female,1980-07-09,Silver,SMB,DKI Jakarta,Jakarta Selatan,2024-02-23
+751,CUST-0751,Wahyu Lestari,Male,1978-11-19,Silver,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2023-09-23
+752,CUST-0752,Adi Wijaya,Male,1977-12-14,Silver,Gadget Enthusiast,Banten,Tangerang,2022-12-16
+753,CUST-0753,Fajar Permana,Male,1990-03-17,Regular,Professional,Jawa Barat,Bekasi,2023-01-16
+754,CUST-0754,Gita Pratama,Male,1983-07-15,Gold,Professional,Sumatera Utara,Medan,2022-06-13
+755,CUST-0755,Joko Saputra,Female,1977-06-01,Regular,Student,Banten,Tangerang,2022-01-20
+756,CUST-0756,Budi Lestari,Male,1981-09-26,Silver,Family,DKI Jakarta,Jakarta Pusat,2024-09-22
+757,CUST-0757,Sari Permana,Female,1986-11-11,Gold,Family,Bali,Badung,2024-03-27
+758,CUST-0758,Nadia Susanto,Female,2000-02-01,Silver,Professional,DKI Jakarta,Jakarta Barat,2022-02-22
+759,CUST-0759,Yuni Saputra,Male,1986-08-20,Silver,Professional,Bali,Badung,2022-01-07
+760,CUST-0760,Lina Pratama,Male,2000-12-11,Regular,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2024-03-30
+761,CUST-0761,Yuni Saputra,Female,1996-12-04,Regular,Professional,Jawa Timur,Malang,2022-10-21
+762,CUST-0762,Tono Susanto,Male,1990-02-10,Gold,Student,Sumatera Utara,Medan,2024-09-14
+763,CUST-0763,Vina Santoso,Male,1999-11-23,Regular,Student,Jawa Barat,Bekasi,2022-11-25
+764,CUST-0764,Lina Halim,Female,1996-08-22,Regular,Family,Jawa Timur,Surabaya,2023-04-04
+765,CUST-0765,Wahyu Susanto,Female,2004-12-24,Gold,Professional,DKI Jakarta,Jakarta Barat,2023-06-15
+766,CUST-0766,Dewi Lestari,Male,1985-12-19,Silver,Student,DKI Jakarta,Jakarta Pusat,2024-01-24
+767,CUST-0767,Eka Permana,Female,1976-10-18,Gold,Professional,Banten,Tangerang,2024-11-30
+768,CUST-0768,Yuni Susanto,Female,1975-09-28,Regular,Family,Jawa Barat,Bandung,2023-03-25
+769,CUST-0769,Sari Gunawan,Male,1998-11-28,Silver,Family,Jawa Barat,Depok,2024-10-25
+770,CUST-0770,Dewi Lestari,Male,1990-05-23,Regular,Family,Sumatera Utara,Deli Serdang,2022-11-09
+771,CUST-0771,Gita Santoso,Male,2002-08-24,Platinum,Professional,Sumatera Utara,Medan,2022-02-14
+772,CUST-0772,Vina Halim,Female,1986-07-13,Silver,Family,Jawa Timur,Malang,2023-02-04
+773,CUST-0773,Vina Halim,Female,1999-10-28,Gold,Family,DKI Jakarta,Jakarta Selatan,2024-07-26
+774,CUST-0774,Fajar Susanto,Female,1984-03-07,Silver,Student,Jawa Barat,Bogor,2024-01-12
+775,CUST-0775,Wahyu Saputra,Female,2005-07-22,Gold,Student,Sumatera Utara,Medan,2023-12-30
+776,CUST-0776,Sari Wijaya,Female,1993-07-05,Regular,Professional,DKI Jakarta,Jakarta Pusat,2024-03-23
+777,CUST-0777,Sari Lestari,Female,1999-12-26,Silver,Gadget Enthusiast,Sumatera Utara,Medan,2024-01-23
+778,CUST-0778,Adi Saputra,Male,1990-11-22,Silver,SMB,DKI Jakarta,Jakarta Pusat,2024-09-09
+779,CUST-0779,Indra Saputra,Female,1990-11-23,Silver,Student,Bali,Denpasar,2023-10-29
+780,CUST-0780,Citra Siregar,Male,1987-09-27,Silver,SMB,Jawa Barat,Bogor,2025-01-08
+781,CUST-0781,Dewi Santoso,Male,2002-10-23,Silver,Family,Sumatera Utara,Medan,2022-09-09
+782,CUST-0782,Budi Wijaya,Male,1977-09-09,Platinum,SMB,Bali,Denpasar,2023-09-04
+783,CUST-0783,Maya Siregar,Male,1982-05-02,Silver,Gadget Enthusiast,Jawa Barat,Bogor,2022-10-14
+784,CUST-0784,Wahyu Gunawan,Female,1994-09-17,Regular,Professional,Sumatera Utara,Deli Serdang,2022-10-18
+785,CUST-0785,Joko Santoso,Female,1983-03-24,Regular,Family,Jawa Barat,Bekasi,2023-06-18
+786,CUST-0786,Nadia Wijaya,Male,2005-05-22,Silver,Student,Banten,Tangerang Selatan,2023-07-06
+787,CUST-0787,Gita Permana,Female,2001-03-11,Regular,SMB,Bali,Denpasar,2023-05-22
+788,CUST-0788,Citra Lestari,Female,1977-06-21,Gold,Family,DKI Jakarta,Jakarta Pusat,2022-10-27
+789,CUST-0789,Hana Lestari,Female,1982-07-04,Silver,Family,DKI Jakarta,Jakarta Pusat,2024-09-29
+790,CUST-0790,Dewi Siregar,Female,1992-05-20,Regular,Gadget Enthusiast,Jawa Timur,Sidoarjo,2023-01-06
+791,CUST-0791,Maya Siregar,Female,1993-03-09,Silver,Professional,Bali,Badung,2022-09-16
+792,CUST-0792,Eka Halim,Male,2004-12-21,Silver,Professional,Bali,Badung,2024-05-06
+793,CUST-0793,Rani Wijaya,Female,1991-05-09,Silver,Professional,Banten,Tangerang Selatan,2023-09-18
+794,CUST-0794,Citra Lestari,Male,1995-02-03,Platinum,Professional,Banten,Tangerang Selatan,2022-04-28
+795,CUST-0795,Citra Lestari,Male,2005-07-22,Regular,SMB,Bali,Badung,2024-12-26
+796,CUST-0796,Dewi Halim,Male,1997-07-23,Platinum,SMB,DKI Jakarta,Jakarta Selatan,2022-03-28
+797,CUST-0797,Yuni Gunawan,Male,1977-06-27,Silver,Professional,Jawa Barat,Bekasi,2024-02-04
+798,CUST-0798,Dewi Permana,Male,1984-05-16,Regular,SMB,Sumatera Utara,Medan,2024-03-17
+799,CUST-0799,Gita Lestari,Female,2003-10-28,Regular,SMB,Sumatera Utara,Medan,2024-07-31
+800,CUST-0800,Lina Lestari,Male,1986-12-06,Regular,Gadget Enthusiast,Jawa Timur,Surabaya,2024-10-04
+801,CUST-0801,Gita Saputra,Female,1978-08-01,Regular,Gadget Enthusiast,Bali,Denpasar,2024-02-06
+802,CUST-0802,Joko Permana,Female,1978-08-22,Regular,Family,Banten,Tangerang,2024-06-07
+803,CUST-0803,Adi Permana,Male,1981-05-02,Regular,Family,Sumatera Utara,Medan,2022-03-06
+804,CUST-0804,Fajar Santoso,Male,1988-08-18,Silver,Gadget Enthusiast,Banten,Tangerang Selatan,2024-10-24
+805,CUST-0805,Nadia Wijaya,Male,1979-03-12,Gold,Professional,DKI Jakarta,Jakarta Pusat,2022-04-17
+806,CUST-0806,Lina Halim,Female,1990-05-10,Gold,Professional,Bali,Denpasar,2022-11-09
+807,CUST-0807,Tono Wijaya,Male,2002-05-23,Regular,Student,Jawa Barat,Depok,2024-10-25
+808,CUST-0808,Yuni Wijaya,Male,1978-03-13,Platinum,Professional,Jawa Barat,Bekasi,2024-05-23
+809,CUST-0809,Adi Susanto,Male,1987-07-17,Regular,Gadget Enthusiast,Jawa Barat,Bandung,2022-05-06
+810,CUST-0810,Tono Halim,Female,1978-05-12,Regular,Student,Sumatera Utara,Medan,2023-01-08
+811,CUST-0811,Budi Pratama,Male,1984-08-09,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Barat,2024-01-15
+812,CUST-0812,Lina Lestari,Male,1996-09-25,Regular,Family,DKI Jakarta,Jakarta Pusat,2024-12-19
+813,CUST-0813,Yuni Permana,Male,1993-07-03,Regular,SMB,Jawa Barat,Depok,2022-09-04
+814,CUST-0814,Budi Susanto,Male,1997-08-04,Silver,Professional,Sumatera Utara,Medan,2024-12-28
+815,CUST-0815,Eka Pratama,Female,1992-12-09,Silver,Student,Jawa Barat,Bekasi,2024-06-12
+816,CUST-0816,Citra Gunawan,Male,1994-05-23,Regular,SMB,Banten,Tangerang,2022-05-05
+817,CUST-0817,Gita Halim,Male,1989-09-13,Silver,Professional,Banten,Tangerang,2023-01-12
+818,CUST-0818,Adi Wijaya,Male,2003-09-15,Gold,Family,Bali,Denpasar,2023-07-04
+819,CUST-0819,Vina Saputra,Male,1992-04-10,Regular,Family,Jawa Barat,Bekasi,2022-09-30
+820,CUST-0820,Indra Pratama,Male,1992-02-01,Silver,Family,Sumatera Utara,Medan,2023-10-27
+821,CUST-0821,Citra Siregar,Male,1988-10-10,Gold,Family,Jawa Timur,Sidoarjo,2023-03-26
+822,CUST-0822,Indra Wijaya,Male,1998-12-23,Gold,SMB,Jawa Timur,Surabaya,2025-02-02
+823,CUST-0823,Gita Gunawan,Female,1981-10-21,Regular,Professional,Jawa Barat,Depok,2024-06-07
+824,CUST-0824,Maya Wijaya,Female,1980-08-06,Silver,Professional,Banten,Tangerang,2023-08-01
+825,CUST-0825,Adi Lestari,Female,1996-10-07,Regular,Professional,Jawa Barat,Bekasi,2024-07-20
+826,CUST-0826,Nadia Saputra,Male,1994-02-13,Regular,Student,Sumatera Utara,Medan,2022-03-31
+827,CUST-0827,Eka Santoso,Male,2005-11-20,Platinum,Student,DKI Jakarta,Jakarta Barat,2025-01-15
+828,CUST-0828,Lina Saputra,Female,1999-10-15,Regular,Gadget Enthusiast,Jawa Barat,Bekasi,2022-11-13
+829,CUST-0829,Hana Pratama,Male,1975-01-04,Regular,Gadget Enthusiast,Bali,Badung,2022-10-18
+830,CUST-0830,Adi Santoso,Female,1987-03-12,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Selatan,2022-08-19
+831,CUST-0831,Sari Wijaya,Male,2005-05-12,Regular,Family,DKI Jakarta,Jakarta Selatan,2022-06-23
+832,CUST-0832,Budi Susanto,Female,1991-06-20,Gold,Family,Jawa Barat,Bekasi,2023-08-11
+833,CUST-0833,Maya Saputra,Female,2004-05-26,Gold,Professional,Jawa Timur,Malang,2022-10-28
+834,CUST-0834,Lina Wijaya,Female,2001-02-04,Platinum,Family,Banten,Tangerang Selatan,2022-10-24
+835,CUST-0835,Citra Permana,Female,1986-06-16,Silver,Gadget Enthusiast,Jawa Barat,Bekasi,2023-11-14
+836,CUST-0836,Eka Santoso,Female,1992-09-16,Regular,SMB,Banten,Tangerang Selatan,2024-05-13
+837,CUST-0837,Tono Susanto,Male,1982-06-01,Regular,Gadget Enthusiast,Sumatera Utara,Medan,2022-10-01
+838,CUST-0838,Dewi Pratama,Male,1984-08-05,Regular,Professional,Jawa Timur,Malang,2022-04-25
+839,CUST-0839,Eka Saputra,Female,1998-01-23,Regular,Student,Sumatera Utara,Medan,2022-06-01
+840,CUST-0840,Sari Susanto,Male,1986-03-03,Regular,Gadget Enthusiast,Jawa Barat,Bandung,2022-11-03
+841,CUST-0841,Fajar Gunawan,Female,1990-07-24,Gold,Student,Sumatera Utara,Medan,2023-08-11
+842,CUST-0842,Dewi Wijaya,Male,1991-03-01,Gold,Family,DKI Jakarta,Jakarta Pusat,2022-07-08
+843,CUST-0843,Tono Halim,Female,1994-01-08,Gold,SMB,Jawa Barat,Bekasi,2022-06-08
+844,CUST-0844,Rani Gunawan,Female,2001-07-06,Regular,Student,Jawa Timur,Sidoarjo,2022-06-09
+845,CUST-0845,Maya Susanto,Male,1984-03-18,Regular,Student,Jawa Timur,Surabaya,2023-09-26
+846,CUST-0846,Gita Siregar,Male,1983-02-19,Silver,Gadget Enthusiast,Jawa Barat,Bandung,2022-04-04
+847,CUST-0847,Budi Permana,Male,1986-05-13,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Barat,2023-12-30
+848,CUST-0848,Eka Saputra,Male,1991-03-01,Silver,Student,Jawa Timur,Malang,2023-08-18
+849,CUST-0849,Fajar Wijaya,Male,2003-11-03,Platinum,SMB,Sumatera Utara,Deli Serdang,2024-11-23
+850,CUST-0850,Yuni Siregar,Male,1985-05-12,Regular,Gadget Enthusiast,Jawa Timur,Malang,2023-05-05
+851,CUST-0851,Gita Susanto,Male,1993-11-16,Gold,Family,Bali,Denpasar,2025-01-25
+852,CUST-0852,Citra Gunawan,Female,1980-05-06,Silver,Family,DKI Jakarta,Jakarta Utara,2022-07-02
+853,CUST-0853,Citra Wijaya,Female,1990-05-25,Silver,Professional,Sumatera Utara,Deli Serdang,2022-09-11
+854,CUST-0854,Wahyu Gunawan,Female,1987-07-28,Regular,SMB,DKI Jakarta,Jakarta Barat,2023-10-05
+855,CUST-0855,Maya Saputra,Female,1983-11-02,Silver,Professional,Sumatera Utara,Deli Serdang,2025-02-22
+856,CUST-0856,Adi Wijaya,Female,1980-10-13,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Barat,2022-07-11
+857,CUST-0857,Maya Gunawan,Male,1977-03-24,Regular,Student,Banten,Tangerang Selatan,2023-10-12
+858,CUST-0858,Lina Susanto,Female,1978-05-15,Regular,Gadget Enthusiast,Banten,Tangerang,2022-10-26
+859,CUST-0859,Gita Permana,Female,1976-06-26,Regular,Student,Bali,Denpasar,2024-05-16
+860,CUST-0860,Indra Lestari,Male,1979-02-09,Regular,Gadget Enthusiast,Sumatera Utara,Medan,2024-05-09
+861,CUST-0861,Tono Santoso,Male,2001-01-03,Platinum,Family,Sumatera Utara,Deli Serdang,2022-12-03
+862,CUST-0862,Gita Permana,Female,1992-12-26,Regular,SMB,Banten,Tangerang Selatan,2024-03-07
+863,CUST-0863,Adi Siregar,Male,1998-11-19,Regular,Family,Bali,Denpasar,2022-01-30
+864,CUST-0864,Eka Gunawan,Female,1978-11-14,Platinum,Professional,Jawa Barat,Bogor,2024-07-09
+865,CUST-0865,Wahyu Saputra,Male,1988-12-18,Silver,Professional,DKI Jakarta,Jakarta Selatan,2023-12-14
+866,CUST-0866,Gita Santoso,Female,2001-06-01,Regular,Family,Sumatera Utara,Medan,2023-12-23
+867,CUST-0867,Vina Halim,Male,2004-03-15,Regular,SMB,Bali,Badung,2022-11-30
+868,CUST-0868,Vina Halim,Female,1995-05-23,Platinum,Student,Banten,Tangerang Selatan,2022-07-03
+869,CUST-0869,Adi Susanto,Female,1998-10-18,Regular,Gadget Enthusiast,Banten,Tangerang,2023-03-10
+870,CUST-0870,Hana Gunawan,Male,1981-08-04,Gold,Gadget Enthusiast,Bali,Badung,2022-01-16
+871,CUST-0871,Maya Santoso,Female,2003-11-09,Silver,Student,Bali,Badung,2024-04-29
+872,CUST-0872,Budi Pratama,Female,2001-09-27,Regular,SMB,DKI Jakarta,Jakarta Selatan,2024-05-30
+873,CUST-0873,Hana Siregar,Female,2001-01-26,Gold,Gadget Enthusiast,Banten,Tangerang,2022-12-22
+874,CUST-0874,Nadia Permana,Female,1982-02-23,Silver,SMB,Bali,Denpasar,2024-03-13
+875,CUST-0875,Indra Siregar,Male,1977-02-01,Silver,SMB,Jawa Barat,Depok,2022-11-10
+876,CUST-0876,Adi Susanto,Female,1975-12-24,Regular,Professional,Sumatera Utara,Medan,2023-09-01
+877,CUST-0877,Gita Siregar,Female,1996-01-09,Platinum,Student,Jawa Barat,Bogor,2022-08-16
+878,CUST-0878,Rani Susanto,Male,1984-05-06,Silver,Family,DKI Jakarta,Jakarta Pusat,2023-03-02
+879,CUST-0879,Nadia Saputra,Female,1977-08-21,Silver,Gadget Enthusiast,Banten,Tangerang,2023-10-05
+880,CUST-0880,Rani Wijaya,Male,2003-03-22,Platinum,Family,Jawa Barat,Depok,2024-09-18
+881,CUST-0881,Yuni Susanto,Male,1991-12-09,Regular,Student,Bali,Denpasar,2025-01-02
+882,CUST-0882,Adi Siregar,Male,2002-06-04,Regular,Professional,Bali,Denpasar,2023-03-27
+883,CUST-0883,Citra Wijaya,Female,1981-02-12,Regular,Gadget Enthusiast,Jawa Timur,Malang,2024-06-12
+884,CUST-0884,Tono Halim,Male,1981-11-28,Silver,SMB,Jawa Barat,Depok,2023-10-01
+885,CUST-0885,Fajar Santoso,Female,2003-08-14,Regular,Family,Sumatera Utara,Deli Serdang,2024-02-05
+886,CUST-0886,Citra Gunawan,Female,1993-07-10,Regular,Student,Jawa Barat,Bandung,2023-01-04
+887,CUST-0887,Lina Halim,Male,1977-04-22,Regular,Family,Jawa Barat,Depok,2022-09-08
+888,CUST-0888,Adi Permana,Female,1981-08-19,Gold,SMB,Sumatera Utara,Medan,2022-05-16
+889,CUST-0889,Nadia Lestari,Male,1978-09-09,Silver,Gadget Enthusiast,Bali,Denpasar,2024-06-10
+890,CUST-0890,Lina Permana,Male,2000-08-16,Regular,Gadget Enthusiast,Jawa Barat,Bekasi,2022-12-17
+891,CUST-0891,Yuni Permana,Male,1993-01-10,Gold,SMB,Bali,Badung,2022-01-10
+892,CUST-0892,Rani Lestari,Male,2003-09-17,Silver,Student,Jawa Barat,Bogor,2024-08-20
+893,CUST-0893,Dewi Halim,Female,1985-06-13,Gold,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2022-04-07
+894,CUST-0894,Nadia Lestari,Female,2002-11-04,Gold,Student,Sumatera Utara,Deli Serdang,2022-03-01
+895,CUST-0895,Hana Pratama,Male,1985-12-24,Regular,Professional,DKI Jakarta,Jakarta Selatan,2024-01-26
+896,CUST-0896,Vina Pratama,Female,2003-01-04,Regular,SMB,Sumatera Utara,Medan,2024-02-17
+897,CUST-0897,Indra Wijaya,Male,1979-06-28,Silver,Student,Jawa Barat,Bogor,2024-12-04
+898,CUST-0898,Tono Santoso,Female,1983-06-25,Regular,Family,Bali,Badung,2023-08-30
+899,CUST-0899,Citra Permana,Male,1997-02-03,Regular,Student,Bali,Denpasar,2023-03-19
+900,CUST-0900,Rani Halim,Male,1985-04-27,Gold,Family,Jawa Barat,Bogor,2024-07-18
+901,CUST-0901,Eka Siregar,Male,2004-06-13,Gold,SMB,DKI Jakarta,Jakarta Selatan,2023-02-20
+902,CUST-0902,Nadia Santoso,Female,1980-11-10,Regular,Student,DKI Jakarta,Jakarta Barat,2022-08-14
+903,CUST-0903,Hana Pratama,Female,1975-08-22,Regular,Student,Banten,Tangerang,2025-02-01
+904,CUST-0904,Citra Permana,Male,1987-09-14,Regular,Family,Banten,Tangerang,2024-01-28
+905,CUST-0905,Dewi Pratama,Female,1981-05-07,Silver,SMB,Sumatera Utara,Deli Serdang,2024-10-07
+906,CUST-0906,Tono Halim,Male,2005-02-08,Gold,SMB,DKI Jakarta,Jakarta Pusat,2023-06-30
+907,CUST-0907,Hana Saputra,Female,1982-10-23,Regular,Student,Bali,Denpasar,2023-03-27
+908,CUST-0908,Indra Gunawan,Male,1986-11-10,Regular,SMB,Jawa Barat,Bekasi,2024-09-03
+909,CUST-0909,Joko Santoso,Male,1980-03-11,Regular,Student,Jawa Barat,Depok,2024-08-29
+910,CUST-0910,Putra Permana,Female,2003-02-06,Silver,Gadget Enthusiast,DKI Jakarta,Jakarta Selatan,2022-01-03
+911,CUST-0911,Sari Santoso,Male,2001-01-19,Silver,Student,Banten,Tangerang,2022-07-24
+912,CUST-0912,Joko Permana,Female,1992-05-22,Regular,Student,Banten,Tangerang Selatan,2023-12-24
+913,CUST-0913,Joko Permana,Male,1983-11-17,Platinum,Professional,Bali,Badung,2022-10-18
+914,CUST-0914,Maya Gunawan,Female,1986-04-24,Gold,Gadget Enthusiast,DKI Jakarta,Jakarta Selatan,2022-08-10
+915,CUST-0915,Indra Siregar,Female,2004-11-12,Regular,Gadget Enthusiast,Banten,Tangerang,2023-07-20
+916,CUST-0916,Joko Santoso,Male,1988-08-19,Regular,Student,DKI Jakarta,Jakarta Barat,2024-10-18
+917,CUST-0917,Eka Gunawan,Female,1994-09-22,Silver,Student,Sumatera Utara,Medan,2023-08-27
+918,CUST-0918,Adi Gunawan,Female,2001-10-04,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Selatan,2023-12-23
+919,CUST-0919,Adi Pratama,Female,2003-05-26,Regular,Professional,Jawa Timur,Surabaya,2024-06-03
+920,CUST-0920,Wahyu Saputra,Male,1990-06-08,Regular,Student,Jawa Timur,Surabaya,2023-06-20
+921,CUST-0921,Joko Susanto,Female,1996-06-26,Silver,Professional,Jawa Timur,Surabaya,2023-05-28
+922,CUST-0922,Eka Halim,Female,1984-02-10,Silver,Gadget Enthusiast,Bali,Denpasar,2024-06-13
+923,CUST-0923,Dewi Wijaya,Female,1991-11-23,Regular,Gadget Enthusiast,Bali,Badung,2024-05-11
+924,CUST-0924,Putra Gunawan,Female,1977-03-20,Gold,SMB,DKI Jakarta,Jakarta Pusat,2024-11-14
+925,CUST-0925,Maya Wijaya,Male,1999-07-05,Gold,SMB,Bali,Badung,2024-07-31
+926,CUST-0926,Budi Saputra,Male,1985-10-04,Silver,Family,DKI Jakarta,Jakarta Barat,2022-05-05
+927,CUST-0927,Dewi Susanto,Male,1991-03-18,Regular,Professional,Sumatera Utara,Medan,2023-09-09
+928,CUST-0928,Joko Pratama,Male,1977-01-05,Regular,Gadget Enthusiast,Banten,Tangerang,2022-02-20
+929,CUST-0929,Tono Gunawan,Male,1984-07-16,Gold,SMB,Banten,Tangerang,2023-06-18
+930,CUST-0930,Yuni Gunawan,Female,1979-11-01,Gold,Professional,Sumatera Utara,Medan,2022-12-16
+931,CUST-0931,Tono Siregar,Female,1984-05-22,Regular,Family,Jawa Barat,Bogor,2024-03-12
+932,CUST-0932,Nadia Saputra,Female,1979-01-10,Silver,Student,Banten,Tangerang Selatan,2023-09-13
+933,CUST-0933,Budi Susanto,Female,2005-03-15,Regular,Professional,Banten,Tangerang,2024-01-03
+934,CUST-0934,Tono Siregar,Female,1991-02-06,Regular,SMB,Jawa Barat,Depok,2023-11-26
+935,CUST-0935,Rani Wijaya,Female,2004-07-03,Regular,Gadget Enthusiast,Jawa Timur,Sidoarjo,2023-01-05
+936,CUST-0936,Wahyu Siregar,Male,1997-06-19,Regular,Professional,Sumatera Utara,Deli Serdang,2023-04-20
+937,CUST-0937,Dewi Saputra,Female,1999-04-25,Gold,Professional,Banten,Tangerang Selatan,2024-02-26
+938,CUST-0938,Putra Saputra,Male,1976-12-03,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Barat,2024-02-13
+939,CUST-0939,Eka Susanto,Male,1983-08-15,Regular,Professional,Bali,Denpasar,2024-06-07
+940,CUST-0940,Tono Santoso,Male,1981-01-26,Gold,SMB,DKI Jakarta,Jakarta Pusat,2025-01-24
+941,CUST-0941,Citra Permana,Male,2001-04-19,Silver,Family,Jawa Barat,Bogor,2025-02-18
+942,CUST-0942,Eka Saputra,Female,2002-02-19,Gold,Family,Banten,Tangerang Selatan,2022-07-26
+943,CUST-0943,Dewi Gunawan,Female,1975-04-27,Gold,Family,Jawa Barat,Bandung,2024-03-10
+944,CUST-0944,Maya Saputra,Male,1992-10-08,Regular,Student,Jawa Barat,Depok,2025-01-23
+945,CUST-0945,Dewi Susanto,Male,1976-06-14,Regular,Student,Banten,Tangerang Selatan,2022-10-13
+946,CUST-0946,Gita Siregar,Male,1982-08-03,Regular,Student,Sumatera Utara,Deli Serdang,2024-05-02
+947,CUST-0947,Yuni Susanto,Male,1983-12-02,Silver,Professional,DKI Jakarta,Jakarta Utara,2023-12-19
+948,CUST-0948,Putra Gunawan,Male,2004-01-01,Silver,Gadget Enthusiast,Jawa Timur,Surabaya,2022-02-07
+949,CUST-0949,Vina Gunawan,Female,1997-03-14,Silver,Student,DKI Jakarta,Jakarta Utara,2024-06-15
+950,CUST-0950,Dewi Susanto,Male,1985-07-02,Regular,Student,Jawa Timur,Malang,2023-04-11
+951,CUST-0951,Putra Siregar,Male,2002-12-08,Regular,Professional,Bali,Denpasar,2024-06-17
+952,CUST-0952,Fajar Lestari,Female,1994-11-08,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Barat,2024-09-07
+953,CUST-0953,Dewi Saputra,Male,1990-12-24,Gold,Professional,DKI Jakarta,Jakarta Barat,2024-06-27
+954,CUST-0954,Joko Permana,Male,1991-05-11,Regular,Gadget Enthusiast,Bali,Badung,2024-09-22
+955,CUST-0955,Indra Saputra,Male,1984-12-18,Regular,Professional,Jawa Barat,Bekasi,2022-03-15
+956,CUST-0956,Hana Gunawan,Male,1975-08-27,Regular,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2023-09-08
+957,CUST-0957,Citra Pratama,Female,1990-01-28,Regular,Professional,Jawa Timur,Sidoarjo,2023-02-26
+958,CUST-0958,Nadia Wijaya,Male,1996-05-02,Gold,Family,Sumatera Utara,Deli Serdang,2023-03-20
+959,CUST-0959,Adi Permana,Female,2000-12-24,Gold,SMB,Sumatera Utara,Deli Serdang,2024-03-05
+960,CUST-0960,Joko Siregar,Female,1980-07-15,Regular,Student,Banten,Tangerang Selatan,2023-07-29
+961,CUST-0961,Indra Saputra,Female,1993-07-02,Regular,Family,Jawa Barat,Depok,2022-01-26
+962,CUST-0962,Dewi Lestari,Female,2002-03-15,Regular,Gadget Enthusiast,Bali,Badung,2022-03-17
+963,CUST-0963,Maya Gunawan,Female,1976-10-03,Regular,Family,Sumatera Utara,Medan,2023-06-16
+964,CUST-0964,Sari Wijaya,Male,2002-10-21,Regular,Student,Jawa Barat,Bekasi,2023-01-13
+965,CUST-0965,Tono Gunawan,Male,1992-12-08,Silver,Family,Bali,Badung,2025-01-11
+966,CUST-0966,Budi Susanto,Male,1977-09-15,Regular,SMB,Jawa Barat,Depok,2024-01-31
+967,CUST-0967,Putra Saputra,Female,1979-01-11,Platinum,Family,Sumatera Utara,Deli Serdang,2024-08-21
+968,CUST-0968,Joko Susanto,Female,1976-05-05,Silver,Family,DKI Jakarta,Jakarta Selatan,2024-11-12
+969,CUST-0969,Tono Susanto,Male,1987-10-02,Gold,Student,Sumatera Utara,Deli Serdang,2022-06-08
+970,CUST-0970,Hana Susanto,Male,2002-09-26,Regular,SMB,Bali,Badung,2024-12-01
+971,CUST-0971,Rani Permana,Female,2004-04-11,Regular,Student,Jawa Timur,Surabaya,2023-05-09
+972,CUST-0972,Rani Halim,Female,1992-09-03,Silver,SMB,Jawa Timur,Surabaya,2023-04-17
+973,CUST-0973,Rani Halim,Male,1999-07-22,Regular,Student,Jawa Barat,Bekasi,2024-04-16
+974,CUST-0974,Putra Siregar,Male,2003-03-15,Regular,Family,Jawa Barat,Bogor,2025-02-09
+975,CUST-0975,Sari Saputra,Female,1975-12-06,Regular,SMB,Jawa Barat,Bandung,2024-03-05
+976,CUST-0976,Putra Permana,Male,1997-05-04,Regular,Family,Jawa Barat,Bogor,2024-07-08
+977,CUST-0977,Putra Gunawan,Female,1999-08-23,Gold,SMB,Sumatera Utara,Deli Serdang,2024-01-28
+978,CUST-0978,Rani Halim,Male,1991-12-19,Regular,Gadget Enthusiast,Jawa Timur,Malang,2023-11-30
+979,CUST-0979,Budi Susanto,Female,1985-07-11,Platinum,Student,Bali,Badung,2023-03-08
+980,CUST-0980,Putra Siregar,Female,1978-06-10,Regular,Gadget Enthusiast,Jawa Timur,Sidoarjo,2024-06-17
+981,CUST-0981,Hana Wijaya,Male,2004-04-22,Regular,SMB,Jawa Timur,Malang,2024-11-07
+982,CUST-0982,Fajar Pratama,Male,1975-08-27,Regular,Family,Bali,Denpasar,2024-05-23
+983,CUST-0983,Rani Siregar,Female,2004-02-23,Regular,Gadget Enthusiast,Jawa Barat,Bogor,2024-10-07
+984,CUST-0984,Indra Saputra,Male,2005-06-26,Gold,Student,Jawa Barat,Depok,2023-11-01
+985,CUST-0985,Fajar Siregar,Female,1995-12-17,Silver,Student,Jawa Timur,Malang,2024-06-06
+986,CUST-0986,Dewi Siregar,Male,2005-11-21,Regular,Gadget Enthusiast,Jawa Timur,Surabaya,2023-03-27
+987,CUST-0987,Gita Lestari,Female,2001-03-24,Regular,Student,Banten,Tangerang,2024-11-23
+988,CUST-0988,Gita Pratama,Female,1992-10-07,Regular,Family,Banten,Tangerang,2024-02-18
+989,CUST-0989,Wahyu Santoso,Female,1991-11-06,Gold,Family,Sumatera Utara,Deli Serdang,2024-09-20
+990,CUST-0990,Sari Halim,Female,1984-02-08,Platinum,Family,Bali,Badung,2023-05-22
+991,CUST-0991,Putra Saputra,Female,1996-02-12,Silver,Gadget Enthusiast,Jawa Barat,Bogor,2024-09-28
+992,CUST-0992,Yuni Halim,Male,1984-05-17,Silver,Family,Sumatera Utara,Medan,2023-06-20
+993,CUST-0993,Lina Halim,Female,1987-05-02,Silver,Family,Banten,Tangerang Selatan,2022-04-04
+994,CUST-0994,Joko Gunawan,Male,1992-04-25,Platinum,SMB,Banten,Tangerang,2023-11-07
+995,CUST-0995,Eka Susanto,Male,2000-07-03,Regular,Professional,Bali,Denpasar,2024-01-12
+996,CUST-0996,Vina Santoso,Male,1984-03-12,Regular,Professional,Jawa Barat,Bogor,2022-01-28
+997,CUST-0997,Budi Pratama,Female,2000-08-02,Regular,Professional,Bali,Denpasar,2023-05-22
+998,CUST-0998,Budi Lestari,Female,1995-07-05,Gold,Student,Sumatera Utara,Medan,2022-06-01
+999,CUST-0999,Tono Halim,Male,1978-12-19,Regular,SMB,DKI Jakarta,Jakarta Pusat,2023-10-02
+1000,CUST-GUEST,Guest Customer,Unknown,,Regular,Walk-in,,,2023-01-01

@@ -1,0 +1,2001 @@
+payment_key,payment_id,payment_method,payment_status,payment_provider
+1,PAY-00001,QRIS,Paid,Mastercard
+2,PAY-00002,Credit Card,Paid,OVO
+3,PAY-00003,Debit Card,Paid,OVO
+4,PAY-00004,E-Wallet,Refunded,Visa
+5,PAY-00005,E-Wallet,Paid,Visa
+6,PAY-00006,E-Wallet,Paid,ShopeePay
+7,PAY-00007,Bank Transfer,Paid,BCA
+8,PAY-00008,QRIS,Failed,BRI
+9,PAY-00009,Credit Card,Paid,BNI
+10,PAY-00010,Bank Transfer,Paid,Erajaya POS
+11,PAY-00011,Bank Transfer,Paid,Visa
+12,PAY-00012,QRIS,Paid,BCA
+13,PAY-00013,QRIS,Paid,ShopeePay
+14,PAY-00014,Credit Card,Paid,Erajaya POS
+15,PAY-00015,Bank Transfer,Paid,Mandiri
+16,PAY-00016,Debit Card,Paid,OVO
+17,PAY-00017,Bank Transfer,Paid,ShopeePay
+18,PAY-00018,QRIS,Paid,Mandiri
+19,PAY-00019,E-Wallet,Paid,ShopeePay
+20,PAY-00020,Credit Card,Paid,ShopeePay
+21,PAY-00021,E-Wallet,Paid,ShopeePay
+22,PAY-00022,Credit Card,Paid,Visa
+23,PAY-00023,Credit Card,Paid,ShopeePay
+24,PAY-00024,E-Wallet,Pending,Mastercard
+25,PAY-00025,Cash,Failed,GoPay
+26,PAY-00026,Bank Transfer,Paid,GoPay
+27,PAY-00027,Debit Card,Paid,Erajaya POS
+28,PAY-00028,QRIS,Paid,ShopeePay
+29,PAY-00029,Credit Card,Paid,Erajaya POS
+30,PAY-00030,Debit Card,Paid,ShopeePay
+31,PAY-00031,QRIS,Paid,BNI
+32,PAY-00032,E-Wallet,Paid,BRI
+33,PAY-00033,Debit Card,Paid,Mandiri
+34,PAY-00034,E-Wallet,Paid,OVO
+35,PAY-00035,Credit Card,Paid,BRI
+36,PAY-00036,Credit Card,Paid,GoPay
+37,PAY-00037,E-Wallet,Paid,BCA
+38,PAY-00038,Credit Card,Paid,Visa
+39,PAY-00039,Cash,Paid,Erajaya POS
+40,PAY-00040,Cash,Paid,GoPay
+41,PAY-00041,Credit Card,Paid,Visa
+42,PAY-00042,E-Wallet,Paid,Mastercard
+43,PAY-00043,E-Wallet,Paid,Mandiri
+44,PAY-00044,Credit Card,Paid,BNI
+45,PAY-00045,Credit Card,Paid,BNI
+46,PAY-00046,Bank Transfer,Paid,Erajaya POS
+47,PAY-00047,QRIS,Paid,Mandiri
+48,PAY-00048,Credit Card,Paid,BRI
+49,PAY-00049,Bank Transfer,Paid,Erajaya POS
+50,PAY-00050,Credit Card,Paid,ShopeePay
+51,PAY-00051,Credit Card,Paid,BNI
+52,PAY-00052,Credit Card,Failed,BCA
+53,PAY-00053,Credit Card,Paid,ShopeePay
+54,PAY-00054,Credit Card,Paid,Mandiri
+55,PAY-00055,Debit Card,Failed,GoPay
+56,PAY-00056,E-Wallet,Paid,Mastercard
+57,PAY-00057,Debit Card,Paid,ShopeePay
+58,PAY-00058,E-Wallet,Paid,GoPay
+59,PAY-00059,Debit Card,Paid,GoPay
+60,PAY-00060,Credit Card,Paid,BNI
+61,PAY-00061,Debit Card,Paid,Mandiri
+62,PAY-00062,Bank Transfer,Paid,GoPay
+63,PAY-00063,Cash,Paid,ShopeePay
+64,PAY-00064,Debit Card,Paid,BCA
+65,PAY-00065,Debit Card,Paid,Mandiri
+66,PAY-00066,Bank Transfer,Paid,BRI
+67,PAY-00067,Debit Card,Paid,OVO
+68,PAY-00068,Debit Card,Paid,Mandiri
+69,PAY-00069,Bank Transfer,Paid,ShopeePay
+70,PAY-00070,Cash,Paid,OVO
+71,PAY-00071,Credit Card,Refunded,BRI
+72,PAY-00072,E-Wallet,Paid,GoPay
+73,PAY-00073,Debit Card,Paid,BNI
+74,PAY-00074,Credit Card,Paid,Mastercard
+75,PAY-00075,Credit Card,Paid,ShopeePay
+76,PAY-00076,QRIS,Paid,ShopeePay
+77,PAY-00077,Debit Card,Paid,Erajaya POS
+78,PAY-00078,Debit Card,Paid,Mandiri
+79,PAY-00079,Cash,Paid,Erajaya POS
+80,PAY-00080,E-Wallet,Paid,OVO
+81,PAY-00081,E-Wallet,Paid,Erajaya POS
+82,PAY-00082,E-Wallet,Paid,Mandiri
+83,PAY-00083,QRIS,Paid,ShopeePay
+84,PAY-00084,Bank Transfer,Paid,GoPay
+85,PAY-00085,QRIS,Paid,ShopeePay
+86,PAY-00086,QRIS,Paid,Visa
+87,PAY-00087,Debit Card,Paid,Mastercard
+88,PAY-00088,QRIS,Paid,ShopeePay
+89,PAY-00089,Debit Card,Paid,BNI
+90,PAY-00090,E-Wallet,Failed,GoPay
+91,PAY-00091,QRIS,Paid,Mastercard
+92,PAY-00092,QRIS,Paid,Erajaya POS
+93,PAY-00093,QRIS,Pending,BCA
+94,PAY-00094,E-Wallet,Paid,Mastercard
+95,PAY-00095,Bank Transfer,Paid,Erajaya POS
+96,PAY-00096,Bank Transfer,Paid,ShopeePay
+97,PAY-00097,Debit Card,Paid,BNI
+98,PAY-00098,QRIS,Paid,BRI
+99,PAY-00099,QRIS,Paid,Visa
+100,PAY-00100,E-Wallet,Paid,ShopeePay
+101,PAY-00101,E-Wallet,Pending,Erajaya POS
+102,PAY-00102,Credit Card,Paid,Mandiri
+103,PAY-00103,Cash,Pending,GoPay
+104,PAY-00104,QRIS,Paid,ShopeePay
+105,PAY-00105,Cash,Paid,BNI
+106,PAY-00106,Cash,Paid,BNI
+107,PAY-00107,Credit Card,Paid,GoPay
+108,PAY-00108,Cash,Paid,BRI
+109,PAY-00109,Debit Card,Paid,Visa
+110,PAY-00110,QRIS,Paid,BRI
+111,PAY-00111,Debit Card,Paid,ShopeePay
+112,PAY-00112,E-Wallet,Paid,Mandiri
+113,PAY-00113,Cash,Paid,ShopeePay
+114,PAY-00114,QRIS,Paid,Erajaya POS
+115,PAY-00115,Bank Transfer,Failed,ShopeePay
+116,PAY-00116,E-Wallet,Refunded,BRI
+117,PAY-00117,Debit Card,Paid,Erajaya POS
+118,PAY-00118,E-Wallet,Paid,BNI
+119,PAY-00119,Credit Card,Paid,Erajaya POS
+120,PAY-00120,QRIS,Paid,BCA
+121,PAY-00121,Credit Card,Paid,Erajaya POS
+122,PAY-00122,Debit Card,Paid,Erajaya POS
+123,PAY-00123,QRIS,Refunded,OVO
+124,PAY-00124,E-Wallet,Paid,Mandiri
+125,PAY-00125,Credit Card,Paid,Visa
+126,PAY-00126,E-Wallet,Paid,BCA
+127,PAY-00127,E-Wallet,Paid,OVO
+128,PAY-00128,Cash,Paid,OVO
+129,PAY-00129,Cash,Paid,BNI
+130,PAY-00130,QRIS,Paid,BNI
+131,PAY-00131,Credit Card,Paid,BNI
+132,PAY-00132,E-Wallet,Paid,Mandiri
+133,PAY-00133,Credit Card,Paid,Mastercard
+134,PAY-00134,Credit Card,Paid,Visa
+135,PAY-00135,Debit Card,Paid,BCA
+136,PAY-00136,E-Wallet,Paid,BCA
+137,PAY-00137,Credit Card,Paid,Erajaya POS
+138,PAY-00138,Bank Transfer,Pending,OVO
+139,PAY-00139,Bank Transfer,Paid,Erajaya POS
+140,PAY-00140,Bank Transfer,Paid,GoPay
+141,PAY-00141,Debit Card,Paid,OVO
+142,PAY-00142,Cash,Paid,BRI
+143,PAY-00143,Credit Card,Paid,Erajaya POS
+144,PAY-00144,Cash,Paid,Erajaya POS
+145,PAY-00145,Cash,Paid,OVO
+146,PAY-00146,Debit Card,Paid,BNI
+147,PAY-00147,E-Wallet,Failed,BRI
+148,PAY-00148,QRIS,Paid,Mandiri
+149,PAY-00149,Credit Card,Paid,Erajaya POS
+150,PAY-00150,Debit Card,Paid,Mandiri
+151,PAY-00151,Debit Card,Paid,BCA
+152,PAY-00152,Bank Transfer,Paid,BNI
+153,PAY-00153,Bank Transfer,Paid,GoPay
+154,PAY-00154,Bank Transfer,Paid,BCA
+155,PAY-00155,QRIS,Paid,BRI
+156,PAY-00156,Bank Transfer,Paid,GoPay
+157,PAY-00157,Credit Card,Paid,BRI
+158,PAY-00158,Bank Transfer,Paid,ShopeePay
+159,PAY-00159,QRIS,Paid,BRI
+160,PAY-00160,E-Wallet,Paid,OVO
+161,PAY-00161,Credit Card,Paid,BNI
+162,PAY-00162,Cash,Paid,Mandiri
+163,PAY-00163,QRIS,Paid,Visa
+164,PAY-00164,QRIS,Paid,Visa
+165,PAY-00165,Credit Card,Paid,BNI
+166,PAY-00166,Cash,Paid,Mandiri
+167,PAY-00167,Cash,Paid,ShopeePay
+168,PAY-00168,QRIS,Paid,Mandiri
+169,PAY-00169,Credit Card,Paid,ShopeePay
+170,PAY-00170,Debit Card,Paid,Erajaya POS
+171,PAY-00171,Debit Card,Paid,ShopeePay
+172,PAY-00172,Bank Transfer,Paid,Visa
+173,PAY-00173,Bank Transfer,Paid,OVO
+174,PAY-00174,QRIS,Pending,Mastercard
+175,PAY-00175,Bank Transfer,Paid,BCA
+176,PAY-00176,Bank Transfer,Pending,Erajaya POS
+177,PAY-00177,QRIS,Paid,OVO
+178,PAY-00178,Debit Card,Paid,Mastercard
+179,PAY-00179,Credit Card,Paid,Erajaya POS
+180,PAY-00180,Credit Card,Paid,BNI
+181,PAY-00181,Credit Card,Paid,GoPay
+182,PAY-00182,Credit Card,Paid,BNI
+183,PAY-00183,Cash,Paid,Erajaya POS
+184,PAY-00184,Debit Card,Paid,Erajaya POS
+185,PAY-00185,Credit Card,Paid,GoPay
+186,PAY-00186,QRIS,Paid,ShopeePay
+187,PAY-00187,Credit Card,Paid,ShopeePay
+188,PAY-00188,QRIS,Paid,Erajaya POS
+189,PAY-00189,QRIS,Paid,Mastercard
+190,PAY-00190,E-Wallet,Paid,GoPay
+191,PAY-00191,Debit Card,Paid,BRI
+192,PAY-00192,Debit Card,Paid,OVO
+193,PAY-00193,Debit Card,Paid,Mastercard
+194,PAY-00194,Bank Transfer,Paid,Mastercard
+195,PAY-00195,Credit Card,Paid,BCA
+196,PAY-00196,Debit Card,Paid,Visa
+197,PAY-00197,E-Wallet,Paid,BCA
+198,PAY-00198,Debit Card,Refunded,BRI
+199,PAY-00199,Credit Card,Paid,Mastercard
+200,PAY-00200,Bank Transfer,Paid,BRI
+201,PAY-00201,Debit Card,Paid,BRI
+202,PAY-00202,Bank Transfer,Paid,OVO
+203,PAY-00203,Bank Transfer,Paid,BCA
+204,PAY-00204,Debit Card,Paid,BNI
+205,PAY-00205,E-Wallet,Paid,OVO
+206,PAY-00206,E-Wallet,Pending,ShopeePay
+207,PAY-00207,Debit Card,Paid,Mandiri
+208,PAY-00208,QRIS,Paid,GoPay
+209,PAY-00209,E-Wallet,Paid,Mandiri
+210,PAY-00210,QRIS,Paid,ShopeePay
+211,PAY-00211,Debit Card,Paid,GoPay
+212,PAY-00212,Bank Transfer,Paid,BNI
+213,PAY-00213,Bank Transfer,Paid,ShopeePay
+214,PAY-00214,E-Wallet,Paid,Visa
+215,PAY-00215,Bank Transfer,Paid,BCA
+216,PAY-00216,Credit Card,Pending,BCA
+217,PAY-00217,QRIS,Paid,OVO
+218,PAY-00218,Credit Card,Paid,Mandiri
+219,PAY-00219,QRIS,Paid,Erajaya POS
+220,PAY-00220,Cash,Paid,Visa
+221,PAY-00221,Credit Card,Refunded,Mastercard
+222,PAY-00222,Bank Transfer,Paid,Mandiri
+223,PAY-00223,E-Wallet,Paid,Mandiri
+224,PAY-00224,QRIS,Paid,Mandiri
+225,PAY-00225,E-Wallet,Pending,OVO
+226,PAY-00226,Bank Transfer,Paid,BCA
+227,PAY-00227,Bank Transfer,Paid,BRI
+228,PAY-00228,QRIS,Paid,OVO
+229,PAY-00229,QRIS,Paid,Mastercard
+230,PAY-00230,Cash,Paid,BCA
+231,PAY-00231,Debit Card,Paid,Mastercard
+232,PAY-00232,Credit Card,Paid,Erajaya POS
+233,PAY-00233,Bank Transfer,Paid,Erajaya POS
+234,PAY-00234,E-Wallet,Paid,Mandiri
+235,PAY-00235,E-Wallet,Paid,ShopeePay
+236,PAY-00236,E-Wallet,Paid,Mastercard
+237,PAY-00237,Credit Card,Paid,BNI
+238,PAY-00238,QRIS,Paid,BRI
+239,PAY-00239,QRIS,Paid,Mastercard
+240,PAY-00240,Credit Card,Paid,GoPay
+241,PAY-00241,Credit Card,Paid,OVO
+242,PAY-00242,Debit Card,Refunded,Mastercard
+243,PAY-00243,E-Wallet,Paid,BNI
+244,PAY-00244,E-Wallet,Paid,BNI
+245,PAY-00245,Debit Card,Paid,Erajaya POS
+246,PAY-00246,Bank Transfer,Paid,OVO
+247,PAY-00247,Debit Card,Paid,BNI
+248,PAY-00248,E-Wallet,Paid,BRI
+249,PAY-00249,Debit Card,Paid,Mastercard
+250,PAY-00250,Cash,Paid,BNI
+251,PAY-00251,Debit Card,Paid,ShopeePay
+252,PAY-00252,Credit Card,Paid,OVO
+253,PAY-00253,QRIS,Paid,BNI
+254,PAY-00254,Credit Card,Paid,BRI
+255,PAY-00255,Credit Card,Paid,Mastercard
+256,PAY-00256,Bank Transfer,Paid,OVO
+257,PAY-00257,Credit Card,Paid,BCA
+258,PAY-00258,QRIS,Paid,Visa
+259,PAY-00259,QRIS,Paid,GoPay
+260,PAY-00260,Credit Card,Paid,BCA
+261,PAY-00261,Credit Card,Paid,BRI
+262,PAY-00262,QRIS,Paid,GoPay
+263,PAY-00263,Credit Card,Paid,BNI
+264,PAY-00264,Credit Card,Paid,Mandiri
+265,PAY-00265,Cash,Paid,Mandiri
+266,PAY-00266,Credit Card,Paid,Mastercard
+267,PAY-00267,E-Wallet,Paid,BNI
+268,PAY-00268,QRIS,Paid,GoPay
+269,PAY-00269,Credit Card,Paid,Mandiri
+270,PAY-00270,Credit Card,Paid,ShopeePay
+271,PAY-00271,QRIS,Paid,BCA
+272,PAY-00272,QRIS,Paid,ShopeePay
+273,PAY-00273,Credit Card,Paid,GoPay
+274,PAY-00274,QRIS,Paid,GoPay
+275,PAY-00275,QRIS,Paid,GoPay
+276,PAY-00276,E-Wallet,Paid,BNI
+277,PAY-00277,Cash,Paid,BCA
+278,PAY-00278,QRIS,Paid,Erajaya POS
+279,PAY-00279,E-Wallet,Failed,Mandiri
+280,PAY-00280,Credit Card,Paid,ShopeePay
+281,PAY-00281,Credit Card,Paid,GoPay
+282,PAY-00282,QRIS,Paid,ShopeePay
+283,PAY-00283,E-Wallet,Paid,BCA
+284,PAY-00284,Credit Card,Paid,BRI
+285,PAY-00285,E-Wallet,Paid,Erajaya POS
+286,PAY-00286,Bank Transfer,Paid,ShopeePay
+287,PAY-00287,Cash,Paid,OVO
+288,PAY-00288,Cash,Paid,ShopeePay
+289,PAY-00289,QRIS,Paid,Erajaya POS
+290,PAY-00290,E-Wallet,Paid,Mastercard
+291,PAY-00291,E-Wallet,Paid,Erajaya POS
+292,PAY-00292,QRIS,Paid,BCA
+293,PAY-00293,Cash,Paid,ShopeePay
+294,PAY-00294,Bank Transfer,Paid,Visa
+295,PAY-00295,E-Wallet,Paid,Mastercard
+296,PAY-00296,Debit Card,Paid,ShopeePay
+297,PAY-00297,Credit Card,Paid,Visa
+298,PAY-00298,QRIS,Paid,Erajaya POS
+299,PAY-00299,Credit Card,Paid,BRI
+300,PAY-00300,Cash,Paid,BNI
+301,PAY-00301,Debit Card,Paid,BRI
+302,PAY-00302,QRIS,Paid,Mastercard
+303,PAY-00303,Bank Transfer,Pending,BRI
+304,PAY-00304,Debit Card,Paid,OVO
+305,PAY-00305,E-Wallet,Paid,BCA
+306,PAY-00306,E-Wallet,Paid,Mandiri
+307,PAY-00307,Credit Card,Paid,GoPay
+308,PAY-00308,E-Wallet,Paid,Erajaya POS
+309,PAY-00309,QRIS,Refunded,Erajaya POS
+310,PAY-00310,Credit Card,Paid,OVO
+311,PAY-00311,Debit Card,Paid,Mastercard
+312,PAY-00312,Debit Card,Paid,ShopeePay
+313,PAY-00313,QRIS,Paid,Mandiri
+314,PAY-00314,Bank Transfer,Paid,GoPay
+315,PAY-00315,Bank Transfer,Paid,GoPay
+316,PAY-00316,Bank Transfer,Paid,BNI
+317,PAY-00317,E-Wallet,Paid,ShopeePay
+318,PAY-00318,QRIS,Paid,BRI
+319,PAY-00319,Credit Card,Paid,Mastercard
+320,PAY-00320,E-Wallet,Paid,BRI
+321,PAY-00321,Debit Card,Paid,BRI
+322,PAY-00322,E-Wallet,Paid,OVO
+323,PAY-00323,QRIS,Failed,Visa
+324,PAY-00324,Credit Card,Paid,Erajaya POS
+325,PAY-00325,Debit Card,Paid,BCA
+326,PAY-00326,QRIS,Paid,BNI
+327,PAY-00327,Bank Transfer,Paid,GoPay
+328,PAY-00328,E-Wallet,Paid,BCA
+329,PAY-00329,Debit Card,Paid,BNI
+330,PAY-00330,Bank Transfer,Paid,BRI
+331,PAY-00331,Cash,Paid,OVO
+332,PAY-00332,QRIS,Paid,GoPay
+333,PAY-00333,QRIS,Paid,OVO
+334,PAY-00334,Credit Card,Failed,ShopeePay
+335,PAY-00335,Debit Card,Paid,OVO
+336,PAY-00336,E-Wallet,Paid,OVO
+337,PAY-00337,E-Wallet,Paid,Mandiri
+338,PAY-00338,E-Wallet,Paid,Visa
+339,PAY-00339,Debit Card,Paid,Visa
+340,PAY-00340,QRIS,Paid,BCA
+341,PAY-00341,Credit Card,Paid,BCA
+342,PAY-00342,Credit Card,Paid,Mandiri
+343,PAY-00343,Cash,Paid,BRI
+344,PAY-00344,QRIS,Paid,Visa
+345,PAY-00345,Credit Card,Paid,GoPay
+346,PAY-00346,Credit Card,Paid,Mastercard
+347,PAY-00347,Credit Card,Paid,Visa
+348,PAY-00348,Credit Card,Paid,GoPay
+349,PAY-00349,Debit Card,Paid,Mastercard
+350,PAY-00350,Cash,Paid,Mastercard
+351,PAY-00351,Bank Transfer,Paid,Erajaya POS
+352,PAY-00352,E-Wallet,Failed,ShopeePay
+353,PAY-00353,Cash,Paid,Mastercard
+354,PAY-00354,E-Wallet,Paid,Visa
+355,PAY-00355,Credit Card,Paid,GoPay
+356,PAY-00356,Credit Card,Paid,Mastercard
+357,PAY-00357,Bank Transfer,Paid,Erajaya POS
+358,PAY-00358,Debit Card,Refunded,OVO
+359,PAY-00359,Bank Transfer,Paid,BCA
+360,PAY-00360,QRIS,Paid,BNI
+361,PAY-00361,Bank Transfer,Paid,BRI
+362,PAY-00362,Bank Transfer,Paid,Erajaya POS
+363,PAY-00363,E-Wallet,Paid,ShopeePay
+364,PAY-00364,QRIS,Pending,Mastercard
+365,PAY-00365,E-Wallet,Paid,BCA
+366,PAY-00366,Bank Transfer,Paid,ShopeePay
+367,PAY-00367,QRIS,Paid,GoPay
+368,PAY-00368,Credit Card,Paid,Visa
+369,PAY-00369,Debit Card,Paid,GoPay
+370,PAY-00370,Debit Card,Paid,ShopeePay
+371,PAY-00371,QRIS,Paid,Mandiri
+372,PAY-00372,QRIS,Paid,Erajaya POS
+373,PAY-00373,Bank Transfer,Paid,ShopeePay
+374,PAY-00374,Cash,Paid,BRI
+375,PAY-00375,Credit Card,Paid,GoPay
+376,PAY-00376,E-Wallet,Paid,Mastercard
+377,PAY-00377,Credit Card,Paid,Mandiri
+378,PAY-00378,E-Wallet,Failed,OVO
+379,PAY-00379,QRIS,Paid,Mandiri
+380,PAY-00380,Bank Transfer,Paid,OVO
+381,PAY-00381,QRIS,Paid,OVO
+382,PAY-00382,Bank Transfer,Paid,BRI
+383,PAY-00383,Credit Card,Paid,Erajaya POS
+384,PAY-00384,Cash,Paid,ShopeePay
+385,PAY-00385,Credit Card,Paid,BCA
+386,PAY-00386,Credit Card,Refunded,OVO
+387,PAY-00387,E-Wallet,Paid,Visa
+388,PAY-00388,E-Wallet,Pending,GoPay
+389,PAY-00389,Debit Card,Paid,ShopeePay
+390,PAY-00390,E-Wallet,Paid,Visa
+391,PAY-00391,E-Wallet,Paid,Erajaya POS
+392,PAY-00392,Credit Card,Paid,BCA
+393,PAY-00393,Debit Card,Paid,Erajaya POS
+394,PAY-00394,E-Wallet,Paid,BRI
+395,PAY-00395,Bank Transfer,Paid,Erajaya POS
+396,PAY-00396,Credit Card,Paid,BRI
+397,PAY-00397,Bank Transfer,Paid,BRI
+398,PAY-00398,Bank Transfer,Paid,Mandiri
+399,PAY-00399,Cash,Paid,BNI
+400,PAY-00400,E-Wallet,Paid,Mastercard
+401,PAY-00401,Credit Card,Paid,Mandiri
+402,PAY-00402,Credit Card,Paid,Erajaya POS
+403,PAY-00403,Credit Card,Paid,GoPay
+404,PAY-00404,QRIS,Failed,OVO
+405,PAY-00405,Credit Card,Paid,OVO
+406,PAY-00406,Debit Card,Paid,GoPay
+407,PAY-00407,Credit Card,Paid,BRI
+408,PAY-00408,Debit Card,Paid,Erajaya POS
+409,PAY-00409,E-Wallet,Paid,OVO
+410,PAY-00410,E-Wallet,Paid,Mastercard
+411,PAY-00411,Debit Card,Paid,BRI
+412,PAY-00412,E-Wallet,Paid,Erajaya POS
+413,PAY-00413,QRIS,Paid,ShopeePay
+414,PAY-00414,Debit Card,Paid,BNI
+415,PAY-00415,E-Wallet,Paid,OVO
+416,PAY-00416,QRIS,Paid,BNI
+417,PAY-00417,QRIS,Paid,GoPay
+418,PAY-00418,E-Wallet,Paid,Mastercard
+419,PAY-00419,E-Wallet,Paid,BRI
+420,PAY-00420,Cash,Paid,BRI
+421,PAY-00421,QRIS,Paid,Erajaya POS
+422,PAY-00422,Bank Transfer,Paid,BNI
+423,PAY-00423,Debit Card,Paid,Mastercard
+424,PAY-00424,E-Wallet,Paid,Mandiri
+425,PAY-00425,QRIS,Paid,BRI
+426,PAY-00426,Cash,Paid,Erajaya POS
+427,PAY-00427,Bank Transfer,Failed,Mandiri
+428,PAY-00428,Credit Card,Paid,Mandiri
+429,PAY-00429,Credit Card,Failed,BCA
+430,PAY-00430,Credit Card,Paid,BNI
+431,PAY-00431,Credit Card,Paid,Mandiri
+432,PAY-00432,E-Wallet,Paid,Erajaya POS
+433,PAY-00433,E-Wallet,Paid,Visa
+434,PAY-00434,Bank Transfer,Paid,Mastercard
+435,PAY-00435,E-Wallet,Pending,OVO
+436,PAY-00436,Credit Card,Paid,BRI
+437,PAY-00437,Bank Transfer,Paid,ShopeePay
+438,PAY-00438,Debit Card,Paid,Erajaya POS
+439,PAY-00439,QRIS,Paid,BRI
+440,PAY-00440,E-Wallet,Paid,Mandiri
+441,PAY-00441,QRIS,Paid,BRI
+442,PAY-00442,E-Wallet,Pending,BCA
+443,PAY-00443,Debit Card,Paid,GoPay
+444,PAY-00444,QRIS,Paid,BRI
+445,PAY-00445,Bank Transfer,Paid,Mandiri
+446,PAY-00446,Debit Card,Paid,Visa
+447,PAY-00447,E-Wallet,Paid,BRI
+448,PAY-00448,Cash,Paid,Visa
+449,PAY-00449,E-Wallet,Paid,Mastercard
+450,PAY-00450,E-Wallet,Refunded,BRI
+451,PAY-00451,E-Wallet,Paid,OVO
+452,PAY-00452,Debit Card,Paid,GoPay
+453,PAY-00453,Credit Card,Paid,Visa
+454,PAY-00454,Credit Card,Paid,BCA
+455,PAY-00455,Cash,Paid,BRI
+456,PAY-00456,Credit Card,Paid,Visa
+457,PAY-00457,QRIS,Paid,BCA
+458,PAY-00458,Bank Transfer,Paid,Mandiri
+459,PAY-00459,Credit Card,Refunded,Erajaya POS
+460,PAY-00460,Credit Card,Paid,Erajaya POS
+461,PAY-00461,Cash,Paid,GoPay
+462,PAY-00462,Debit Card,Paid,BRI
+463,PAY-00463,Debit Card,Failed,GoPay
+464,PAY-00464,Credit Card,Paid,BNI
+465,PAY-00465,Debit Card,Paid,BNI
+466,PAY-00466,Credit Card,Paid,Erajaya POS
+467,PAY-00467,QRIS,Paid,BRI
+468,PAY-00468,E-Wallet,Paid,ShopeePay
+469,PAY-00469,Credit Card,Paid,GoPay
+470,PAY-00470,Debit Card,Paid,Mandiri
+471,PAY-00471,Credit Card,Paid,BCA
+472,PAY-00472,E-Wallet,Paid,Mastercard
+473,PAY-00473,Cash,Paid,Erajaya POS
+474,PAY-00474,Bank Transfer,Paid,BCA
+475,PAY-00475,E-Wallet,Paid,Mastercard
+476,PAY-00476,E-Wallet,Paid,Visa
+477,PAY-00477,E-Wallet,Paid,Mastercard
+478,PAY-00478,Cash,Paid,Mastercard
+479,PAY-00479,Bank Transfer,Paid,ShopeePay
+480,PAY-00480,Credit Card,Paid,Mandiri
+481,PAY-00481,Bank Transfer,Paid,BCA
+482,PAY-00482,QRIS,Paid,GoPay
+483,PAY-00483,E-Wallet,Paid,BNI
+484,PAY-00484,Bank Transfer,Paid,ShopeePay
+485,PAY-00485,QRIS,Paid,OVO
+486,PAY-00486,QRIS,Paid,BRI
+487,PAY-00487,QRIS,Paid,Mandiri
+488,PAY-00488,Debit Card,Paid,Mandiri
+489,PAY-00489,Debit Card,Paid,GoPay
+490,PAY-00490,Debit Card,Paid,BCA
+491,PAY-00491,Bank Transfer,Paid,GoPay
+492,PAY-00492,QRIS,Paid,Mastercard
+493,PAY-00493,E-Wallet,Paid,Mastercard
+494,PAY-00494,Debit Card,Paid,Mandiri
+495,PAY-00495,Debit Card,Paid,Mastercard
+496,PAY-00496,QRIS,Paid,Mastercard
+497,PAY-00497,E-Wallet,Paid,BCA
+498,PAY-00498,QRIS,Paid,BCA
+499,PAY-00499,QRIS,Paid,BNI
+500,PAY-00500,Cash,Paid,BRI
+501,PAY-00501,Debit Card,Paid,Visa
+502,PAY-00502,QRIS,Paid,Erajaya POS
+503,PAY-00503,Credit Card,Paid,Mandiri
+504,PAY-00504,Debit Card,Paid,OVO
+505,PAY-00505,QRIS,Failed,OVO
+506,PAY-00506,Credit Card,Refunded,GoPay
+507,PAY-00507,Bank Transfer,Paid,GoPay
+508,PAY-00508,QRIS,Paid,BNI
+509,PAY-00509,Cash,Failed,Mandiri
+510,PAY-00510,Credit Card,Paid,OVO
+511,PAY-00511,Bank Transfer,Paid,OVO
+512,PAY-00512,Credit Card,Paid,Mandiri
+513,PAY-00513,QRIS,Paid,GoPay
+514,PAY-00514,Credit Card,Paid,Mandiri
+515,PAY-00515,E-Wallet,Paid,OVO
+516,PAY-00516,Debit Card,Paid,GoPay
+517,PAY-00517,Debit Card,Paid,BNI
+518,PAY-00518,Credit Card,Paid,Mandiri
+519,PAY-00519,QRIS,Paid,OVO
+520,PAY-00520,E-Wallet,Paid,OVO
+521,PAY-00521,Bank Transfer,Paid,OVO
+522,PAY-00522,Credit Card,Paid,Erajaya POS
+523,PAY-00523,Cash,Paid,Mastercard
+524,PAY-00524,QRIS,Paid,BCA
+525,PAY-00525,QRIS,Paid,Mastercard
+526,PAY-00526,Debit Card,Paid,BRI
+527,PAY-00527,QRIS,Paid,BNI
+528,PAY-00528,Bank Transfer,Paid,Erajaya POS
+529,PAY-00529,Debit Card,Paid,BRI
+530,PAY-00530,Bank Transfer,Paid,GoPay
+531,PAY-00531,Bank Transfer,Paid,BNI
+532,PAY-00532,QRIS,Paid,BCA
+533,PAY-00533,Cash,Paid,OVO
+534,PAY-00534,Cash,Paid,Mastercard
+535,PAY-00535,Debit Card,Paid,Mandiri
+536,PAY-00536,Debit Card,Paid,BRI
+537,PAY-00537,QRIS,Failed,ShopeePay
+538,PAY-00538,Debit Card,Failed,Erajaya POS
+539,PAY-00539,Bank Transfer,Paid,BCA
+540,PAY-00540,QRIS,Paid,OVO
+541,PAY-00541,QRIS,Paid,BNI
+542,PAY-00542,QRIS,Paid,BCA
+543,PAY-00543,QRIS,Paid,OVO
+544,PAY-00544,Cash,Failed,Mastercard
+545,PAY-00545,Debit Card,Paid,OVO
+546,PAY-00546,Debit Card,Failed,BNI
+547,PAY-00547,E-Wallet,Paid,Mandiri
+548,PAY-00548,QRIS,Paid,Mandiri
+549,PAY-00549,E-Wallet,Paid,GoPay
+550,PAY-00550,Bank Transfer,Paid,BCA
+551,PAY-00551,Bank Transfer,Paid,Visa
+552,PAY-00552,Bank Transfer,Paid,OVO
+553,PAY-00553,E-Wallet,Paid,Visa
+554,PAY-00554,Credit Card,Paid,Mastercard
+555,PAY-00555,Debit Card,Paid,Mandiri
+556,PAY-00556,Cash,Paid,BNI
+557,PAY-00557,Cash,Paid,ShopeePay
+558,PAY-00558,Credit Card,Paid,OVO
+559,PAY-00559,Debit Card,Paid,ShopeePay
+560,PAY-00560,Debit Card,Paid,BCA
+561,PAY-00561,Debit Card,Paid,GoPay
+562,PAY-00562,QRIS,Paid,OVO
+563,PAY-00563,Debit Card,Paid,BRI
+564,PAY-00564,Debit Card,Paid,ShopeePay
+565,PAY-00565,Credit Card,Paid,BRI
+566,PAY-00566,QRIS,Paid,GoPay
+567,PAY-00567,E-Wallet,Paid,BNI
+568,PAY-00568,Credit Card,Failed,BNI
+569,PAY-00569,E-Wallet,Paid,ShopeePay
+570,PAY-00570,Bank Transfer,Failed,BRI
+571,PAY-00571,E-Wallet,Paid,BRI
+572,PAY-00572,E-Wallet,Paid,OVO
+573,PAY-00573,Cash,Paid,BNI
+574,PAY-00574,QRIS,Refunded,ShopeePay
+575,PAY-00575,Debit Card,Paid,GoPay
+576,PAY-00576,E-Wallet,Failed,GoPay
+577,PAY-00577,Debit Card,Paid,BRI
+578,PAY-00578,QRIS,Paid,Erajaya POS
+579,PAY-00579,QRIS,Paid,BRI
+580,PAY-00580,Cash,Paid,GoPay
+581,PAY-00581,Debit Card,Paid,Erajaya POS
+582,PAY-00582,E-Wallet,Paid,Mandiri
+583,PAY-00583,Cash,Paid,Mastercard
+584,PAY-00584,E-Wallet,Paid,BCA
+585,PAY-00585,QRIS,Paid,Mandiri
+586,PAY-00586,Credit Card,Paid,OVO
+587,PAY-00587,E-Wallet,Paid,BCA
+588,PAY-00588,Debit Card,Paid,BRI
+589,PAY-00589,Cash,Paid,Mastercard
+590,PAY-00590,QRIS,Paid,BRI
+591,PAY-00591,QRIS,Paid,GoPay
+592,PAY-00592,Bank Transfer,Pending,BRI
+593,PAY-00593,E-Wallet,Paid,GoPay
+594,PAY-00594,Credit Card,Paid,Mastercard
+595,PAY-00595,Bank Transfer,Paid,ShopeePay
+596,PAY-00596,Debit Card,Paid,Erajaya POS
+597,PAY-00597,QRIS,Paid,Visa
+598,PAY-00598,E-Wallet,Paid,ShopeePay
+599,PAY-00599,Debit Card,Paid,GoPay
+600,PAY-00600,E-Wallet,Paid,OVO
+601,PAY-00601,Debit Card,Paid,GoPay
+602,PAY-00602,E-Wallet,Paid,ShopeePay
+603,PAY-00603,QRIS,Paid,BCA
+604,PAY-00604,Credit Card,Paid,ShopeePay
+605,PAY-00605,Credit Card,Paid,ShopeePay
+606,PAY-00606,Debit Card,Paid,Visa
+607,PAY-00607,Credit Card,Paid,BCA
+608,PAY-00608,E-Wallet,Paid,Mastercard
+609,PAY-00609,E-Wallet,Paid,Mandiri
+610,PAY-00610,QRIS,Paid,ShopeePay
+611,PAY-00611,E-Wallet,Paid,Erajaya POS
+612,PAY-00612,Cash,Failed,Erajaya POS
+613,PAY-00613,Credit Card,Paid,Visa
+614,PAY-00614,E-Wallet,Paid,Mastercard
+615,PAY-00615,E-Wallet,Paid,BNI
+616,PAY-00616,Debit Card,Failed,BNI
+617,PAY-00617,QRIS,Paid,Mastercard
+618,PAY-00618,Cash,Paid,Mastercard
+619,PAY-00619,QRIS,Paid,BCA
+620,PAY-00620,E-Wallet,Paid,Erajaya POS
+621,PAY-00621,Credit Card,Paid,BRI
+622,PAY-00622,Bank Transfer,Paid,Erajaya POS
+623,PAY-00623,Debit Card,Paid,GoPay
+624,PAY-00624,QRIS,Paid,GoPay
+625,PAY-00625,QRIS,Paid,Visa
+626,PAY-00626,Bank Transfer,Paid,ShopeePay
+627,PAY-00627,QRIS,Paid,BRI
+628,PAY-00628,Cash,Paid,BRI
+629,PAY-00629,Credit Card,Paid,GoPay
+630,PAY-00630,Cash,Paid,BRI
+631,PAY-00631,E-Wallet,Paid,Erajaya POS
+632,PAY-00632,QRIS,Paid,BNI
+633,PAY-00633,Credit Card,Pending,ShopeePay
+634,PAY-00634,Debit Card,Paid,Mandiri
+635,PAY-00635,Bank Transfer,Paid,GoPay
+636,PAY-00636,E-Wallet,Paid,BNI
+637,PAY-00637,Debit Card,Paid,BCA
+638,PAY-00638,QRIS,Paid,GoPay
+639,PAY-00639,Bank Transfer,Paid,BCA
+640,PAY-00640,QRIS,Paid,BCA
+641,PAY-00641,Bank Transfer,Paid,Visa
+642,PAY-00642,E-Wallet,Paid,GoPay
+643,PAY-00643,E-Wallet,Paid,OVO
+644,PAY-00644,Credit Card,Paid,Visa
+645,PAY-00645,Debit Card,Paid,Visa
+646,PAY-00646,QRIS,Paid,Mandiri
+647,PAY-00647,Bank Transfer,Paid,Mastercard
+648,PAY-00648,Bank Transfer,Paid,Mastercard
+649,PAY-00649,QRIS,Pending,Erajaya POS
+650,PAY-00650,Bank Transfer,Paid,Mandiri
+651,PAY-00651,QRIS,Failed,BNI
+652,PAY-00652,E-Wallet,Paid,Mandiri
+653,PAY-00653,E-Wallet,Paid,Mastercard
+654,PAY-00654,QRIS,Paid,Erajaya POS
+655,PAY-00655,QRIS,Paid,Mandiri
+656,PAY-00656,E-Wallet,Paid,BCA
+657,PAY-00657,E-Wallet,Paid,Mandiri
+658,PAY-00658,QRIS,Paid,ShopeePay
+659,PAY-00659,Bank Transfer,Paid,BRI
+660,PAY-00660,QRIS,Paid,BRI
+661,PAY-00661,Bank Transfer,Paid,BCA
+662,PAY-00662,QRIS,Paid,ShopeePay
+663,PAY-00663,E-Wallet,Paid,BRI
+664,PAY-00664,Credit Card,Refunded,Erajaya POS
+665,PAY-00665,QRIS,Paid,Visa
+666,PAY-00666,Bank Transfer,Paid,BNI
+667,PAY-00667,E-Wallet,Paid,ShopeePay
+668,PAY-00668,Cash,Paid,ShopeePay
+669,PAY-00669,Bank Transfer,Paid,Mastercard
+670,PAY-00670,E-Wallet,Paid,Mastercard
+671,PAY-00671,Debit Card,Paid,GoPay
+672,PAY-00672,QRIS,Paid,Mandiri
+673,PAY-00673,QRIS,Paid,Erajaya POS
+674,PAY-00674,Cash,Paid,Mastercard
+675,PAY-00675,E-Wallet,Paid,OVO
+676,PAY-00676,Credit Card,Paid,OVO
+677,PAY-00677,E-Wallet,Paid,Visa
+678,PAY-00678,Cash,Paid,ShopeePay
+679,PAY-00679,Credit Card,Paid,OVO
+680,PAY-00680,QRIS,Paid,BCA
+681,PAY-00681,QRIS,Paid,GoPay
+682,PAY-00682,Debit Card,Paid,Mandiri
+683,PAY-00683,Bank Transfer,Paid,GoPay
+684,PAY-00684,E-Wallet,Paid,BNI
+685,PAY-00685,E-Wallet,Paid,BCA
+686,PAY-00686,Credit Card,Paid,ShopeePay
+687,PAY-00687,E-Wallet,Paid,BNI
+688,PAY-00688,Bank Transfer,Paid,Mandiri
+689,PAY-00689,E-Wallet,Paid,GoPay
+690,PAY-00690,Debit Card,Paid,ShopeePay
+691,PAY-00691,QRIS,Paid,ShopeePay
+692,PAY-00692,E-Wallet,Paid,BNI
+693,PAY-00693,Credit Card,Paid,BCA
+694,PAY-00694,Credit Card,Paid,OVO
+695,PAY-00695,Credit Card,Failed,GoPay
+696,PAY-00696,QRIS,Paid,BCA
+697,PAY-00697,QRIS,Paid,BNI
+698,PAY-00698,Credit Card,Paid,ShopeePay
+699,PAY-00699,Credit Card,Paid,BRI
+700,PAY-00700,E-Wallet,Paid,Mandiri
+701,PAY-00701,QRIS,Paid,BNI
+702,PAY-00702,Credit Card,Paid,Mandiri
+703,PAY-00703,Credit Card,Paid,Mandiri
+704,PAY-00704,E-Wallet,Paid,OVO
+705,PAY-00705,Bank Transfer,Pending,GoPay
+706,PAY-00706,Bank Transfer,Paid,Erajaya POS
+707,PAY-00707,E-Wallet,Paid,BRI
+708,PAY-00708,QRIS,Paid,Mandiri
+709,PAY-00709,Bank Transfer,Failed,GoPay
+710,PAY-00710,Bank Transfer,Paid,BRI
+711,PAY-00711,Credit Card,Paid,Erajaya POS
+712,PAY-00712,E-Wallet,Paid,Visa
+713,PAY-00713,Credit Card,Paid,Visa
+714,PAY-00714,Credit Card,Paid,Mastercard
+715,PAY-00715,Credit Card,Paid,GoPay
+716,PAY-00716,E-Wallet,Paid,BCA
+717,PAY-00717,Debit Card,Paid,OVO
+718,PAY-00718,QRIS,Paid,Visa
+719,PAY-00719,Credit Card,Pending,Visa
+720,PAY-00720,QRIS,Paid,Mastercard
+721,PAY-00721,Debit Card,Paid,Erajaya POS
+722,PAY-00722,Credit Card,Paid,Mandiri
+723,PAY-00723,Credit Card,Paid,ShopeePay
+724,PAY-00724,Bank Transfer,Paid,ShopeePay
+725,PAY-00725,E-Wallet,Paid,Mandiri
+726,PAY-00726,Bank Transfer,Paid,Visa
+727,PAY-00727,QRIS,Paid,Mastercard
+728,PAY-00728,E-Wallet,Paid,BCA
+729,PAY-00729,Credit Card,Paid,Erajaya POS
+730,PAY-00730,Bank Transfer,Paid,BRI
+731,PAY-00731,Cash,Pending,Mastercard
+732,PAY-00732,Cash,Paid,Visa
+733,PAY-00733,QRIS,Paid,Visa
+734,PAY-00734,E-Wallet,Paid,OVO
+735,PAY-00735,Bank Transfer,Paid,BCA
+736,PAY-00736,Debit Card,Failed,GoPay
+737,PAY-00737,QRIS,Paid,Erajaya POS
+738,PAY-00738,Credit Card,Failed,Erajaya POS
+739,PAY-00739,Credit Card,Pending,OVO
+740,PAY-00740,Debit Card,Paid,OVO
+741,PAY-00741,Bank Transfer,Paid,Erajaya POS
+742,PAY-00742,E-Wallet,Paid,Erajaya POS
+743,PAY-00743,Cash,Paid,GoPay
+744,PAY-00744,Credit Card,Paid,BRI
+745,PAY-00745,QRIS,Paid,BRI
+746,PAY-00746,Debit Card,Paid,BNI
+747,PAY-00747,QRIS,Paid,GoPay
+748,PAY-00748,Credit Card,Paid,ShopeePay
+749,PAY-00749,Credit Card,Paid,OVO
+750,PAY-00750,Bank Transfer,Failed,GoPay
+751,PAY-00751,QRIS,Paid,BNI
+752,PAY-00752,QRIS,Paid,Visa
+753,PAY-00753,E-Wallet,Paid,ShopeePay
+754,PAY-00754,Bank Transfer,Paid,ShopeePay
+755,PAY-00755,Debit Card,Paid,BCA
+756,PAY-00756,Cash,Paid,BCA
+757,PAY-00757,Debit Card,Paid,BRI
+758,PAY-00758,Debit Card,Paid,Mastercard
+759,PAY-00759,Debit Card,Paid,GoPay
+760,PAY-00760,QRIS,Paid,BNI
+761,PAY-00761,Debit Card,Paid,BNI
+762,PAY-00762,Cash,Pending,ShopeePay
+763,PAY-00763,Bank Transfer,Paid,OVO
+764,PAY-00764,QRIS,Pending,BNI
+765,PAY-00765,Credit Card,Paid,GoPay
+766,PAY-00766,QRIS,Paid,Mandiri
+767,PAY-00767,Credit Card,Paid,Mastercard
+768,PAY-00768,Bank Transfer,Paid,BRI
+769,PAY-00769,QRIS,Paid,Erajaya POS
+770,PAY-00770,E-Wallet,Paid,Erajaya POS
+771,PAY-00771,Bank Transfer,Paid,Mandiri
+772,PAY-00772,E-Wallet,Paid,Visa
+773,PAY-00773,Cash,Paid,Mandiri
+774,PAY-00774,E-Wallet,Paid,Mastercard
+775,PAY-00775,E-Wallet,Paid,GoPay
+776,PAY-00776,Cash,Paid,Mandiri
+777,PAY-00777,QRIS,Paid,Mastercard
+778,PAY-00778,Credit Card,Paid,BNI
+779,PAY-00779,Debit Card,Paid,Mandiri
+780,PAY-00780,Credit Card,Paid,OVO
+781,PAY-00781,Bank Transfer,Pending,Visa
+782,PAY-00782,Bank Transfer,Paid,Visa
+783,PAY-00783,E-Wallet,Paid,BCA
+784,PAY-00784,E-Wallet,Paid,Mastercard
+785,PAY-00785,Debit Card,Paid,BRI
+786,PAY-00786,QRIS,Paid,Erajaya POS
+787,PAY-00787,Credit Card,Paid,OVO
+788,PAY-00788,QRIS,Paid,Mastercard
+789,PAY-00789,Bank Transfer,Paid,GoPay
+790,PAY-00790,Cash,Paid,OVO
+791,PAY-00791,Debit Card,Paid,Erajaya POS
+792,PAY-00792,Cash,Paid,ShopeePay
+793,PAY-00793,Credit Card,Paid,BCA
+794,PAY-00794,Debit Card,Paid,Erajaya POS
+795,PAY-00795,E-Wallet,Paid,GoPay
+796,PAY-00796,E-Wallet,Paid,Visa
+797,PAY-00797,Credit Card,Paid,BNI
+798,PAY-00798,Debit Card,Paid,Erajaya POS
+799,PAY-00799,QRIS,Paid,Mandiri
+800,PAY-00800,E-Wallet,Paid,BNI
+801,PAY-00801,Cash,Paid,BNI
+802,PAY-00802,Credit Card,Paid,BRI
+803,PAY-00803,Credit Card,Paid,Erajaya POS
+804,PAY-00804,Cash,Paid,GoPay
+805,PAY-00805,Credit Card,Paid,ShopeePay
+806,PAY-00806,E-Wallet,Paid,Visa
+807,PAY-00807,QRIS,Paid,Visa
+808,PAY-00808,Debit Card,Paid,ShopeePay
+809,PAY-00809,Debit Card,Paid,BNI
+810,PAY-00810,QRIS,Paid,Visa
+811,PAY-00811,Debit Card,Paid,GoPay
+812,PAY-00812,Credit Card,Paid,Visa
+813,PAY-00813,Debit Card,Paid,Erajaya POS
+814,PAY-00814,Credit Card,Paid,OVO
+815,PAY-00815,QRIS,Paid,GoPay
+816,PAY-00816,QRIS,Paid,BCA
+817,PAY-00817,Credit Card,Paid,Erajaya POS
+818,PAY-00818,E-Wallet,Paid,GoPay
+819,PAY-00819,Credit Card,Paid,Mandiri
+820,PAY-00820,Credit Card,Paid,Erajaya POS
+821,PAY-00821,Cash,Refunded,ShopeePay
+822,PAY-00822,Cash,Paid,GoPay
+823,PAY-00823,Bank Transfer,Paid,GoPay
+824,PAY-00824,QRIS,Paid,BNI
+825,PAY-00825,QRIS,Paid,Erajaya POS
+826,PAY-00826,E-Wallet,Paid,ShopeePay
+827,PAY-00827,Credit Card,Failed,BNI
+828,PAY-00828,QRIS,Paid,Mastercard
+829,PAY-00829,QRIS,Paid,BCA
+830,PAY-00830,Credit Card,Paid,BNI
+831,PAY-00831,Cash,Paid,BNI
+832,PAY-00832,E-Wallet,Failed,Mandiri
+833,PAY-00833,Bank Transfer,Paid,BNI
+834,PAY-00834,Bank Transfer,Paid,Mandiri
+835,PAY-00835,Bank Transfer,Paid,BNI
+836,PAY-00836,QRIS,Paid,BNI
+837,PAY-00837,Cash,Paid,BCA
+838,PAY-00838,QRIS,Paid,BNI
+839,PAY-00839,Bank Transfer,Pending,ShopeePay
+840,PAY-00840,Credit Card,Paid,Mastercard
+841,PAY-00841,Cash,Paid,ShopeePay
+842,PAY-00842,Debit Card,Paid,BNI
+843,PAY-00843,QRIS,Paid,Erajaya POS
+844,PAY-00844,QRIS,Paid,BNI
+845,PAY-00845,Bank Transfer,Paid,BRI
+846,PAY-00846,Cash,Paid,BNI
+847,PAY-00847,QRIS,Paid,GoPay
+848,PAY-00848,Credit Card,Paid,BCA
+849,PAY-00849,QRIS,Paid,OVO
+850,PAY-00850,Cash,Paid,BNI
+851,PAY-00851,Credit Card,Paid,BNI
+852,PAY-00852,E-Wallet,Pending,OVO
+853,PAY-00853,QRIS,Pending,OVO
+854,PAY-00854,Debit Card,Paid,BRI
+855,PAY-00855,Credit Card,Paid,Visa
+856,PAY-00856,E-Wallet,Paid,BCA
+857,PAY-00857,Credit Card,Paid,OVO
+858,PAY-00858,QRIS,Paid,BNI
+859,PAY-00859,Credit Card,Paid,BNI
+860,PAY-00860,Credit Card,Paid,OVO
+861,PAY-00861,Bank Transfer,Paid,Erajaya POS
+862,PAY-00862,QRIS,Paid,ShopeePay
+863,PAY-00863,QRIS,Paid,OVO
+864,PAY-00864,Bank Transfer,Paid,BCA
+865,PAY-00865,Bank Transfer,Paid,BNI
+866,PAY-00866,Credit Card,Paid,ShopeePay
+867,PAY-00867,Credit Card,Paid,ShopeePay
+868,PAY-00868,E-Wallet,Paid,Visa
+869,PAY-00869,E-Wallet,Paid,ShopeePay
+870,PAY-00870,QRIS,Paid,Erajaya POS
+871,PAY-00871,Bank Transfer,Paid,Mastercard
+872,PAY-00872,E-Wallet,Paid,BRI
+873,PAY-00873,QRIS,Paid,OVO
+874,PAY-00874,QRIS,Paid,Mandiri
+875,PAY-00875,E-Wallet,Paid,Erajaya POS
+876,PAY-00876,E-Wallet,Paid,Visa
+877,PAY-00877,Credit Card,Paid,Erajaya POS
+878,PAY-00878,Bank Transfer,Paid,Visa
+879,PAY-00879,Credit Card,Paid,BCA
+880,PAY-00880,QRIS,Paid,BNI
+881,PAY-00881,Cash,Paid,Mastercard
+882,PAY-00882,QRIS,Paid,BNI
+883,PAY-00883,E-Wallet,Paid,ShopeePay
+884,PAY-00884,Bank Transfer,Paid,GoPay
+885,PAY-00885,Bank Transfer,Paid,Mastercard
+886,PAY-00886,Credit Card,Paid,Mastercard
+887,PAY-00887,E-Wallet,Paid,Visa
+888,PAY-00888,E-Wallet,Paid,BNI
+889,PAY-00889,E-Wallet,Paid,Mastercard
+890,PAY-00890,E-Wallet,Paid,BRI
+891,PAY-00891,Cash,Paid,Visa
+892,PAY-00892,Credit Card,Paid,Erajaya POS
+893,PAY-00893,E-Wallet,Paid,Mandiri
+894,PAY-00894,E-Wallet,Paid,OVO
+895,PAY-00895,QRIS,Paid,Erajaya POS
+896,PAY-00896,QRIS,Paid,Visa
+897,PAY-00897,Cash,Paid,BRI
+898,PAY-00898,Debit Card,Paid,BNI
+899,PAY-00899,QRIS,Paid,GoPay
+900,PAY-00900,Bank Transfer,Paid,OVO
+901,PAY-00901,QRIS,Paid,GoPay
+902,PAY-00902,QRIS,Paid,BNI
+903,PAY-00903,Bank Transfer,Paid,BRI
+904,PAY-00904,Credit Card,Paid,Mastercard
+905,PAY-00905,Debit Card,Paid,OVO
+906,PAY-00906,QRIS,Paid,Mastercard
+907,PAY-00907,Credit Card,Paid,Mandiri
+908,PAY-00908,Credit Card,Paid,ShopeePay
+909,PAY-00909,QRIS,Paid,Erajaya POS
+910,PAY-00910,Bank Transfer,Paid,BNI
+911,PAY-00911,Credit Card,Paid,GoPay
+912,PAY-00912,Cash,Paid,BRI
+913,PAY-00913,Credit Card,Paid,Visa
+914,PAY-00914,Credit Card,Paid,Visa
+915,PAY-00915,Credit Card,Paid,BCA
+916,PAY-00916,Bank Transfer,Failed,Visa
+917,PAY-00917,Credit Card,Paid,Mandiri
+918,PAY-00918,QRIS,Paid,GoPay
+919,PAY-00919,Credit Card,Paid,Mastercard
+920,PAY-00920,Credit Card,Paid,ShopeePay
+921,PAY-00921,Debit Card,Paid,BNI
+922,PAY-00922,QRIS,Paid,OVO
+923,PAY-00923,QRIS,Paid,BNI
+924,PAY-00924,Credit Card,Paid,Mandiri
+925,PAY-00925,E-Wallet,Paid,OVO
+926,PAY-00926,Credit Card,Paid,BCA
+927,PAY-00927,Credit Card,Paid,BNI
+928,PAY-00928,QRIS,Paid,BCA
+929,PAY-00929,E-Wallet,Paid,BRI
+930,PAY-00930,Bank Transfer,Paid,OVO
+931,PAY-00931,QRIS,Paid,Visa
+932,PAY-00932,QRIS,Paid,Visa
+933,PAY-00933,Credit Card,Paid,OVO
+934,PAY-00934,E-Wallet,Paid,OVO
+935,PAY-00935,QRIS,Paid,GoPay
+936,PAY-00936,Cash,Paid,GoPay
+937,PAY-00937,E-Wallet,Paid,Visa
+938,PAY-00938,Bank Transfer,Paid,Mandiri
+939,PAY-00939,Bank Transfer,Paid,Mandiri
+940,PAY-00940,QRIS,Paid,Erajaya POS
+941,PAY-00941,Credit Card,Paid,BNI
+942,PAY-00942,Cash,Paid,OVO
+943,PAY-00943,QRIS,Paid,Mandiri
+944,PAY-00944,Credit Card,Refunded,GoPay
+945,PAY-00945,Bank Transfer,Paid,Mandiri
+946,PAY-00946,Bank Transfer,Paid,BRI
+947,PAY-00947,E-Wallet,Paid,ShopeePay
+948,PAY-00948,Debit Card,Paid,OVO
+949,PAY-00949,E-Wallet,Paid,OVO
+950,PAY-00950,Cash,Pending,Mastercard
+951,PAY-00951,Credit Card,Failed,ShopeePay
+952,PAY-00952,QRIS,Paid,BRI
+953,PAY-00953,Credit Card,Failed,ShopeePay
+954,PAY-00954,QRIS,Paid,BCA
+955,PAY-00955,Bank Transfer,Paid,Erajaya POS
+956,PAY-00956,E-Wallet,Paid,BNI
+957,PAY-00957,QRIS,Paid,Mastercard
+958,PAY-00958,QRIS,Paid,ShopeePay
+959,PAY-00959,E-Wallet,Paid,BRI
+960,PAY-00960,Credit Card,Paid,Mandiri
+961,PAY-00961,QRIS,Paid,OVO
+962,PAY-00962,E-Wallet,Paid,BNI
+963,PAY-00963,QRIS,Paid,GoPay
+964,PAY-00964,QRIS,Paid,BCA
+965,PAY-00965,Credit Card,Refunded,Visa
+966,PAY-00966,QRIS,Paid,BRI
+967,PAY-00967,Credit Card,Paid,BRI
+968,PAY-00968,QRIS,Paid,BRI
+969,PAY-00969,E-Wallet,Paid,Erajaya POS
+970,PAY-00970,QRIS,Paid,BNI
+971,PAY-00971,Credit Card,Paid,BCA
+972,PAY-00972,Bank Transfer,Paid,BRI
+973,PAY-00973,Credit Card,Paid,BCA
+974,PAY-00974,Credit Card,Paid,ShopeePay
+975,PAY-00975,Debit Card,Paid,Mastercard
+976,PAY-00976,Credit Card,Paid,Mastercard
+977,PAY-00977,E-Wallet,Paid,BCA
+978,PAY-00978,Debit Card,Paid,Mastercard
+979,PAY-00979,Debit Card,Paid,Mandiri
+980,PAY-00980,QRIS,Paid,Erajaya POS
+981,PAY-00981,Debit Card,Paid,Erajaya POS
+982,PAY-00982,Credit Card,Paid,BNI
+983,PAY-00983,Debit Card,Paid,Erajaya POS
+984,PAY-00984,QRIS,Pending,BNI
+985,PAY-00985,Bank Transfer,Pending,Mandiri
+986,PAY-00986,QRIS,Paid,BRI
+987,PAY-00987,Debit Card,Paid,Mastercard
+988,PAY-00988,QRIS,Paid,BNI
+989,PAY-00989,E-Wallet,Paid,Visa
+990,PAY-00990,Credit Card,Paid,OVO
+991,PAY-00991,QRIS,Paid,Mastercard
+992,PAY-00992,Credit Card,Paid,GoPay
+993,PAY-00993,Bank Transfer,Paid,BNI
+994,PAY-00994,QRIS,Paid,Mastercard
+995,PAY-00995,QRIS,Pending,BCA
+996,PAY-00996,Debit Card,Paid,Mandiri
+997,PAY-00997,Debit Card,Paid,Mandiri
+998,PAY-00998,E-Wallet,Paid,Erajaya POS
+999,PAY-00999,E-Wallet,Paid,BRI
+1000,PAY-01000,Credit Card,Paid,Visa
+1001,PAY-01001,QRIS,Paid,BNI
+1002,PAY-01002,Debit Card,Paid,Mastercard
+1003,PAY-01003,Credit Card,Paid,Erajaya POS
+1004,PAY-01004,Credit Card,Paid,OVO
+1005,PAY-01005,Cash,Paid,BCA
+1006,PAY-01006,QRIS,Pending,ShopeePay
+1007,PAY-01007,QRIS,Paid,Visa
+1008,PAY-01008,E-Wallet,Pending,GoPay
+1009,PAY-01009,Bank Transfer,Paid,ShopeePay
+1010,PAY-01010,QRIS,Paid,Mastercard
+1011,PAY-01011,Debit Card,Paid,Erajaya POS
+1012,PAY-01012,E-Wallet,Failed,Mastercard
+1013,PAY-01013,Cash,Paid,Erajaya POS
+1014,PAY-01014,Bank Transfer,Paid,BRI
+1015,PAY-01015,QRIS,Paid,Visa
+1016,PAY-01016,Bank Transfer,Paid,Visa
+1017,PAY-01017,Credit Card,Paid,Visa
+1018,PAY-01018,Bank Transfer,Paid,Mastercard
+1019,PAY-01019,Credit Card,Failed,BRI
+1020,PAY-01020,QRIS,Paid,Visa
+1021,PAY-01021,Bank Transfer,Paid,BNI
+1022,PAY-01022,Credit Card,Paid,ShopeePay
+1023,PAY-01023,E-Wallet,Paid,BRI
+1024,PAY-01024,Bank Transfer,Paid,Visa
+1025,PAY-01025,QRIS,Paid,ShopeePay
+1026,PAY-01026,Debit Card,Paid,ShopeePay
+1027,PAY-01027,Debit Card,Paid,ShopeePay
+1028,PAY-01028,E-Wallet,Paid,BCA
+1029,PAY-01029,E-Wallet,Paid,OVO
+1030,PAY-01030,QRIS,Paid,OVO
+1031,PAY-01031,Credit Card,Paid,ShopeePay
+1032,PAY-01032,Credit Card,Paid,GoPay
+1033,PAY-01033,Debit Card,Paid,Erajaya POS
+1034,PAY-01034,E-Wallet,Paid,Erajaya POS
+1035,PAY-01035,Debit Card,Pending,BNI
+1036,PAY-01036,Debit Card,Paid,OVO
+1037,PAY-01037,Credit Card,Paid,BCA
+1038,PAY-01038,E-Wallet,Paid,Mandiri
+1039,PAY-01039,E-Wallet,Paid,OVO
+1040,PAY-01040,E-Wallet,Paid,Visa
+1041,PAY-01041,E-Wallet,Paid,Mastercard
+1042,PAY-01042,Debit Card,Paid,Mastercard
+1043,PAY-01043,E-Wallet,Paid,Erajaya POS
+1044,PAY-01044,Bank Transfer,Paid,Mandiri
+1045,PAY-01045,QRIS,Paid,ShopeePay
+1046,PAY-01046,Bank Transfer,Paid,BCA
+1047,PAY-01047,Credit Card,Paid,BNI
+1048,PAY-01048,Credit Card,Paid,Mastercard
+1049,PAY-01049,Credit Card,Paid,Erajaya POS
+1050,PAY-01050,Debit Card,Paid,OVO
+1051,PAY-01051,QRIS,Paid,BRI
+1052,PAY-01052,Debit Card,Paid,GoPay
+1053,PAY-01053,Debit Card,Paid,ShopeePay
+1054,PAY-01054,Bank Transfer,Paid,BNI
+1055,PAY-01055,E-Wallet,Paid,Visa
+1056,PAY-01056,Debit Card,Paid,Visa
+1057,PAY-01057,Bank Transfer,Paid,Mandiri
+1058,PAY-01058,E-Wallet,Paid,Mandiri
+1059,PAY-01059,QRIS,Paid,BNI
+1060,PAY-01060,QRIS,Paid,Mandiri
+1061,PAY-01061,Credit Card,Paid,Erajaya POS
+1062,PAY-01062,E-Wallet,Paid,Mandiri
+1063,PAY-01063,Debit Card,Paid,Mandiri
+1064,PAY-01064,QRIS,Paid,Erajaya POS
+1065,PAY-01065,Credit Card,Paid,Mastercard
+1066,PAY-01066,QRIS,Paid,BCA
+1067,PAY-01067,Debit Card,Paid,BNI
+1068,PAY-01068,Credit Card,Pending,Mastercard
+1069,PAY-01069,Credit Card,Paid,BRI
+1070,PAY-01070,Bank Transfer,Paid,Mastercard
+1071,PAY-01071,Credit Card,Pending,BNI
+1072,PAY-01072,Bank Transfer,Paid,BCA
+1073,PAY-01073,Credit Card,Paid,OVO
+1074,PAY-01074,QRIS,Paid,ShopeePay
+1075,PAY-01075,E-Wallet,Paid,Visa
+1076,PAY-01076,Credit Card,Paid,Mandiri
+1077,PAY-01077,Debit Card,Paid,Mandiri
+1078,PAY-01078,Credit Card,Paid,Mastercard
+1079,PAY-01079,Bank Transfer,Refunded,ShopeePay
+1080,PAY-01080,Cash,Paid,Mandiri
+1081,PAY-01081,Bank Transfer,Failed,Erajaya POS
+1082,PAY-01082,QRIS,Paid,Mastercard
+1083,PAY-01083,E-Wallet,Paid,ShopeePay
+1084,PAY-01084,Debit Card,Paid,ShopeePay
+1085,PAY-01085,Debit Card,Paid,Mandiri
+1086,PAY-01086,Bank Transfer,Paid,OVO
+1087,PAY-01087,Credit Card,Paid,BRI
+1088,PAY-01088,E-Wallet,Paid,Mandiri
+1089,PAY-01089,Credit Card,Paid,BCA
+1090,PAY-01090,Cash,Paid,ShopeePay
+1091,PAY-01091,QRIS,Paid,BNI
+1092,PAY-01092,Credit Card,Paid,Mandiri
+1093,PAY-01093,Credit Card,Paid,BRI
+1094,PAY-01094,QRIS,Refunded,Mastercard
+1095,PAY-01095,QRIS,Paid,BCA
+1096,PAY-01096,Credit Card,Paid,Visa
+1097,PAY-01097,Cash,Paid,BCA
+1098,PAY-01098,Credit Card,Refunded,BRI
+1099,PAY-01099,Bank Transfer,Paid,ShopeePay
+1100,PAY-01100,Bank Transfer,Paid,BNI
+1101,PAY-01101,Credit Card,Paid,OVO
+1102,PAY-01102,QRIS,Paid,GoPay
+1103,PAY-01103,Bank Transfer,Paid,BRI
+1104,PAY-01104,E-Wallet,Paid,BNI
+1105,PAY-01105,Credit Card,Paid,Visa
+1106,PAY-01106,Debit Card,Refunded,BNI
+1107,PAY-01107,Bank Transfer,Refunded,Mastercard
+1108,PAY-01108,QRIS,Pending,BCA
+1109,PAY-01109,QRIS,Paid,BCA
+1110,PAY-01110,QRIS,Paid,BCA
+1111,PAY-01111,Credit Card,Paid,OVO
+1112,PAY-01112,E-Wallet,Paid,Erajaya POS
+1113,PAY-01113,QRIS,Paid,GoPay
+1114,PAY-01114,E-Wallet,Paid,BNI
+1115,PAY-01115,E-Wallet,Paid,Erajaya POS
+1116,PAY-01116,Credit Card,Paid,Mastercard
+1117,PAY-01117,Credit Card,Paid,BNI
+1118,PAY-01118,Credit Card,Paid,OVO
+1119,PAY-01119,Credit Card,Paid,Visa
+1120,PAY-01120,Cash,Paid,Erajaya POS
+1121,PAY-01121,Credit Card,Pending,OVO
+1122,PAY-01122,Bank Transfer,Paid,ShopeePay
+1123,PAY-01123,E-Wallet,Paid,OVO
+1124,PAY-01124,Bank Transfer,Paid,BNI
+1125,PAY-01125,Debit Card,Paid,BNI
+1126,PAY-01126,QRIS,Paid,Visa
+1127,PAY-01127,E-Wallet,Pending,ShopeePay
+1128,PAY-01128,Bank Transfer,Paid,Mandiri
+1129,PAY-01129,QRIS,Paid,Visa
+1130,PAY-01130,Cash,Paid,BRI
+1131,PAY-01131,Credit Card,Paid,BRI
+1132,PAY-01132,Credit Card,Paid,GoPay
+1133,PAY-01133,Bank Transfer,Paid,GoPay
+1134,PAY-01134,E-Wallet,Paid,GoPay
+1135,PAY-01135,Cash,Paid,ShopeePay
+1136,PAY-01136,Credit Card,Paid,Erajaya POS
+1137,PAY-01137,Cash,Paid,GoPay
+1138,PAY-01138,QRIS,Paid,GoPay
+1139,PAY-01139,Cash,Pending,Erajaya POS
+1140,PAY-01140,QRIS,Paid,BRI
+1141,PAY-01141,QRIS,Paid,Erajaya POS
+1142,PAY-01142,Bank Transfer,Paid,GoPay
+1143,PAY-01143,Debit Card,Paid,Erajaya POS
+1144,PAY-01144,E-Wallet,Paid,BCA
+1145,PAY-01145,QRIS,Paid,GoPay
+1146,PAY-01146,QRIS,Paid,ShopeePay
+1147,PAY-01147,Cash,Paid,OVO
+1148,PAY-01148,QRIS,Paid,Visa
+1149,PAY-01149,Credit Card,Paid,Visa
+1150,PAY-01150,Debit Card,Paid,GoPay
+1151,PAY-01151,E-Wallet,Paid,Mastercard
+1152,PAY-01152,Bank Transfer,Paid,BRI
+1153,PAY-01153,Credit Card,Paid,GoPay
+1154,PAY-01154,Credit Card,Refunded,Erajaya POS
+1155,PAY-01155,E-Wallet,Paid,OVO
+1156,PAY-01156,Credit Card,Pending,BNI
+1157,PAY-01157,Credit Card,Paid,ShopeePay
+1158,PAY-01158,Bank Transfer,Paid,ShopeePay
+1159,PAY-01159,E-Wallet,Paid,Mastercard
+1160,PAY-01160,Bank Transfer,Paid,GoPay
+1161,PAY-01161,QRIS,Paid,Visa
+1162,PAY-01162,Debit Card,Paid,Visa
+1163,PAY-01163,Credit Card,Paid,BNI
+1164,PAY-01164,E-Wallet,Paid,Visa
+1165,PAY-01165,Credit Card,Pending,Visa
+1166,PAY-01166,Bank Transfer,Paid,Visa
+1167,PAY-01167,Credit Card,Paid,BNI
+1168,PAY-01168,Cash,Paid,GoPay
+1169,PAY-01169,Credit Card,Paid,Erajaya POS
+1170,PAY-01170,Debit Card,Paid,BNI
+1171,PAY-01171,Credit Card,Paid,OVO
+1172,PAY-01172,Debit Card,Paid,Visa
+1173,PAY-01173,QRIS,Failed,BCA
+1174,PAY-01174,E-Wallet,Paid,Mastercard
+1175,PAY-01175,QRIS,Paid,Mastercard
+1176,PAY-01176,Cash,Paid,BRI
+1177,PAY-01177,Bank Transfer,Paid,Mandiri
+1178,PAY-01178,E-Wallet,Paid,OVO
+1179,PAY-01179,QRIS,Paid,BRI
+1180,PAY-01180,Bank Transfer,Paid,BNI
+1181,PAY-01181,Debit Card,Paid,BCA
+1182,PAY-01182,Debit Card,Paid,Erajaya POS
+1183,PAY-01183,E-Wallet,Paid,BRI
+1184,PAY-01184,E-Wallet,Paid,BCA
+1185,PAY-01185,QRIS,Paid,BCA
+1186,PAY-01186,Credit Card,Paid,BRI
+1187,PAY-01187,E-Wallet,Paid,Mandiri
+1188,PAY-01188,Credit Card,Pending,ShopeePay
+1189,PAY-01189,QRIS,Paid,BCA
+1190,PAY-01190,E-Wallet,Paid,GoPay
+1191,PAY-01191,Credit Card,Paid,BRI
+1192,PAY-01192,E-Wallet,Paid,BRI
+1193,PAY-01193,QRIS,Paid,BNI
+1194,PAY-01194,Debit Card,Paid,Mandiri
+1195,PAY-01195,Credit Card,Paid,Visa
+1196,PAY-01196,E-Wallet,Paid,ShopeePay
+1197,PAY-01197,QRIS,Paid,Mastercard
+1198,PAY-01198,Credit Card,Paid,Erajaya POS
+1199,PAY-01199,E-Wallet,Paid,Mandiri
+1200,PAY-01200,Credit Card,Failed,Erajaya POS
+1201,PAY-01201,Bank Transfer,Paid,BCA
+1202,PAY-01202,E-Wallet,Paid,Erajaya POS
+1203,PAY-01203,E-Wallet,Paid,Visa
+1204,PAY-01204,Bank Transfer,Refunded,Mandiri
+1205,PAY-01205,QRIS,Paid,ShopeePay
+1206,PAY-01206,Debit Card,Paid,Erajaya POS
+1207,PAY-01207,E-Wallet,Paid,GoPay
+1208,PAY-01208,Bank Transfer,Paid,OVO
+1209,PAY-01209,E-Wallet,Paid,Mandiri
+1210,PAY-01210,Debit Card,Paid,ShopeePay
+1211,PAY-01211,Credit Card,Pending,BNI
+1212,PAY-01212,Cash,Paid,Mandiri
+1213,PAY-01213,Cash,Failed,BRI
+1214,PAY-01214,Debit Card,Refunded,Erajaya POS
+1215,PAY-01215,QRIS,Refunded,Visa
+1216,PAY-01216,Bank Transfer,Paid,BCA
+1217,PAY-01217,Credit Card,Paid,GoPay
+1218,PAY-01218,Credit Card,Paid,Visa
+1219,PAY-01219,E-Wallet,Paid,BNI
+1220,PAY-01220,Bank Transfer,Paid,BCA
+1221,PAY-01221,QRIS,Refunded,BCA
+1222,PAY-01222,Credit Card,Paid,Mastercard
+1223,PAY-01223,Bank Transfer,Paid,BCA
+1224,PAY-01224,Debit Card,Paid,ShopeePay
+1225,PAY-01225,E-Wallet,Paid,Visa
+1226,PAY-01226,Debit Card,Paid,Mastercard
+1227,PAY-01227,E-Wallet,Paid,Mastercard
+1228,PAY-01228,QRIS,Paid,BNI
+1229,PAY-01229,Debit Card,Paid,ShopeePay
+1230,PAY-01230,QRIS,Paid,BNI
+1231,PAY-01231,Credit Card,Paid,BNI
+1232,PAY-01232,Credit Card,Paid,GoPay
+1233,PAY-01233,Cash,Paid,Visa
+1234,PAY-01234,Debit Card,Paid,GoPay
+1235,PAY-01235,E-Wallet,Paid,Visa
+1236,PAY-01236,Bank Transfer,Paid,BCA
+1237,PAY-01237,E-Wallet,Paid,Visa
+1238,PAY-01238,Credit Card,Refunded,Mastercard
+1239,PAY-01239,Credit Card,Paid,BNI
+1240,PAY-01240,QRIS,Paid,GoPay
+1241,PAY-01241,E-Wallet,Paid,Mandiri
+1242,PAY-01242,Credit Card,Paid,ShopeePay
+1243,PAY-01243,Bank Transfer,Paid,ShopeePay
+1244,PAY-01244,E-Wallet,Paid,ShopeePay
+1245,PAY-01245,Bank Transfer,Paid,BCA
+1246,PAY-01246,QRIS,Paid,BCA
+1247,PAY-01247,QRIS,Paid,GoPay
+1248,PAY-01248,Debit Card,Paid,Mandiri
+1249,PAY-01249,QRIS,Paid,Visa
+1250,PAY-01250,Bank Transfer,Paid,BCA
+1251,PAY-01251,Cash,Paid,Mandiri
+1252,PAY-01252,QRIS,Pending,BCA
+1253,PAY-01253,Bank Transfer,Paid,Erajaya POS
+1254,PAY-01254,Bank Transfer,Paid,Mandiri
+1255,PAY-01255,Cash,Paid,Mandiri
+1256,PAY-01256,Credit Card,Paid,Mastercard
+1257,PAY-01257,QRIS,Paid,BRI
+1258,PAY-01258,QRIS,Paid,ShopeePay
+1259,PAY-01259,Debit Card,Paid,ShopeePay
+1260,PAY-01260,Credit Card,Paid,Visa
+1261,PAY-01261,Bank Transfer,Paid,BCA
+1262,PAY-01262,Bank Transfer,Paid,BNI
+1263,PAY-01263,Credit Card,Paid,BRI
+1264,PAY-01264,Bank Transfer,Paid,GoPay
+1265,PAY-01265,Credit Card,Paid,BNI
+1266,PAY-01266,Bank Transfer,Paid,BRI
+1267,PAY-01267,E-Wallet,Paid,ShopeePay
+1268,PAY-01268,E-Wallet,Paid,BRI
+1269,PAY-01269,Credit Card,Paid,BRI
+1270,PAY-01270,Credit Card,Paid,BNI
+1271,PAY-01271,Credit Card,Failed,BNI
+1272,PAY-01272,Credit Card,Paid,GoPay
+1273,PAY-01273,E-Wallet,Paid,Mandiri
+1274,PAY-01274,QRIS,Paid,Mandiri
+1275,PAY-01275,QRIS,Paid,BCA
+1276,PAY-01276,E-Wallet,Paid,ShopeePay
+1277,PAY-01277,Credit Card,Paid,Visa
+1278,PAY-01278,QRIS,Paid,GoPay
+1279,PAY-01279,Credit Card,Paid,BCA
+1280,PAY-01280,QRIS,Paid,Erajaya POS
+1281,PAY-01281,Credit Card,Paid,Visa
+1282,PAY-01282,Credit Card,Refunded,Mastercard
+1283,PAY-01283,Debit Card,Paid,OVO
+1284,PAY-01284,Cash,Paid,Erajaya POS
+1285,PAY-01285,E-Wallet,Paid,BCA
+1286,PAY-01286,E-Wallet,Paid,ShopeePay
+1287,PAY-01287,E-Wallet,Paid,BNI
+1288,PAY-01288,E-Wallet,Paid,OVO
+1289,PAY-01289,Credit Card,Paid,Visa
+1290,PAY-01290,QRIS,Paid,Mastercard
+1291,PAY-01291,Bank Transfer,Paid,GoPay
+1292,PAY-01292,QRIS,Paid,OVO
+1293,PAY-01293,Credit Card,Paid,BNI
+1294,PAY-01294,QRIS,Paid,Mastercard
+1295,PAY-01295,QRIS,Paid,BNI
+1296,PAY-01296,Credit Card,Failed,Mastercard
+1297,PAY-01297,Debit Card,Refunded,GoPay
+1298,PAY-01298,Debit Card,Paid,ShopeePay
+1299,PAY-01299,QRIS,Paid,Erajaya POS
+1300,PAY-01300,E-Wallet,Paid,Visa
+1301,PAY-01301,Credit Card,Paid,Visa
+1302,PAY-01302,Credit Card,Paid,Visa
+1303,PAY-01303,Bank Transfer,Failed,BNI
+1304,PAY-01304,Credit Card,Paid,ShopeePay
+1305,PAY-01305,E-Wallet,Paid,BNI
+1306,PAY-01306,Debit Card,Paid,ShopeePay
+1307,PAY-01307,QRIS,Paid,Erajaya POS
+1308,PAY-01308,Cash,Paid,BRI
+1309,PAY-01309,Credit Card,Failed,OVO
+1310,PAY-01310,Debit Card,Failed,Erajaya POS
+1311,PAY-01311,Credit Card,Paid,BCA
+1312,PAY-01312,QRIS,Paid,BRI
+1313,PAY-01313,Cash,Paid,OVO
+1314,PAY-01314,Bank Transfer,Paid,OVO
+1315,PAY-01315,Bank Transfer,Paid,BRI
+1316,PAY-01316,Credit Card,Paid,Erajaya POS
+1317,PAY-01317,QRIS,Paid,BRI
+1318,PAY-01318,E-Wallet,Paid,GoPay
+1319,PAY-01319,QRIS,Paid,OVO
+1320,PAY-01320,QRIS,Paid,ShopeePay
+1321,PAY-01321,Credit Card,Paid,GoPay
+1322,PAY-01322,QRIS,Paid,OVO
+1323,PAY-01323,Bank Transfer,Paid,BRI
+1324,PAY-01324,E-Wallet,Refunded,Mastercard
+1325,PAY-01325,Debit Card,Paid,ShopeePay
+1326,PAY-01326,QRIS,Paid,Mastercard
+1327,PAY-01327,Debit Card,Paid,BNI
+1328,PAY-01328,Credit Card,Paid,BNI
+1329,PAY-01329,Credit Card,Paid,GoPay
+1330,PAY-01330,Credit Card,Paid,Erajaya POS
+1331,PAY-01331,Bank Transfer,Paid,Mandiri
+1332,PAY-01332,Debit Card,Paid,Visa
+1333,PAY-01333,QRIS,Paid,GoPay
+1334,PAY-01334,QRIS,Paid,BCA
+1335,PAY-01335,Credit Card,Paid,ShopeePay
+1336,PAY-01336,Credit Card,Paid,OVO
+1337,PAY-01337,Debit Card,Paid,Mastercard
+1338,PAY-01338,Bank Transfer,Paid,BCA
+1339,PAY-01339,Cash,Paid,BCA
+1340,PAY-01340,Bank Transfer,Paid,Erajaya POS
+1341,PAY-01341,QRIS,Paid,OVO
+1342,PAY-01342,Cash,Paid,Erajaya POS
+1343,PAY-01343,Credit Card,Paid,ShopeePay
+1344,PAY-01344,Bank Transfer,Paid,OVO
+1345,PAY-01345,E-Wallet,Paid,Mastercard
+1346,PAY-01346,Cash,Paid,GoPay
+1347,PAY-01347,Bank Transfer,Paid,OVO
+1348,PAY-01348,Credit Card,Paid,ShopeePay
+1349,PAY-01349,E-Wallet,Paid,GoPay
+1350,PAY-01350,Bank Transfer,Paid,BNI
+1351,PAY-01351,Cash,Failed,BNI
+1352,PAY-01352,QRIS,Paid,Mandiri
+1353,PAY-01353,Credit Card,Paid,OVO
+1354,PAY-01354,Credit Card,Paid,OVO
+1355,PAY-01355,QRIS,Paid,Mandiri
+1356,PAY-01356,Cash,Paid,BRI
+1357,PAY-01357,Credit Card,Paid,Mastercard
+1358,PAY-01358,Debit Card,Paid,BRI
+1359,PAY-01359,Credit Card,Paid,Mastercard
+1360,PAY-01360,QRIS,Paid,Erajaya POS
+1361,PAY-01361,Bank Transfer,Paid,Erajaya POS
+1362,PAY-01362,Debit Card,Paid,Mastercard
+1363,PAY-01363,Cash,Paid,GoPay
+1364,PAY-01364,Debit Card,Paid,BRI
+1365,PAY-01365,Credit Card,Paid,BCA
+1366,PAY-01366,QRIS,Paid,OVO
+1367,PAY-01367,QRIS,Paid,BNI
+1368,PAY-01368,Credit Card,Paid,Mastercard
+1369,PAY-01369,Credit Card,Paid,GoPay
+1370,PAY-01370,Bank Transfer,Paid,Erajaya POS
+1371,PAY-01371,Credit Card,Paid,BCA
+1372,PAY-01372,Cash,Paid,Mandiri
+1373,PAY-01373,QRIS,Paid,ShopeePay
+1374,PAY-01374,Cash,Paid,OVO
+1375,PAY-01375,Credit Card,Paid,Mandiri
+1376,PAY-01376,E-Wallet,Paid,ShopeePay
+1377,PAY-01377,E-Wallet,Paid,Mandiri
+1378,PAY-01378,Debit Card,Paid,OVO
+1379,PAY-01379,E-Wallet,Paid,GoPay
+1380,PAY-01380,Debit Card,Paid,OVO
+1381,PAY-01381,Cash,Paid,BNI
+1382,PAY-01382,QRIS,Paid,BNI
+1383,PAY-01383,QRIS,Paid,Erajaya POS
+1384,PAY-01384,QRIS,Paid,Mandiri
+1385,PAY-01385,Bank Transfer,Paid,BRI
+1386,PAY-01386,Debit Card,Paid,ShopeePay
+1387,PAY-01387,QRIS,Failed,BRI
+1388,PAY-01388,QRIS,Paid,Mandiri
+1389,PAY-01389,E-Wallet,Paid,Visa
+1390,PAY-01390,Bank Transfer,Paid,Mandiri
+1391,PAY-01391,Bank Transfer,Paid,BCA
+1392,PAY-01392,Bank Transfer,Failed,ShopeePay
+1393,PAY-01393,Debit Card,Paid,Visa
+1394,PAY-01394,Cash,Paid,Mastercard
+1395,PAY-01395,Bank Transfer,Paid,BNI
+1396,PAY-01396,Cash,Paid,Mastercard
+1397,PAY-01397,Debit Card,Paid,ShopeePay
+1398,PAY-01398,Credit Card,Paid,Visa
+1399,PAY-01399,Cash,Paid,GoPay
+1400,PAY-01400,Bank Transfer,Paid,OVO
+1401,PAY-01401,E-Wallet,Paid,ShopeePay
+1402,PAY-01402,Debit Card,Paid,BRI
+1403,PAY-01403,E-Wallet,Paid,Mandiri
+1404,PAY-01404,QRIS,Paid,Mandiri
+1405,PAY-01405,Credit Card,Paid,OVO
+1406,PAY-01406,Cash,Paid,Visa
+1407,PAY-01407,QRIS,Paid,ShopeePay
+1408,PAY-01408,Credit Card,Paid,Mandiri
+1409,PAY-01409,Credit Card,Paid,Visa
+1410,PAY-01410,Cash,Paid,Mandiri
+1411,PAY-01411,QRIS,Paid,Visa
+1412,PAY-01412,Bank Transfer,Paid,Erajaya POS
+1413,PAY-01413,Debit Card,Pending,BNI
+1414,PAY-01414,E-Wallet,Paid,BNI
+1415,PAY-01415,Credit Card,Paid,BRI
+1416,PAY-01416,Credit Card,Paid,Mandiri
+1417,PAY-01417,Debit Card,Paid,Mandiri
+1418,PAY-01418,Credit Card,Paid,OVO
+1419,PAY-01419,Bank Transfer,Paid,BCA
+1420,PAY-01420,E-Wallet,Paid,BCA
+1421,PAY-01421,QRIS,Paid,GoPay
+1422,PAY-01422,Cash,Paid,Mastercard
+1423,PAY-01423,QRIS,Paid,GoPay
+1424,PAY-01424,Cash,Paid,Erajaya POS
+1425,PAY-01425,Credit Card,Pending,Mandiri
+1426,PAY-01426,Bank Transfer,Paid,Erajaya POS
+1427,PAY-01427,Credit Card,Paid,Erajaya POS
+1428,PAY-01428,E-Wallet,Paid,BRI
+1429,PAY-01429,Credit Card,Paid,GoPay
+1430,PAY-01430,E-Wallet,Failed,OVO
+1431,PAY-01431,Credit Card,Paid,Mastercard
+1432,PAY-01432,Bank Transfer,Refunded,Visa
+1433,PAY-01433,Bank Transfer,Paid,BNI
+1434,PAY-01434,QRIS,Paid,BCA
+1435,PAY-01435,E-Wallet,Paid,BNI
+1436,PAY-01436,Credit Card,Paid,BCA
+1437,PAY-01437,E-Wallet,Paid,Erajaya POS
+1438,PAY-01438,E-Wallet,Paid,Mastercard
+1439,PAY-01439,QRIS,Paid,ShopeePay
+1440,PAY-01440,QRIS,Paid,Visa
+1441,PAY-01441,QRIS,Paid,BRI
+1442,PAY-01442,E-Wallet,Paid,GoPay
+1443,PAY-01443,E-Wallet,Paid,ShopeePay
+1444,PAY-01444,QRIS,Paid,Erajaya POS
+1445,PAY-01445,Credit Card,Paid,BCA
+1446,PAY-01446,QRIS,Paid,BCA
+1447,PAY-01447,E-Wallet,Paid,BNI
+1448,PAY-01448,Debit Card,Paid,BNI
+1449,PAY-01449,Bank Transfer,Paid,BCA
+1450,PAY-01450,QRIS,Paid,Mastercard
+1451,PAY-01451,Bank Transfer,Paid,Visa
+1452,PAY-01452,Bank Transfer,Paid,Mandiri
+1453,PAY-01453,QRIS,Paid,BRI
+1454,PAY-01454,Debit Card,Paid,BNI
+1455,PAY-01455,Credit Card,Pending,Visa
+1456,PAY-01456,E-Wallet,Paid,GoPay
+1457,PAY-01457,E-Wallet,Paid,BRI
+1458,PAY-01458,QRIS,Refunded,Visa
+1459,PAY-01459,Bank Transfer,Paid,Mastercard
+1460,PAY-01460,Cash,Paid,BNI
+1461,PAY-01461,QRIS,Paid,GoPay
+1462,PAY-01462,Credit Card,Paid,Visa
+1463,PAY-01463,Credit Card,Paid,BNI
+1464,PAY-01464,E-Wallet,Paid,Erajaya POS
+1465,PAY-01465,Credit Card,Paid,OVO
+1466,PAY-01466,Cash,Paid,Erajaya POS
+1467,PAY-01467,Credit Card,Paid,BCA
+1468,PAY-01468,QRIS,Refunded,OVO
+1469,PAY-01469,Credit Card,Paid,Mastercard
+1470,PAY-01470,E-Wallet,Paid,Erajaya POS
+1471,PAY-01471,Bank Transfer,Paid,BNI
+1472,PAY-01472,E-Wallet,Paid,ShopeePay
+1473,PAY-01473,Cash,Paid,BNI
+1474,PAY-01474,QRIS,Paid,Erajaya POS
+1475,PAY-01475,Cash,Paid,ShopeePay
+1476,PAY-01476,Credit Card,Paid,BRI
+1477,PAY-01477,Credit Card,Paid,BCA
+1478,PAY-01478,Debit Card,Failed,OVO
+1479,PAY-01479,QRIS,Paid,GoPay
+1480,PAY-01480,E-Wallet,Paid,OVO
+1481,PAY-01481,E-Wallet,Paid,Erajaya POS
+1482,PAY-01482,Debit Card,Paid,OVO
+1483,PAY-01483,Credit Card,Paid,OVO
+1484,PAY-01484,E-Wallet,Paid,Mandiri
+1485,PAY-01485,QRIS,Paid,GoPay
+1486,PAY-01486,Bank Transfer,Paid,Erajaya POS
+1487,PAY-01487,Credit Card,Paid,Mastercard
+1488,PAY-01488,QRIS,Paid,BNI
+1489,PAY-01489,Bank Transfer,Paid,Visa
+1490,PAY-01490,Cash,Paid,GoPay
+1491,PAY-01491,QRIS,Paid,Erajaya POS
+1492,PAY-01492,QRIS,Paid,Mandiri
+1493,PAY-01493,QRIS,Paid,BNI
+1494,PAY-01494,Bank Transfer,Paid,BCA
+1495,PAY-01495,Debit Card,Paid,Erajaya POS
+1496,PAY-01496,QRIS,Paid,Erajaya POS
+1497,PAY-01497,Debit Card,Paid,GoPay
+1498,PAY-01498,Debit Card,Failed,BCA
+1499,PAY-01499,Credit Card,Paid,Mandiri
+1500,PAY-01500,Debit Card,Paid,OVO
+1501,PAY-01501,Credit Card,Paid,Mastercard
+1502,PAY-01502,Debit Card,Paid,Visa
+1503,PAY-01503,Debit Card,Paid,BRI
+1504,PAY-01504,Cash,Paid,Visa
+1505,PAY-01505,QRIS,Paid,BCA
+1506,PAY-01506,Credit Card,Paid,Visa
+1507,PAY-01507,QRIS,Paid,BRI
+1508,PAY-01508,Credit Card,Paid,ShopeePay
+1509,PAY-01509,QRIS,Paid,BCA
+1510,PAY-01510,QRIS,Paid,Mandiri
+1511,PAY-01511,E-Wallet,Paid,Mastercard
+1512,PAY-01512,QRIS,Paid,OVO
+1513,PAY-01513,Debit Card,Paid,ShopeePay
+1514,PAY-01514,QRIS,Paid,Visa
+1515,PAY-01515,Cash,Paid,BNI
+1516,PAY-01516,Credit Card,Paid,GoPay
+1517,PAY-01517,Debit Card,Paid,Mastercard
+1518,PAY-01518,Credit Card,Paid,Erajaya POS
+1519,PAY-01519,QRIS,Paid,BNI
+1520,PAY-01520,Bank Transfer,Paid,GoPay
+1521,PAY-01521,E-Wallet,Pending,GoPay
+1522,PAY-01522,E-Wallet,Paid,BNI
+1523,PAY-01523,Cash,Paid,Visa
+1524,PAY-01524,QRIS,Paid,Mastercard
+1525,PAY-01525,Bank Transfer,Paid,Visa
+1526,PAY-01526,QRIS,Paid,Visa
+1527,PAY-01527,Credit Card,Paid,Visa
+1528,PAY-01528,QRIS,Paid,Mastercard
+1529,PAY-01529,Bank Transfer,Paid,BCA
+1530,PAY-01530,Bank Transfer,Paid,ShopeePay
+1531,PAY-01531,QRIS,Paid,GoPay
+1532,PAY-01532,Debit Card,Paid,GoPay
+1533,PAY-01533,Bank Transfer,Paid,BNI
+1534,PAY-01534,Bank Transfer,Paid,BCA
+1535,PAY-01535,E-Wallet,Paid,BRI
+1536,PAY-01536,Credit Card,Paid,BCA
+1537,PAY-01537,Credit Card,Paid,BNI
+1538,PAY-01538,QRIS,Paid,ShopeePay
+1539,PAY-01539,E-Wallet,Refunded,BNI
+1540,PAY-01540,Cash,Paid,GoPay
+1541,PAY-01541,Bank Transfer,Paid,Erajaya POS
+1542,PAY-01542,Cash,Paid,Mastercard
+1543,PAY-01543,QRIS,Paid,BNI
+1544,PAY-01544,Credit Card,Paid,GoPay
+1545,PAY-01545,E-Wallet,Paid,BNI
+1546,PAY-01546,E-Wallet,Paid,BCA
+1547,PAY-01547,QRIS,Paid,Erajaya POS
+1548,PAY-01548,Credit Card,Paid,BRI
+1549,PAY-01549,QRIS,Paid,Visa
+1550,PAY-01550,Bank Transfer,Paid,Visa
+1551,PAY-01551,E-Wallet,Paid,Visa
+1552,PAY-01552,Credit Card,Paid,BRI
+1553,PAY-01553,E-Wallet,Paid,Mastercard
+1554,PAY-01554,Credit Card,Paid,ShopeePay
+1555,PAY-01555,Credit Card,Paid,BRI
+1556,PAY-01556,E-Wallet,Paid,GoPay
+1557,PAY-01557,QRIS,Paid,BNI
+1558,PAY-01558,E-Wallet,Paid,Mandiri
+1559,PAY-01559,Bank Transfer,Paid,BRI
+1560,PAY-01560,Credit Card,Paid,GoPay
+1561,PAY-01561,Debit Card,Paid,ShopeePay
+1562,PAY-01562,Cash,Paid,Mastercard
+1563,PAY-01563,Bank Transfer,Paid,BNI
+1564,PAY-01564,QRIS,Paid,BRI
+1565,PAY-01565,Bank Transfer,Paid,Visa
+1566,PAY-01566,QRIS,Paid,Visa
+1567,PAY-01567,Debit Card,Paid,Mastercard
+1568,PAY-01568,Debit Card,Paid,ShopeePay
+1569,PAY-01569,QRIS,Paid,GoPay
+1570,PAY-01570,Debit Card,Paid,ShopeePay
+1571,PAY-01571,Bank Transfer,Paid,Erajaya POS
+1572,PAY-01572,Bank Transfer,Paid,Mastercard
+1573,PAY-01573,Credit Card,Paid,ShopeePay
+1574,PAY-01574,Cash,Paid,Erajaya POS
+1575,PAY-01575,QRIS,Paid,GoPay
+1576,PAY-01576,Cash,Paid,BNI
+1577,PAY-01577,E-Wallet,Paid,Erajaya POS
+1578,PAY-01578,Bank Transfer,Paid,Mandiri
+1579,PAY-01579,Credit Card,Paid,Erajaya POS
+1580,PAY-01580,E-Wallet,Paid,BRI
+1581,PAY-01581,Cash,Paid,Erajaya POS
+1582,PAY-01582,Debit Card,Paid,Visa
+1583,PAY-01583,Cash,Paid,Erajaya POS
+1584,PAY-01584,QRIS,Paid,Visa
+1585,PAY-01585,Credit Card,Paid,Visa
+1586,PAY-01586,Credit Card,Paid,BCA
+1587,PAY-01587,QRIS,Pending,ShopeePay
+1588,PAY-01588,Bank Transfer,Paid,GoPay
+1589,PAY-01589,QRIS,Pending,Erajaya POS
+1590,PAY-01590,Credit Card,Paid,BCA
+1591,PAY-01591,Debit Card,Paid,Erajaya POS
+1592,PAY-01592,Credit Card,Paid,BNI
+1593,PAY-01593,Credit Card,Paid,OVO
+1594,PAY-01594,Credit Card,Paid,Mastercard
+1595,PAY-01595,Credit Card,Refunded,Visa
+1596,PAY-01596,E-Wallet,Paid,BRI
+1597,PAY-01597,QRIS,Paid,Mastercard
+1598,PAY-01598,Debit Card,Paid,Erajaya POS
+1599,PAY-01599,Cash,Paid,OVO
+1600,PAY-01600,E-Wallet,Pending,BRI
+1601,PAY-01601,E-Wallet,Paid,BCA
+1602,PAY-01602,Bank Transfer,Paid,Visa
+1603,PAY-01603,E-Wallet,Failed,Mastercard
+1604,PAY-01604,Credit Card,Paid,Mandiri
+1605,PAY-01605,Cash,Paid,GoPay
+1606,PAY-01606,E-Wallet,Paid,BCA
+1607,PAY-01607,Cash,Paid,Mandiri
+1608,PAY-01608,Bank Transfer,Paid,ShopeePay
+1609,PAY-01609,E-Wallet,Paid,BRI
+1610,PAY-01610,E-Wallet,Paid,BRI
+1611,PAY-01611,Credit Card,Pending,Mandiri
+1612,PAY-01612,Bank Transfer,Paid,BNI
+1613,PAY-01613,Bank Transfer,Paid,BCA
+1614,PAY-01614,Credit Card,Paid,GoPay
+1615,PAY-01615,Debit Card,Paid,BCA
+1616,PAY-01616,QRIS,Paid,GoPay
+1617,PAY-01617,Debit Card,Paid,BCA
+1618,PAY-01618,Bank Transfer,Paid,Erajaya POS
+1619,PAY-01619,Bank Transfer,Paid,Visa
+1620,PAY-01620,QRIS,Paid,BNI
+1621,PAY-01621,Cash,Paid,OVO
+1622,PAY-01622,Credit Card,Paid,Visa
+1623,PAY-01623,E-Wallet,Paid,Visa
+1624,PAY-01624,QRIS,Pending,Mastercard
+1625,PAY-01625,Credit Card,Paid,Mandiri
+1626,PAY-01626,Credit Card,Paid,ShopeePay
+1627,PAY-01627,Bank Transfer,Paid,Mastercard
+1628,PAY-01628,Debit Card,Paid,BNI
+1629,PAY-01629,Cash,Paid,GoPay
+1630,PAY-01630,Credit Card,Refunded,Visa
+1631,PAY-01631,QRIS,Paid,Erajaya POS
+1632,PAY-01632,QRIS,Paid,Mastercard
+1633,PAY-01633,Bank Transfer,Paid,Mandiri
+1634,PAY-01634,E-Wallet,Paid,GoPay
+1635,PAY-01635,E-Wallet,Paid,Erajaya POS
+1636,PAY-01636,Debit Card,Paid,BCA
+1637,PAY-01637,Debit Card,Paid,BNI
+1638,PAY-01638,Credit Card,Paid,Mastercard
+1639,PAY-01639,Cash,Paid,Visa
+1640,PAY-01640,Debit Card,Paid,Mandiri
+1641,PAY-01641,Credit Card,Paid,OVO
+1642,PAY-01642,E-Wallet,Paid,ShopeePay
+1643,PAY-01643,E-Wallet,Paid,OVO
+1644,PAY-01644,QRIS,Paid,Mastercard
+1645,PAY-01645,Credit Card,Paid,Erajaya POS
+1646,PAY-01646,Debit Card,Paid,GoPay
+1647,PAY-01647,Bank Transfer,Paid,BRI
+1648,PAY-01648,Bank Transfer,Paid,Mastercard
+1649,PAY-01649,Credit Card,Paid,GoPay
+1650,PAY-01650,E-Wallet,Paid,Mastercard
+1651,PAY-01651,Credit Card,Refunded,BNI
+1652,PAY-01652,E-Wallet,Failed,ShopeePay
+1653,PAY-01653,QRIS,Paid,Erajaya POS
+1654,PAY-01654,Bank Transfer,Paid,Visa
+1655,PAY-01655,Credit Card,Paid,GoPay
+1656,PAY-01656,Cash,Refunded,GoPay
+1657,PAY-01657,Bank Transfer,Pending,OVO
+1658,PAY-01658,QRIS,Paid,Erajaya POS
+1659,PAY-01659,Debit Card,Paid,BRI
+1660,PAY-01660,E-Wallet,Paid,Visa
+1661,PAY-01661,Debit Card,Paid,Erajaya POS
+1662,PAY-01662,QRIS,Paid,Visa
+1663,PAY-01663,Credit Card,Paid,Mastercard
+1664,PAY-01664,Debit Card,Paid,Erajaya POS
+1665,PAY-01665,Cash,Refunded,Mastercard
+1666,PAY-01666,Credit Card,Paid,Visa
+1667,PAY-01667,Credit Card,Paid,Erajaya POS
+1668,PAY-01668,Bank Transfer,Paid,Visa
+1669,PAY-01669,Cash,Paid,Erajaya POS
+1670,PAY-01670,Cash,Paid,BNI
+1671,PAY-01671,QRIS,Paid,BRI
+1672,PAY-01672,Cash,Paid,Mandiri
+1673,PAY-01673,Cash,Paid,BCA
+1674,PAY-01674,QRIS,Paid,Erajaya POS
+1675,PAY-01675,Cash,Paid,GoPay
+1676,PAY-01676,Credit Card,Paid,Mandiri
+1677,PAY-01677,QRIS,Paid,GoPay
+1678,PAY-01678,Bank Transfer,Paid,BNI
+1679,PAY-01679,Credit Card,Paid,OVO
+1680,PAY-01680,QRIS,Paid,Visa
+1681,PAY-01681,QRIS,Paid,ShopeePay
+1682,PAY-01682,E-Wallet,Paid,ShopeePay
+1683,PAY-01683,Bank Transfer,Paid,BCA
+1684,PAY-01684,Debit Card,Paid,BRI
+1685,PAY-01685,Bank Transfer,Paid,Mandiri
+1686,PAY-01686,QRIS,Paid,Mandiri
+1687,PAY-01687,E-Wallet,Paid,OVO
+1688,PAY-01688,Credit Card,Paid,Mandiri
+1689,PAY-01689,E-Wallet,Paid,BRI
+1690,PAY-01690,Credit Card,Pending,ShopeePay
+1691,PAY-01691,E-Wallet,Paid,Mastercard
+1692,PAY-01692,Bank Transfer,Paid,Mandiri
+1693,PAY-01693,Credit Card,Paid,Erajaya POS
+1694,PAY-01694,Bank Transfer,Paid,BNI
+1695,PAY-01695,Cash,Failed,Mandiri
+1696,PAY-01696,QRIS,Paid,ShopeePay
+1697,PAY-01697,QRIS,Paid,Visa
+1698,PAY-01698,Credit Card,Paid,Erajaya POS
+1699,PAY-01699,Cash,Paid,GoPay
+1700,PAY-01700,Bank Transfer,Paid,BCA
+1701,PAY-01701,Credit Card,Paid,Erajaya POS
+1702,PAY-01702,E-Wallet,Paid,Visa
+1703,PAY-01703,QRIS,Paid,BRI
+1704,PAY-01704,Bank Transfer,Paid,ShopeePay
+1705,PAY-01705,Bank Transfer,Paid,OVO
+1706,PAY-01706,Debit Card,Paid,OVO
+1707,PAY-01707,Bank Transfer,Paid,Visa
+1708,PAY-01708,Credit Card,Paid,OVO
+1709,PAY-01709,Credit Card,Paid,BCA
+1710,PAY-01710,Bank Transfer,Paid,BRI
+1711,PAY-01711,QRIS,Paid,BCA
+1712,PAY-01712,E-Wallet,Paid,Mastercard
+1713,PAY-01713,Credit Card,Paid,BNI
+1714,PAY-01714,Bank Transfer,Paid,Mastercard
+1715,PAY-01715,Cash,Paid,Mandiri
+1716,PAY-01716,Debit Card,Paid,OVO
+1717,PAY-01717,Credit Card,Pending,Mastercard
+1718,PAY-01718,E-Wallet,Paid,BCA
+1719,PAY-01719,Bank Transfer,Paid,Mastercard
+1720,PAY-01720,Cash,Paid,BCA
+1721,PAY-01721,E-Wallet,Paid,BCA
+1722,PAY-01722,E-Wallet,Paid,ShopeePay
+1723,PAY-01723,Debit Card,Paid,GoPay
+1724,PAY-01724,QRIS,Pending,Erajaya POS
+1725,PAY-01725,Bank Transfer,Paid,ShopeePay
+1726,PAY-01726,Credit Card,Paid,OVO
+1727,PAY-01727,E-Wallet,Pending,Visa
+1728,PAY-01728,Bank Transfer,Paid,BCA
+1729,PAY-01729,Debit Card,Paid,OVO
+1730,PAY-01730,Credit Card,Paid,OVO
+1731,PAY-01731,Credit Card,Paid,BRI
+1732,PAY-01732,Debit Card,Paid,BRI
+1733,PAY-01733,QRIS,Paid,ShopeePay
+1734,PAY-01734,Bank Transfer,Paid,ShopeePay
+1735,PAY-01735,QRIS,Paid,OVO
+1736,PAY-01736,E-Wallet,Paid,BCA
+1737,PAY-01737,Debit Card,Paid,Erajaya POS
+1738,PAY-01738,Cash,Paid,ShopeePay
+1739,PAY-01739,Credit Card,Failed,Mastercard
+1740,PAY-01740,Debit Card,Paid,GoPay
+1741,PAY-01741,QRIS,Paid,ShopeePay
+1742,PAY-01742,E-Wallet,Paid,BCA
+1743,PAY-01743,Debit Card,Paid,BRI
+1744,PAY-01744,QRIS,Paid,OVO
+1745,PAY-01745,Debit Card,Paid,BRI
+1746,PAY-01746,Bank Transfer,Paid,GoPay
+1747,PAY-01747,Credit Card,Paid,OVO
+1748,PAY-01748,E-Wallet,Paid,BCA
+1749,PAY-01749,Credit Card,Paid,ShopeePay
+1750,PAY-01750,Credit Card,Paid,BNI
+1751,PAY-01751,Cash,Paid,Visa
+1752,PAY-01752,Bank Transfer,Paid,Visa
+1753,PAY-01753,Debit Card,Pending,BRI
+1754,PAY-01754,Credit Card,Paid,Mandiri
+1755,PAY-01755,E-Wallet,Paid,Visa
+1756,PAY-01756,Bank Transfer,Paid,Mastercard
+1757,PAY-01757,Credit Card,Paid,GoPay
+1758,PAY-01758,Credit Card,Paid,OVO
+1759,PAY-01759,E-Wallet,Paid,Mandiri
+1760,PAY-01760,Cash,Paid,OVO
+1761,PAY-01761,Bank Transfer,Paid,Visa
+1762,PAY-01762,E-Wallet,Paid,Visa
+1763,PAY-01763,E-Wallet,Paid,BRI
+1764,PAY-01764,Credit Card,Paid,GoPay
+1765,PAY-01765,E-Wallet,Paid,OVO
+1766,PAY-01766,Bank Transfer,Paid,Mandiri
+1767,PAY-01767,Debit Card,Paid,Mandiri
+1768,PAY-01768,QRIS,Paid,BNI
+1769,PAY-01769,Bank Transfer,Paid,GoPay
+1770,PAY-01770,Bank Transfer,Paid,Erajaya POS
+1771,PAY-01771,Credit Card,Paid,Erajaya POS
+1772,PAY-01772,QRIS,Pending,ShopeePay
+1773,PAY-01773,Credit Card,Paid,Mastercard
+1774,PAY-01774,E-Wallet,Paid,Mandiri
+1775,PAY-01775,QRIS,Paid,GoPay
+1776,PAY-01776,QRIS,Paid,Erajaya POS
+1777,PAY-01777,Credit Card,Paid,Mastercard
+1778,PAY-01778,Bank Transfer,Paid,Erajaya POS
+1779,PAY-01779,Bank Transfer,Paid,GoPay
+1780,PAY-01780,E-Wallet,Paid,Mastercard
+1781,PAY-01781,QRIS,Paid,Mastercard
+1782,PAY-01782,QRIS,Paid,BNI
+1783,PAY-01783,Debit Card,Paid,Visa
+1784,PAY-01784,Credit Card,Paid,Visa
+1785,PAY-01785,Debit Card,Paid,Mastercard
+1786,PAY-01786,QRIS,Paid,BNI
+1787,PAY-01787,Bank Transfer,Paid,BNI
+1788,PAY-01788,Credit Card,Paid,Visa
+1789,PAY-01789,QRIS,Paid,BRI
+1790,PAY-01790,Bank Transfer,Paid,ShopeePay
+1791,PAY-01791,Cash,Paid,Mastercard
+1792,PAY-01792,Bank Transfer,Failed,ShopeePay
+1793,PAY-01793,E-Wallet,Paid,Mandiri
+1794,PAY-01794,QRIS,Paid,Erajaya POS
+1795,PAY-01795,Bank Transfer,Paid,ShopeePay
+1796,PAY-01796,Credit Card,Paid,Mastercard
+1797,PAY-01797,Credit Card,Paid,Visa
+1798,PAY-01798,Bank Transfer,Paid,BRI
+1799,PAY-01799,E-Wallet,Paid,GoPay
+1800,PAY-01800,Credit Card,Paid,BRI
+1801,PAY-01801,Bank Transfer,Paid,GoPay
+1802,PAY-01802,Credit Card,Paid,Erajaya POS
+1803,PAY-01803,Debit Card,Paid,Mastercard
+1804,PAY-01804,E-Wallet,Paid,BCA
+1805,PAY-01805,Credit Card,Paid,Visa
+1806,PAY-01806,Debit Card,Paid,Erajaya POS
+1807,PAY-01807,Bank Transfer,Paid,ShopeePay
+1808,PAY-01808,Debit Card,Paid,BCA
+1809,PAY-01809,E-Wallet,Paid,GoPay
+1810,PAY-01810,Credit Card,Paid,OVO
+1811,PAY-01811,QRIS,Paid,Mastercard
+1812,PAY-01812,Bank Transfer,Paid,GoPay
+1813,PAY-01813,E-Wallet,Paid,Mastercard
+1814,PAY-01814,Bank Transfer,Paid,BRI
+1815,PAY-01815,Cash,Paid,BNI
+1816,PAY-01816,QRIS,Paid,BCA
+1817,PAY-01817,Credit Card,Paid,BCA
+1818,PAY-01818,E-Wallet,Paid,BCA
+1819,PAY-01819,QRIS,Paid,Visa
+1820,PAY-01820,Debit Card,Paid,BRI
+1821,PAY-01821,Debit Card,Paid,Erajaya POS
+1822,PAY-01822,QRIS,Paid,Mastercard
+1823,PAY-01823,Bank Transfer,Paid,BRI
+1824,PAY-01824,Credit Card,Paid,Mandiri
+1825,PAY-01825,Credit Card,Paid,BNI
+1826,PAY-01826,QRIS,Paid,Mandiri
+1827,PAY-01827,Bank Transfer,Paid,Visa
+1828,PAY-01828,QRIS,Paid,Mandiri
+1829,PAY-01829,Credit Card,Paid,GoPay
+1830,PAY-01830,Credit Card,Paid,BRI
+1831,PAY-01831,E-Wallet,Paid,GoPay
+1832,PAY-01832,Bank Transfer,Paid,Visa
+1833,PAY-01833,Bank Transfer,Paid,OVO
+1834,PAY-01834,Bank Transfer,Paid,GoPay
+1835,PAY-01835,Debit Card,Paid,ShopeePay
+1836,PAY-01836,QRIS,Paid,GoPay
+1837,PAY-01837,Credit Card,Paid,BNI
+1838,PAY-01838,Cash,Paid,Visa
+1839,PAY-01839,Bank Transfer,Paid,Visa
+1840,PAY-01840,Credit Card,Paid,OVO
+1841,PAY-01841,Bank Transfer,Paid,Visa
+1842,PAY-01842,Bank Transfer,Paid,BNI
+1843,PAY-01843,Debit Card,Paid,OVO
+1844,PAY-01844,E-Wallet,Paid,BCA
+1845,PAY-01845,Credit Card,Paid,Erajaya POS
+1846,PAY-01846,Credit Card,Paid,GoPay
+1847,PAY-01847,Bank Transfer,Failed,Visa
+1848,PAY-01848,QRIS,Pending,Mastercard
+1849,PAY-01849,Credit Card,Paid,BCA
+1850,PAY-01850,Debit Card,Paid,ShopeePay
+1851,PAY-01851,Credit Card,Paid,BCA
+1852,PAY-01852,Debit Card,Paid,Mandiri
+1853,PAY-01853,QRIS,Paid,BCA
+1854,PAY-01854,Credit Card,Paid,Erajaya POS
+1855,PAY-01855,Debit Card,Paid,Mandiri
+1856,PAY-01856,Credit Card,Paid,ShopeePay
+1857,PAY-01857,Credit Card,Paid,Mandiri
+1858,PAY-01858,Debit Card,Paid,Mastercard
+1859,PAY-01859,Bank Transfer,Paid,Mastercard
+1860,PAY-01860,Credit Card,Paid,BNI
+1861,PAY-01861,QRIS,Paid,Visa
+1862,PAY-01862,Bank Transfer,Paid,ShopeePay
+1863,PAY-01863,Cash,Paid,ShopeePay
+1864,PAY-01864,Debit Card,Paid,Mandiri
+1865,PAY-01865,QRIS,Pending,OVO
+1866,PAY-01866,Debit Card,Paid,OVO
+1867,PAY-01867,Bank Transfer,Paid,OVO
+1868,PAY-01868,E-Wallet,Paid,OVO
+1869,PAY-01869,QRIS,Failed,Mandiri
+1870,PAY-01870,Debit Card,Paid,Visa
+1871,PAY-01871,Credit Card,Pending,GoPay
+1872,PAY-01872,QRIS,Paid,OVO
+1873,PAY-01873,Cash,Paid,BRI
+1874,PAY-01874,QRIS,Paid,BNI
+1875,PAY-01875,Bank Transfer,Paid,ShopeePay
+1876,PAY-01876,Cash,Paid,Erajaya POS
+1877,PAY-01877,Credit Card,Paid,ShopeePay
+1878,PAY-01878,E-Wallet,Paid,GoPay
+1879,PAY-01879,E-Wallet,Paid,BRI
+1880,PAY-01880,Bank Transfer,Paid,Mandiri
+1881,PAY-01881,E-Wallet,Paid,GoPay
+1882,PAY-01882,Bank Transfer,Paid,Mandiri
+1883,PAY-01883,QRIS,Paid,OVO
+1884,PAY-01884,Credit Card,Pending,BNI
+1885,PAY-01885,QRIS,Pending,Visa
+1886,PAY-01886,Debit Card,Paid,Mandiri
+1887,PAY-01887,Credit Card,Paid,Mastercard
+1888,PAY-01888,Cash,Pending,BRI
+1889,PAY-01889,E-Wallet,Paid,Mandiri
+1890,PAY-01890,Debit Card,Paid,GoPay
+1891,PAY-01891,Bank Transfer,Paid,GoPay
+1892,PAY-01892,E-Wallet,Paid,BCA
+1893,PAY-01893,E-Wallet,Paid,BNI
+1894,PAY-01894,Debit Card,Paid,Mastercard
+1895,PAY-01895,E-Wallet,Paid,Mastercard
+1896,PAY-01896,Debit Card,Paid,OVO
+1897,PAY-01897,Debit Card,Paid,Visa
+1898,PAY-01898,Debit Card,Paid,GoPay
+1899,PAY-01899,E-Wallet,Paid,BCA
+1900,PAY-01900,Credit Card,Paid,ShopeePay
+1901,PAY-01901,QRIS,Paid,BCA
+1902,PAY-01902,Credit Card,Paid,Erajaya POS
+1903,PAY-01903,E-Wallet,Paid,OVO
+1904,PAY-01904,Credit Card,Paid,Mandiri
+1905,PAY-01905,Bank Transfer,Paid,BCA
+1906,PAY-01906,Credit Card,Paid,ShopeePay
+1907,PAY-01907,Bank Transfer,Paid,ShopeePay
+1908,PAY-01908,Debit Card,Paid,Visa
+1909,PAY-01909,QRIS,Paid,BCA
+1910,PAY-01910,QRIS,Paid,Visa
+1911,PAY-01911,QRIS,Paid,BRI
+1912,PAY-01912,Credit Card,Paid,OVO
+1913,PAY-01913,Credit Card,Paid,Erajaya POS
+1914,PAY-01914,QRIS,Paid,BCA
+1915,PAY-01915,Debit Card,Paid,Erajaya POS
+1916,PAY-01916,Credit Card,Paid,BCA
+1917,PAY-01917,Bank Transfer,Paid,BRI
+1918,PAY-01918,E-Wallet,Paid,ShopeePay
+1919,PAY-01919,Credit Card,Failed,ShopeePay
+1920,PAY-01920,QRIS,Paid,OVO
+1921,PAY-01921,E-Wallet,Paid,OVO
+1922,PAY-01922,Debit Card,Paid,Erajaya POS
+1923,PAY-01923,Bank Transfer,Paid,Mastercard
+1924,PAY-01924,Cash,Paid,OVO
+1925,PAY-01925,QRIS,Paid,Visa
+1926,PAY-01926,QRIS,Paid,ShopeePay
+1927,PAY-01927,Cash,Paid,Mastercard
+1928,PAY-01928,E-Wallet,Paid,BCA
+1929,PAY-01929,E-Wallet,Paid,ShopeePay
+1930,PAY-01930,E-Wallet,Paid,OVO
+1931,PAY-01931,Bank Transfer,Paid,BRI
+1932,PAY-01932,Credit Card,Paid,Mandiri
+1933,PAY-01933,Debit Card,Paid,Mandiri
+1934,PAY-01934,Cash,Paid,Erajaya POS
+1935,PAY-01935,QRIS,Paid,ShopeePay
+1936,PAY-01936,Bank Transfer,Paid,Mastercard
+1937,PAY-01937,QRIS,Paid,OVO
+1938,PAY-01938,E-Wallet,Paid,BNI
+1939,PAY-01939,Credit Card,Paid,GoPay
+1940,PAY-01940,Debit Card,Paid,Erajaya POS
+1941,PAY-01941,Credit Card,Paid,BRI
+1942,PAY-01942,Credit Card,Paid,BRI
+1943,PAY-01943,Debit Card,Paid,BNI
+1944,PAY-01944,Credit Card,Paid,GoPay
+1945,PAY-01945,Credit Card,Paid,BNI
+1946,PAY-01946,Credit Card,Paid,GoPay
+1947,PAY-01947,E-Wallet,Paid,BRI
+1948,PAY-01948,Debit Card,Refunded,OVO
+1949,PAY-01949,Credit Card,Paid,Mandiri
+1950,PAY-01950,Credit Card,Paid,BRI
+1951,PAY-01951,E-Wallet,Paid,BCA
+1952,PAY-01952,QRIS,Paid,BCA
+1953,PAY-01953,QRIS,Paid,Visa
+1954,PAY-01954,Bank Transfer,Paid,Visa
+1955,PAY-01955,E-Wallet,Refunded,Erajaya POS
+1956,PAY-01956,Debit Card,Paid,Mastercard
+1957,PAY-01957,Cash,Paid,BRI
+1958,PAY-01958,E-Wallet,Paid,GoPay
+1959,PAY-01959,QRIS,Paid,Erajaya POS
+1960,PAY-01960,Credit Card,Failed,BRI
+1961,PAY-01961,QRIS,Pending,BCA
+1962,PAY-01962,Cash,Paid,BRI
+1963,PAY-01963,Bank Transfer,Paid,Erajaya POS
+1964,PAY-01964,E-Wallet,Paid,OVO
+1965,PAY-01965,QRIS,Paid,ShopeePay
+1966,PAY-01966,Cash,Paid,Visa
+1967,PAY-01967,Credit Card,Paid,ShopeePay
+1968,PAY-01968,Debit Card,Failed,BNI
+1969,PAY-01969,Cash,Paid,BNI
+1970,PAY-01970,Bank Transfer,Paid,Erajaya POS
+1971,PAY-01971,QRIS,Paid,GoPay
+1972,PAY-01972,Credit Card,Paid,BRI
+1973,PAY-01973,Credit Card,Pending,BNI
+1974,PAY-01974,QRIS,Paid,BNI
+1975,PAY-01975,Bank Transfer,Paid,Mandiri
+1976,PAY-01976,E-Wallet,Paid,Visa
+1977,PAY-01977,Credit Card,Paid,BNI
+1978,PAY-01978,Credit Card,Paid,BNI
+1979,PAY-01979,QRIS,Paid,Mastercard
+1980,PAY-01980,Bank Transfer,Paid,BCA
+1981,PAY-01981,QRIS,Paid,BNI
+1982,PAY-01982,QRIS,Paid,BNI
+1983,PAY-01983,Bank Transfer,Paid,BNI
+1984,PAY-01984,E-Wallet,Paid,BCA
+1985,PAY-01985,QRIS,Paid,Mandiri
+1986,PAY-01986,Bank Transfer,Paid,BNI
+1987,PAY-01987,Debit Card,Paid,OVO
+1988,PAY-01988,E-Wallet,Paid,ShopeePay
+1989,PAY-01989,Credit Card,Paid,OVO
+1990,PAY-01990,Debit Card,Paid,BNI
+1991,PAY-01991,E-Wallet,Paid,BCA
+1992,PAY-01992,Debit Card,Paid,Mandiri
+1993,PAY-01993,Credit Card,Paid,ShopeePay
+1994,PAY-01994,QRIS,Paid,GoPay
+1995,PAY-01995,Credit Card,Paid,BRI
+1996,PAY-01996,E-Wallet,Paid,Erajaya POS
+1997,PAY-01997,Debit Card,Paid,BRI
+1998,PAY-01998,Bank Transfer,Paid,OVO
+1999,PAY-01999,Cash,Paid,Erajaya POS
+2000,PAY-02000,QRIS,Paid,ShopeePay

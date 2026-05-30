@@ -1,0 +1,4 @@
+channel_key,channel_id,channel_name,channel_type
+1,CH_MKT,Marketplace,Online
+2,CH_OFF,Offline Store,Offline
+3,CH_WEB,Online Web,Online
