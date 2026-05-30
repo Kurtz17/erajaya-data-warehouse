@@ -1,0 +1,9 @@
+file_name,row_count,column_count,primary_key,duplicate_key_count,duplicate_row_count,missing_value_count,is_extract_valid
+customers.csv,501,11,customer_id,0,0,5,True
+inventory.csv,2500,7,inventory_id,0,0,0,True
+payments.csv,2000,5,payment_id,0,0,0,True
+products.csv,100,9,product_id,0,0,0,True
+promotions.csv,21,6,promotion_id,0,0,1,True
+sales_details.csv,4692,7,detail_id,0,0,0,True
+sales_transactions.csv,2000,9,transaction_id,0,0,951,True
+stores.csv,25,7,store_id,0,0,0,True

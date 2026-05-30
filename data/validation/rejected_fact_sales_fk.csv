@@ -1,0 +1,1 @@
+sales_key,transaction_id,detail_id,time_key,customer_key,product_key,store_key,channel_key,payment_key,promotion_key,quantity_sold,unit_price,gross_sales,discount_amount,net_sales,cost_amount,net_profit,failed_fk_column,expected_dimension

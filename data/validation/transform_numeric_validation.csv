@@ -1,0 +1,7 @@
+table_name,column_name,rule,invalid_row_count,invalid_values_sample,is_numeric_valid
+fact_sales,quantity_sold,value <= 0,0,,True
+fact_sales,unit_price,value < 0,0,,True
+fact_sales,gross_sales,gross_sales != quantity_sold * unit_price,0,,True
+fact_sales,net_sales,value < 0,0,,True
+fact_sales,net_profit,missing value,0,,True
+fact_inventory_snapshot,stock_quantity,value < 0,0,,True

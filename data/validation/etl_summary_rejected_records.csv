@@ -1,0 +1,3 @@
+rejected_file,rejected_row_count,reason
+rejected_fact_sales_duplicate_detail.csv,0,Duplicate detail_id in fact_sales
+rejected_fact_sales_fk.csv,0,Invalid fact-to-dimension foreign key mapping

@@ -1,0 +1,10 @@
+table_name,row_count,column_count,primary_key,duplicate_key_count,null_key_count,is_table_valid
+dim_time,513,9,time_key,0,0,True
+dim_customer,1000,10,customer_key,0,0,True
+dim_product,100,10,product_key,0,0,True
+dim_store,25,8,store_key,0,0,True
+dim_channel,3,4,channel_key,0,0,True
+dim_payment,2000,5,payment_key,0,0,True
+dim_promotion,21,7,promotion_key,0,0,True
+fact_sales,4688,17,sales_key,0,0,True
+fact_inventory_snapshot,2500,7,inventory_key,0,0,True

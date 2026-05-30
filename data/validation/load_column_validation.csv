@@ -1,0 +1,10 @@
+schema_table,expected_column_count,actual_column_count,missing_columns,extra_columns,is_column_valid
+dw.dim_time,9,9,,,True
+dw.dim_customer,10,10,,,True
+dw.dim_product,10,10,,,True
+dw.dim_store,8,8,,,True
+dw.dim_channel,4,4,,,True
+dw.dim_payment,5,5,,,True
+dw.dim_promotion,7,7,,,True
+dw.fact_sales,17,17,,,True
+dw.fact_inventory_snapshot,7,7,,,True

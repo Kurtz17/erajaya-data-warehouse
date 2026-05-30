@@ -1,0 +1,11 @@
+fact_table,fact_column,dimension_table,dimension_column,invalid_row_count,invalid_values_sample,is_fk_valid
+fact_sales,time_key,dim_time,time_key,0,,True
+fact_sales,customer_key,dim_customer,customer_key,0,,True
+fact_sales,product_key,dim_product,product_key,0,,True
+fact_sales,store_key,dim_store,store_key,0,,True
+fact_sales,channel_key,dim_channel,channel_key,0,,True
+fact_sales,payment_key,dim_payment,payment_key,0,,True
+fact_sales,promotion_key,dim_promotion,promotion_key,0,,True
+fact_inventory_snapshot,time_key,dim_time,time_key,0,,True
+fact_inventory_snapshot,product_key,dim_product,product_key,0,,True
+fact_inventory_snapshot,store_key,dim_store,store_key,0,,True

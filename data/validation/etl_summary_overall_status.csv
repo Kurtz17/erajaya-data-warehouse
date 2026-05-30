@@ -1,0 +1,7 @@
+validation_file,description,failed_check_count,status
+extract_profile_summary.csv,Extract profile validity,0,PASS
+transform_table_validation.csv,Transform table validity,0,PASS
+transform_numeric_validation.csv,Transform numeric validity,0,PASS
+transform_fk_validation.csv,Transform FK validity,0,PASS
+dq_summary.csv,Data quality checks,0,PASS
+OVERALL,Overall ETL validation status,0,PASS

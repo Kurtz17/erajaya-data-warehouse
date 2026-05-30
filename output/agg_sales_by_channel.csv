@@ -1,0 +1,4 @@
+channel_name,channel_type,total_sales,total_profit,total_transactions
+Offline Store,Offline,28267975350.0,7417429350.0,1213
+Online Web,Online,10648245930.0,2790548930.0,465
+Marketplace,Online,7460025100.0,1962849100.0,322
