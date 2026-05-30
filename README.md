@@ -22,14 +22,14 @@ The pipeline is executed through four smaller notebooks:
 
 | Notebook | Purpose |
 |---|---|
-| [notebooks/01_extract_profile.ipynb](notebooks/01_extract_profile.ipynb) | Generate raw operational CSV files and profile the source dataset. |
+| [notebooks/01_extract_profile.ipynb](notebooks/01_extract_profile.ipynb) | Read existing raw operational CSV files and profile the source dataset. |
 | [notebooks/02_transform_validate.ipynb](notebooks/02_transform_validate.ipynb) | Transform raw data into dimension/fact CSV files and run data quality checks. |
 | [notebooks/03_load_postgres_olap.ipynb](notebooks/03_load_postgres_olap.ipynb) | Load OLTP, staging, data warehouse tables, build OLAP tables, and export dashboard CSVs. |
 | [notebooks/04_etl_run_summary.ipynb](notebooks/04_etl_run_summary.ipynb) | Summarize raw, processed, output, and database row counts. |
 
 ## Dataset
 
-The dataset is generated and already follows a structured retail electronics scenario with source files, OLTP tables, dimension tables, fact tables, and OLAP-ready aggregate outputs.
+The dataset is stored as raw operational CSV source files and follows a structured retail electronics scenario with OLTP tables, dimension tables, fact tables, and OLAP-ready aggregate outputs.
 
 Current raw dataset scope includes 1,000 customer rows including `Guest Customer` and 100 curated product SKUs based on Erajaya/Eraspace catalog items.
 
@@ -72,10 +72,10 @@ The represented source systems are:
 ```text
 erajaya-data-warehouse/
 |-- data/
-|   |-- raw/                  # Generated operational CSV source data
+|   |-- raw/                  # Raw operational CSV source data
 |   |-- processed/            # Dimension and fact CSV files
 |   `-- validation/           # ETL validation, rejected records, and run summaries
-|-- docs/                     # Technical documentation and team guide
+|-- docs/                     # Technical documentation
 |-- notebooks/                # Step-by-step Jupyter Notebook pipeline
 |-- output/                   # Dashboard-ready CSV outputs
 |-- sql/                      # PostgreSQL schema files
@@ -90,7 +90,7 @@ This project is now notebook-first because the team wants easier control during 
 Use the notebook for:
 
 - Step-by-step execution during demonstration.
-- Easier monitoring of generated dataset sizes.
+- Easier monitoring of source dataset sizes.
 - Inspecting intermediate outputs.
 - Running data quality checks visibly.
 - Exporting dashboard-ready CSV files.
@@ -154,9 +154,7 @@ The notebook executes the schema files automatically:
 
 ## How to Run the Project
 
-Indonesian step-by-step guide is available in:
-
-[docs/panduan_jalankan_project.md](docs/panduan_jalankan_project.md)
+Use the notebook order below to run the pipeline from source profiling to warehouse outputs.
 
 Start Jupyter Notebook:
 
@@ -178,7 +176,7 @@ Run all cells from top to bottom inside each notebook before moving to the next 
 The notebooks perform:
 
 ```text
-generate/profile -> transform/validate -> load PostgreSQL/build OLAP -> summarize
+extract/profile -> transform/validate -> load PostgreSQL/build OLAP -> summarize
 ```
 
 ## Dashboard-ready Outputs
@@ -230,6 +228,6 @@ This project addresses the expected feedback for a stronger data warehouse submi
 
 | Document | Purpose |
 |---|---|
-| [docs/dataset.md](docs/dataset.md) | Describes source data files and generated dataset scope. |
+| [docs/dataset.md](docs/dataset.md) | Describes source data files and dataset scope. |
 | [docs/data_dictionary.md](docs/data_dictionary.md) | Describes table columns and relationships. |
 | [docs/database_schema.md](docs/database_schema.md) | Explains OLTP, staging, DW, and OLAP database schemas. |
