@@ -1,0 +1,1001 @@
+customer_id,customer_name,gender,birth_date,email,phone,loyalty_tier,customer_segment,province,city,registered_date
+CUST-GUEST,Guest Customer,Unknown,,,,Regular,Walk-in,,,2023-01-01
+CUST-0001,Dewi Pratama,Male,1982-03-24,dewi.pratama1@example.com,083342331444,Silver,Student,Sumatera Utara,Deli Serdang,2022-03-03
+CUST-0002,Citra Santoso,Male,1997-11-23,citra.santoso2@example.com,087635473142,Regular,SMB,Jawa Barat,Bandung,2023-07-24
+CUST-0003,Adi Wijaya,Female,1983-03-07,adi.wijaya3@example.com,082445662585,Regular,Student,Sumatera Utara,Deli Serdang,2024-01-06
+CUST-0004,Maya Susanto,Female,1992-02-13,maya.susanto4@example.com,089928378856,Regular,SMB,Jawa Timur,Surabaya,2024-01-11
+CUST-0005,Wahyu Santoso,Male,1996-04-25,wahyu.santoso5@example.com,085728765136,Regular,Family,Sumatera Utara,Medan,2022-11-30
+CUST-0006,Maya Permana,Male,1994-11-06,maya.permana6@example.com,082051454923,Regular,Family,Jawa Barat,Depok,2025-02-14
+CUST-0007,Hana Permana,Male,2000-06-13,hana.permana7@example.com,082149938334,Regular,SMB,DKI Jakarta,Jakarta Selatan,2023-10-07
+CUST-0008,Gita Gunawan,Male,1983-03-08,gita.gunawan8@example.com,087609857128,Silver,Gadget Enthusiast,Banten,Tangerang Selatan,2024-03-28
+CUST-0009,Maya Santoso,Male,1999-01-28,maya.santoso9@example.com,081470939445,Silver,Gadget Enthusiast,Jawa Barat,Bogor,2022-05-11
+CUST-0010,Nadia Halim,Female,1992-01-22,nadia.halim10@example.com,084095476665,Silver,SMB,Bali,Badung,2023-07-01
+CUST-0011,Lina Saputra,Male,1989-01-24,lina.saputra11@example.com,084919706735,Gold,Family,Jawa Timur,Malang,2024-11-05
+CUST-0012,Yuni Santoso,Male,1992-09-01,yuni.santoso12@example.com,087867414708,Silver,Student,Jawa Barat,Depok,2024-01-14
+CUST-0013,Joko Santoso,Male,1977-12-16,joko.santoso13@example.com,084504793184,Platinum,SMB,DKI Jakarta,Jakarta Selatan,2022-09-15
+CUST-0014,Eka Gunawan,Female,1991-10-14,eka.gunawan14@example.com,085141907136,Gold,Professional,Bali,Denpasar,2023-10-01
+CUST-0015,Nadia Permana,Male,1982-04-03,nadia.permana15@example.com,082452066459,Silver,Professional,Banten,Tangerang Selatan,2023-03-28
+CUST-0016,Adi Saputra,Male,1977-01-28,adi.saputra16@example.com,082419179580,Silver,Family,Sumatera Utara,Medan,2024-09-21
+CUST-0017,Gita Siregar,Male,2000-08-26,gita.siregar17@example.com,082748309234,Regular,Gadget Enthusiast,Jawa Barat,Bogor,2023-12-27
+CUST-0018,Putra Halim,Male,1976-07-24,putra.halim18@example.com,084700855390,Regular,Professional,Banten,Tangerang,2025-01-03
+CUST-0019,Rani Wijaya,Female,1989-04-28,rani.wijaya19@example.com,084965395580,Regular,SMB,Banten,Tangerang,2022-07-20
+CUST-0020,Budi Siregar,Male,1980-07-16,budi.siregar20@example.com,083067418686,Gold,Student,DKI Jakarta,Jakarta Pusat,2022-12-04
+CUST-0021,Nadia Pratama,Female,1984-07-23,nadia.pratama21@example.com,088380507338,Regular,Family,Banten,Tangerang Selatan,2023-03-22
+CUST-0022,Budi Susanto,Female,1976-01-19,budi.susanto22@example.com,083281169403,Regular,SMB,Sumatera Utara,Medan,2022-06-14
+CUST-0023,Fajar Saputra,Male,1987-02-19,fajar.saputra23@example.com,083553440342,Silver,Gadget Enthusiast,Bali,Denpasar,2024-12-06
+CUST-0024,Lina Lestari,Male,1983-07-05,lina.lestari24@example.com,086583444930,Regular,Student,Jawa Barat,Depok,2022-01-20
+CUST-0025,Rani Susanto,Male,1992-04-17,rani.susanto25@example.com,082139027119,Gold,Student,Bali,Denpasar,2023-05-16
+CUST-0026,Maya Lestari,Female,1994-11-17,maya.lestari26@example.com,089623534576,Gold,Family,Jawa Barat,Bogor,2022-08-01
+CUST-0027,Eka Lestari,Male,1983-05-20,eka.lestari27@example.com,082472659626,Silver,Family,DKI Jakarta,Jakarta Pusat,2024-11-01
+CUST-0028,Sari Lestari,Female,2001-05-02,sari.lestari28@example.com,085310195918,Gold,Family,DKI Jakarta,Jakarta Pusat,2022-11-27
+CUST-0029,Rani Siregar,Male,1978-02-23,rani.siregar29@example.com,084882343658,Silver,Family,Sumatera Utara,Deli Serdang,2025-02-05
+CUST-0030,Eka Halim,Female,1986-01-12,eka.halim30@example.com,085736462531,Gold,Gadget Enthusiast,Jawa Barat,Bandung,2022-11-13
+CUST-0031,Hana Wijaya,Male,1980-12-11,hana.wijaya31@example.com,086360837474,Regular,Student,Jawa Barat,Bogor,2024-02-23
+CUST-0032,Budi Gunawan,Female,1986-05-27,budi.gunawan32@example.com,081977515194,Regular,Professional,Jawa Barat,Bekasi,2024-03-27
+CUST-0033,Lina Lestari,Female,1995-09-13,lina.lestari33@example.com,081118543408,Gold,Family,DKI Jakarta,Jakarta Barat,2023-01-01
+CUST-0034,Wahyu Lestari,Female,1986-12-26,wahyu.lestari34@example.com,086642201119,Silver,SMB,DKI Jakarta,Jakarta Pusat,2022-08-25
+CUST-0035,Nadia Susanto,Male,1997-07-01,nadia.susanto35@example.com,086141226746,Regular,Family,Jawa Barat,Depok,2023-10-05
+CUST-0036,Dewi Lestari,Female,1985-07-23,dewi.lestari36@example.com,081546696950,Regular,Gadget Enthusiast,Bali,Badung,2022-12-23
+CUST-0037,Yuni Susanto,Male,1984-05-07,yuni.susanto37@example.com,088106906538,Regular,Gadget Enthusiast,Jawa Timur,Malang,2023-03-14
+CUST-0038,Tono Gunawan,Male,1984-09-22,tono.gunawan38@example.com,082439622619,Gold,Professional,Sumatera Utara,Medan,2023-09-28
+CUST-0039,Hana Santoso,Male,1982-08-20,hana.santoso39@example.com,085607762160,Regular,SMB,Jawa Barat,Bandung,2023-02-03
+CUST-0040,Nadia Gunawan,Male,1995-12-01,nadia.gunawan40@example.com,084803044105,Gold,Professional,Banten,Tangerang,2022-12-27
+CUST-0041,Tono Gunawan,Male,1989-03-26,tono.gunawan41@example.com,088995059760,Regular,Professional,DKI Jakarta,Jakarta Selatan,2023-07-22
+CUST-0042,Tono Gunawan,Female,1989-02-23,tono.gunawan42@example.com,082227193073,Regular,Family,Sumatera Utara,Medan,2025-01-11
+CUST-0043,Citra Wijaya,Female,1997-03-23,citra.wijaya43@example.com,081918920620,Regular,Family,Jawa Barat,Bekasi,2025-01-16
+CUST-0044,Rani Halim,Female,1987-10-23,rani.halim44@example.com,087767538527,Regular,Family,DKI Jakarta,Jakarta Selatan,2023-09-04
+CUST-0045,Nadia Halim,Female,1982-05-14,nadia.halim45@example.com,083085816511,Regular,Gadget Enthusiast,Bali,Denpasar,2022-12-05
+CUST-0046,Rani Wijaya,Female,1993-10-22,rani.wijaya46@example.com,081116402431,Silver,Professional,Bali,Denpasar,2024-08-03
+CUST-0047,Fajar Pratama,Female,1981-08-11,fajar.pratama47@example.com,089072992279,Regular,Gadget Enthusiast,Jawa Timur,Malang,2023-06-01
+CUST-0048,Citra Gunawan,Female,1982-11-03,citra.gunawan48@example.com,083799264931,Silver,Professional,DKI Jakarta,Jakarta Pusat,2023-02-13
+CUST-0049,Adi Susanto,Male,1990-11-04,adi.susanto49@example.com,086231117883,Silver,Family,Jawa Barat,Bekasi,2022-12-10
+CUST-0050,Yuni Susanto,Male,2005-05-04,yuni.susanto50@example.com,083485432021,Gold,SMB,Sumatera Utara,Medan,2024-02-08
+CUST-0051,Nadia Santoso,Male,1997-05-28,nadia.santoso51@example.com,084459716271,Gold,SMB,DKI Jakarta,Jakarta Selatan,2022-03-26
+CUST-0052,Maya Siregar,Male,1991-11-11,maya.siregar52@example.com,083105400301,Regular,Family,Banten,Tangerang Selatan,2024-07-30
+CUST-0053,Eka Halim,Female,1989-07-27,eka.halim53@example.com,086447717367,Gold,Student,Jawa Barat,Depok,2023-07-26
+CUST-0054,Rani Santoso,Female,1975-08-28,rani.santoso54@example.com,082395925222,Silver,Family,Banten,Tangerang Selatan,2023-06-14
+CUST-0055,Lina Lestari,Male,1991-04-03,lina.lestari55@example.com,087040562787,Silver,Professional,Bali,Badung,2024-09-02
+CUST-0056,Sari Gunawan,Female,1982-07-23,sari.gunawan56@example.com,086339955011,Silver,Family,DKI Jakarta,Jakarta Pusat,2024-08-27
+CUST-0057,Vina Siregar,Female,1986-12-15,vina.siregar57@example.com,086458544482,Regular,Student,Jawa Timur,Malang,2023-01-30
+CUST-0058,Lina Saputra,Male,1981-12-16,lina.saputra58@example.com,087858164010,Platinum,Professional,Sumatera Utara,Medan,2023-08-30
+CUST-0059,Hana Permana,Male,1997-09-05,hana.permana59@example.com,082178158203,Platinum,SMB,Jawa Barat,Depok,2023-08-22
+CUST-0060,Eka Gunawan,Female,1990-08-15,eka.gunawan60@example.com,082463320861,Platinum,Family,DKI Jakarta,Jakarta Pusat,2024-09-05
+CUST-0061,Dewi Saputra,Male,1993-11-22,dewi.saputra61@example.com,081230249217,Regular,SMB,Banten,Tangerang Selatan,2023-09-15
+CUST-0062,Citra Santoso,Male,1999-09-13,citra.santoso62@example.com,087196439534,Gold,Gadget Enthusiast,DKI Jakarta,Jakarta Utara,2023-09-18
+CUST-0063,Wahyu Susanto,Male,1995-04-09,wahyu.susanto63@example.com,083836517266,Regular,Professional,DKI Jakarta,Jakarta Pusat,2025-02-04
+CUST-0064,Citra Wijaya,Female,1997-10-16,citra.wijaya64@example.com,082250949136,Regular,Family,DKI Jakarta,Jakarta Utara,2024-07-18
+CUST-0065,Citra Santoso,Male,1988-02-18,citra.santoso65@example.com,081610900200,Regular,Family,Jawa Timur,Sidoarjo,2023-08-15
+CUST-0066,Rani Saputra,Female,2005-05-17,rani.saputra66@example.com,087614170462,Regular,SMB,Banten,Tangerang Selatan,2022-03-23
+CUST-0067,Putra Permana,Male,1977-04-22,putra.permana67@example.com,085083595988,Platinum,Family,Bali,Badung,2022-03-24
+CUST-0068,Fajar Gunawan,Female,1980-10-14,fajar.gunawan68@example.com,085686850445,Regular,Family,Bali,Badung,2023-10-20
+CUST-0069,Dewi Wijaya,Female,1984-11-13,dewi.wijaya69@example.com,083362646960,Regular,Family,Jawa Timur,Malang,2023-06-01
+CUST-0070,Lina Saputra,Female,1988-01-07,lina.saputra70@example.com,087521647547,Silver,Gadget Enthusiast,Banten,Tangerang,2024-06-24
+CUST-0071,Budi Santoso,Male,2004-05-15,budi.santoso71@example.com,083081821325,Regular,SMB,Jawa Timur,Sidoarjo,2023-05-06
+CUST-0072,Fajar Lestari,Female,1977-04-27,fajar.lestari72@example.com,084921003983,Regular,Student,Bali,Denpasar,2022-11-12
+CUST-0073,Sari Lestari,Female,2001-08-16,sari.lestari73@example.com,086341783555,Silver,Gadget Enthusiast,Bali,Badung,2023-01-26
+CUST-0074,Yuni Siregar,Male,1983-07-11,yuni.siregar74@example.com,087475684019,Gold,Family,Sumatera Utara,Medan,2023-09-04
+CUST-0075,Wahyu Susanto,Male,1989-09-16,wahyu.susanto75@example.com,086777263354,Silver,SMB,Sumatera Utara,Deli Serdang,2024-02-12
+CUST-0076,Rani Permana,Female,1982-07-02,rani.permana76@example.com,086932342612,Platinum,Professional,Jawa Barat,Bekasi,2024-10-11
+CUST-0077,Budi Wijaya,Male,2002-08-04,budi.wijaya77@example.com,082962491159,Silver,Gadget Enthusiast,Bali,Badung,2022-11-13
+CUST-0078,Citra Gunawan,Female,1995-02-28,citra.gunawan78@example.com,087586857685,Platinum,Gadget Enthusiast,Jawa Timur,Malang,2025-01-13
+CUST-0079,Budi Susanto,Female,1982-12-03,budi.susanto79@example.com,084747699292,Regular,Family,DKI Jakarta,Jakarta Selatan,2022-03-01
+CUST-0080,Budi Permana,Female,1986-07-05,budi.permana80@example.com,081773338452,Regular,SMB,DKI Jakarta,Jakarta Barat,2024-02-23
+CUST-0081,Yuni Santoso,Male,1989-11-09,yuni.santoso81@example.com,087268807553,Silver,Gadget Enthusiast,Banten,Tangerang,2023-08-13
+CUST-0082,Vina Wijaya,Female,1993-05-21,vina.wijaya82@example.com,089426850694,Silver,Gadget Enthusiast,DKI Jakarta,Jakarta Utara,2023-09-11
+CUST-0083,Gita Halim,Male,1987-10-12,gita.halim83@example.com,087763765757,Platinum,Family,Banten,Tangerang,2022-02-14
+CUST-0084,Nadia Lestari,Female,2001-05-25,nadia.lestari84@example.com,084431078106,Silver,Family,DKI Jakarta,Jakarta Pusat,2023-03-25
+CUST-0085,Gita Susanto,Male,1995-02-21,gita.susanto85@example.com,083776011793,Regular,Gadget Enthusiast,Jawa Timur,Sidoarjo,2022-03-10
+CUST-0086,Wahyu Permana,Male,2004-05-11,wahyu.permana86@example.com,088505373158,Regular,Professional,Sumatera Utara,Medan,2025-01-09
+CUST-0087,Maya Siregar,Male,1983-08-26,maya.siregar87@example.com,089033293776,Gold,Gadget Enthusiast,Bali,Badung,2022-06-04
+CUST-0088,Eka Santoso,Female,1977-07-01,eka.santoso88@example.com,085825776872,Regular,Family,Sumatera Utara,Deli Serdang,2024-02-20
+CUST-0089,Maya Saputra,Female,1975-10-18,maya.saputra89@example.com,083620283102,Silver,Gadget Enthusiast,Sumatera Utara,Medan,2023-09-11
+CUST-0090,Putra Saputra,Male,1984-08-04,putra.saputra90@example.com,081417436465,Gold,Professional,Jawa Barat,Bandung,2024-03-06
+CUST-0091,Rani Permana,Male,2003-07-21,rani.permana91@example.com,089381721143,Regular,Family,Sumatera Utara,Deli Serdang,2023-03-21
+CUST-0092,Rani Gunawan,Male,1996-06-18,rani.gunawan92@example.com,088064477344,Regular,Family,Jawa Barat,Depok,2023-01-24
+CUST-0093,Dewi Gunawan,Male,1976-06-08,dewi.gunawan93@example.com,085246953455,Gold,Professional,DKI Jakarta,Jakarta Selatan,2022-05-21
+CUST-0094,Vina Santoso,Male,1985-03-26,vina.santoso94@example.com,085307145891,Gold,Professional,Bali,Denpasar,2022-09-24
+CUST-0095,Vina Lestari,Male,1979-01-12,vina.lestari95@example.com,082390587865,Regular,Student,Jawa Barat,Bandung,2022-09-17
+CUST-0096,Putra Siregar,Female,1989-06-17,putra.siregar96@example.com,083549776132,Regular,Professional,DKI Jakarta,Jakarta Pusat,2022-03-30
+CUST-0097,Tono Lestari,Male,1990-07-14,tono.lestari97@example.com,083946766309,Silver,Gadget Enthusiast,Banten,Tangerang,2022-05-31
+CUST-0098,Citra Permana,Male,1979-05-20,citra.permana98@example.com,086691628146,Platinum,SMB,Bali,Denpasar,2023-08-27
+CUST-0099,Rani Siregar,Male,2000-12-04,rani.siregar99@example.com,086218484323,Regular,Professional,Bali,Badung,2024-04-27
+CUST-0100,Lina Gunawan,Male,1985-07-11,lina.gunawan100@example.com,088151583833,Regular,Professional,Banten,Tangerang Selatan,2024-08-29
+CUST-0101,Citra Saputra,Female,1978-12-24,citra.saputra101@example.com,089847550931,Platinum,SMB,DKI Jakarta,Jakarta Pusat,2023-11-07
+CUST-0102,Dewi Halim,Female,2002-12-02,dewi.halim102@example.com,089454207717,Silver,Family,Jawa Timur,Sidoarjo,2022-08-01
+CUST-0103,Wahyu Siregar,Female,1982-02-12,wahyu.siregar103@example.com,082578662692,Gold,SMB,Jawa Barat,Bekasi,2023-04-09
+CUST-0104,Putra Siregar,Female,1975-03-09,putra.siregar104@example.com,086754503097,Regular,Professional,Bali,Denpasar,2024-03-31
+CUST-0105,Citra Wijaya,Male,1998-09-07,citra.wijaya105@example.com,086910709963,Regular,Professional,Sumatera Utara,Medan,2024-01-28
+CUST-0106,Joko Permana,Male,1979-03-25,joko.permana106@example.com,083653594796,Silver,Family,Bali,Denpasar,2024-06-26
+CUST-0107,Putra Gunawan,Female,1983-04-25,putra.gunawan107@example.com,083200510647,Regular,Student,Bali,Badung,2023-08-04
+CUST-0108,Wahyu Gunawan,Male,1982-07-20,wahyu.gunawan108@example.com,081235286733,Regular,Professional,Bali,Badung,2022-10-09
+CUST-0109,Indra Lestari,Male,1990-12-14,indra.lestari109@example.com,081754603440,Regular,Professional,Jawa Timur,Surabaya,2024-10-21
+CUST-0110,Vina Permana,Male,1988-01-15,vina.permana110@example.com,084956362540,Gold,SMB,DKI Jakarta,Jakarta Utara,2024-05-29
+CUST-0111,Wahyu Halim,Female,1978-07-01,wahyu.halim111@example.com,089444763362,Regular,SMB,Sumatera Utara,Deli Serdang,2024-07-31
+CUST-0112,Maya Saputra,Male,1988-10-13,maya.saputra112@example.com,083250402001,Regular,Family,Banten,Tangerang,2023-11-27
+CUST-0113,Hana Permana,Male,1991-09-07,hana.permana113@example.com,086795522649,Silver,Professional,Jawa Barat,Bandung,2023-04-29
+CUST-0114,Dewi Wijaya,Male,1994-03-25,dewi.wijaya114@example.com,081323639855,Platinum,Gadget Enthusiast,Jawa Timur,Surabaya,2024-08-08
+CUST-0115,Wahyu Susanto,Female,1979-08-03,wahyu.susanto115@example.com,087308968023,Silver,Family,Banten,Tangerang Selatan,2022-04-26
+CUST-0116,Maya Siregar,Female,1989-01-02,maya.siregar116@example.com,082232986477,Silver,Student,DKI Jakarta,Jakarta Barat,2024-11-04
+CUST-0117,Nadia Gunawan,Female,2004-10-21,nadia.gunawan117@example.com,086103449651,Silver,SMB,Bali,Denpasar,2022-11-05
+CUST-0118,Budi Gunawan,Male,1991-11-06,budi.gunawan118@example.com,081168114160,Silver,Gadget Enthusiast,DKI Jakarta,Jakarta Barat,2024-12-09
+CUST-0119,Tono Susanto,Female,2004-05-13,tono.susanto119@example.com,083567900251,Gold,Family,Jawa Barat,Depok,2022-05-15
+CUST-0120,Lina Saputra,Female,1983-12-28,lina.saputra120@example.com,084750707607,Regular,SMB,Bali,Badung,2022-10-17
+CUST-0121,Maya Lestari,Male,1994-12-03,maya.lestari121@example.com,088695129534,Gold,SMB,Sumatera Utara,Deli Serdang,2022-07-11
+CUST-0122,Putra Siregar,Female,1984-03-07,putra.siregar122@example.com,088585583166,Regular,Professional,Jawa Timur,Surabaya,2022-11-14
+CUST-0123,Citra Lestari,Female,2003-10-05,citra.lestari123@example.com,087860121241,Regular,Professional,DKI Jakarta,Jakarta Pusat,2022-12-06
+CUST-0124,Rani Pratama,Male,1989-10-10,rani.pratama124@example.com,088661364201,Regular,Professional,Banten,Tangerang Selatan,2023-09-26
+CUST-0125,Sari Santoso,Female,1989-05-25,sari.santoso125@example.com,087560389844,Platinum,Professional,Jawa Timur,Sidoarjo,2022-10-11
+CUST-0126,Indra Pratama,Female,1992-02-23,indra.pratama126@example.com,084655730355,Regular,Professional,Sumatera Utara,Deli Serdang,2023-07-13
+CUST-0127,Rani Siregar,Male,2005-04-27,rani.siregar127@example.com,085409514899,Regular,SMB,Jawa Barat,Bogor,2024-02-05
+CUST-0128,Hana Halim,Male,1975-06-04,hana.halim128@example.com,088086527181,Gold,Professional,DKI Jakarta,Jakarta Barat,2022-03-20
+CUST-0129,Joko Gunawan,Female,1989-10-01,joko.gunawan129@example.com,084890628295,Regular,Professional,Sumatera Utara,Medan,2022-11-03
+CUST-0130,Vina Susanto,Male,1999-05-08,vina.susanto130@example.com,082293434554,Regular,Gadget Enthusiast,Bali,Badung,2024-07-25
+CUST-0131,Citra Saputra,Male,1997-03-10,citra.saputra131@example.com,082843567009,Silver,Professional,Banten,Tangerang,2024-05-03
+CUST-0132,Fajar Saputra,Male,2005-09-18,fajar.saputra132@example.com,083380064537,Regular,Gadget Enthusiast,Bali,Badung,2022-03-31
+CUST-0133,Nadia Permana,Male,1986-02-12,nadia.permana133@example.com,088544878538,Regular,Family,Jawa Timur,Sidoarjo,2025-01-23
+CUST-0134,Lina Wijaya,Female,1995-03-26,lina.wijaya134@example.com,081579187439,Silver,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2022-03-17
+CUST-0135,Joko Santoso,Male,1985-05-17,joko.santoso135@example.com,087328203808,Regular,Professional,DKI Jakarta,Jakarta Selatan,2023-08-09
+CUST-0136,Maya Pratama,Female,1978-06-14,maya.pratama136@example.com,089115282784,Silver,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2023-11-26
+CUST-0137,Fajar Gunawan,Female,2004-09-09,fajar.gunawan137@example.com,084440904834,Silver,Student,Sumatera Utara,Deli Serdang,2024-05-31
+CUST-0138,Yuni Wijaya,Female,1978-02-11,yuni.wijaya138@example.com,088133593748,Regular,SMB,Bali,Badung,2024-05-22
+CUST-0139,Fajar Gunawan,Male,1998-06-20,fajar.gunawan139@example.com,089581991473,Regular,Student,Jawa Timur,Malang,2022-06-03
+CUST-0140,Nadia Permana,Male,1979-10-22,nadia.permana140@example.com,088650676663,Regular,Student,Bali,Denpasar,2023-04-29
+CUST-0141,Maya Permana,Male,1996-08-12,maya.permana141@example.com,086892752604,Gold,SMB,Banten,Tangerang,2022-10-09
+CUST-0142,Tono Permana,Female,1982-02-01,tono.permana142@example.com,084159699467,Silver,Gadget Enthusiast,Banten,Tangerang Selatan,2025-02-24
+CUST-0143,Dewi Lestari,Female,1981-10-10,dewi.lestari143@example.com,089584045520,Regular,Professional,Jawa Timur,Sidoarjo,2022-06-01
+CUST-0144,Rani Wijaya,Male,2000-11-28,rani.wijaya144@example.com,089532273208,Silver,Student,Sumatera Utara,Deli Serdang,2025-01-31
+CUST-0145,Vina Lestari,Male,2000-06-17,vina.lestari145@example.com,081963110410,Platinum,Professional,Jawa Timur,Surabaya,2023-04-30
+CUST-0146,Sari Pratama,Female,1989-09-05,sari.pratama146@example.com,081370292681,Regular,Gadget Enthusiast,Jawa Timur,Sidoarjo,2024-12-12
+CUST-0147,Putra Halim,Male,1985-11-03,putra.halim147@example.com,087227593033,Silver,Family,Bali,Denpasar,2022-09-20
+CUST-0148,Vina Susanto,Female,1991-01-27,vina.susanto148@example.com,085952163720,Regular,Family,Jawa Barat,Bekasi,2023-04-07
+CUST-0149,Maya Siregar,Female,1981-11-18,maya.siregar149@example.com,082178758213,Silver,SMB,Jawa Timur,Surabaya,2024-12-28
+CUST-0150,Citra Siregar,Male,1980-11-20,citra.siregar150@example.com,087894019119,Gold,SMB,Sumatera Utara,Medan,2022-03-26
+CUST-0151,Adi Saputra,Male,1999-10-14,adi.saputra151@example.com,085425044246,Gold,SMB,DKI Jakarta,Jakarta Barat,2023-08-17
+CUST-0152,Joko Gunawan,Female,1989-02-23,joko.gunawan152@example.com,081257324536,Regular,Gadget Enthusiast,Jawa Barat,Bogor,2024-08-09
+CUST-0153,Gita Permana,Female,2002-12-11,gita.permana153@example.com,088991977937,Platinum,Professional,Bali,Denpasar,2024-01-29
+CUST-0154,Tono Siregar,Male,1989-02-09,tono.siregar154@example.com,082931000173,Regular,Student,DKI Jakarta,Jakarta Barat,2023-08-18
+CUST-0155,Nadia Susanto,Male,2001-06-19,nadia.susanto155@example.com,088392190335,Regular,Professional,Banten,Tangerang,2024-10-17
+CUST-0156,Tono Gunawan,Female,1975-02-13,tono.gunawan156@example.com,087465834732,Platinum,Professional,Banten,Tangerang Selatan,2023-12-24
+CUST-0157,Budi Pratama,Female,1984-09-01,budi.pratama157@example.com,084638577630,Regular,Family,Jawa Timur,Malang,2024-01-20
+CUST-0158,Nadia Permana,Male,1993-09-07,nadia.permana158@example.com,082239534867,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Utara,2025-01-31
+CUST-0159,Indra Susanto,Male,1978-07-12,indra.susanto159@example.com,089327720702,Silver,Professional,Sumatera Utara,Medan,2024-11-08
+CUST-0160,Nadia Siregar,Male,1979-12-11,nadia.siregar160@example.com,088747974356,Silver,Professional,DKI Jakarta,Jakarta Pusat,2024-11-21
+CUST-0161,Eka Permana,Male,1987-10-24,eka.permana161@example.com,088913915028,Silver,SMB,Bali,Badung,2024-11-09
+CUST-0162,Vina Gunawan,Female,2001-01-12,vina.gunawan162@example.com,083702653209,Silver,Family,Sumatera Utara,Deli Serdang,2023-04-12
+CUST-0163,Budi Susanto,Female,1979-11-08,budi.susanto163@example.com,089725528903,Platinum,Student,Banten,Tangerang,2023-01-26
+CUST-0164,Adi Gunawan,Male,1988-12-07,adi.gunawan164@example.com,089248574674,Gold,Student,Jawa Timur,Malang,2022-10-10
+CUST-0165,Tono Santoso,Female,1991-07-11,tono.santoso165@example.com,085108932916,Regular,SMB,Bali,Badung,2023-12-03
+CUST-0166,Vina Permana,Female,1981-04-09,vina.permana166@example.com,087691931213,Regular,Family,Sumatera Utara,Deli Serdang,2023-08-15
+CUST-0167,Gita Gunawan,Female,1992-12-09,gita.gunawan167@example.com,082236045959,Silver,SMB,Jawa Timur,Malang,2024-02-17
+CUST-0168,Nadia Permana,Male,1984-12-03,nadia.permana168@example.com,083057629778,Regular,SMB,Jawa Barat,Depok,2023-07-10
+CUST-0169,Vina Lestari,Male,1982-01-22,vina.lestari169@example.com,082000025413,Regular,Family,Jawa Barat,Bandung,2024-08-25
+CUST-0170,Dewi Wijaya,Female,1995-08-16,dewi.wijaya170@example.com,083794042404,Silver,Family,DKI Jakarta,Jakarta Selatan,2023-10-20
+CUST-0171,Joko Pratama,Male,2004-03-14,joko.pratama171@example.com,084949801453,Platinum,Gadget Enthusiast,DKI Jakarta,Jakarta Selatan,2024-10-11
+CUST-0172,Fajar Lestari,Female,1993-10-04,fajar.lestari172@example.com,086733962236,Regular,SMB,DKI Jakarta,Jakarta Pusat,2024-12-09
+CUST-0173,Sari Wijaya,Female,1981-02-11,sari.wijaya173@example.com,081799718923,Silver,Family,Bali,Badung,2023-01-31
+CUST-0174,Fajar Susanto,Female,1991-06-03,fajar.susanto174@example.com,081409675904,Platinum,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2023-10-25
+CUST-0175,Hana Pratama,Male,1989-05-11,hana.pratama175@example.com,085344083406,Silver,Professional,Jawa Timur,Malang,2022-05-08
+CUST-0176,Dewi Gunawan,Female,1996-09-23,dewi.gunawan176@example.com,088601409432,Silver,Family,Jawa Timur,Surabaya,2024-01-23
+CUST-0177,Yuni Santoso,Female,1979-08-24,yuni.santoso177@example.com,086899673770,Silver,Gadget Enthusiast,Jawa Barat,Bekasi,2025-01-05
+CUST-0178,Gita Santoso,Female,1991-12-12,gita.santoso178@example.com,083423086220,Regular,SMB,Sumatera Utara,Medan,2024-11-01
+CUST-0179,Gita Susanto,Male,1985-09-15,gita.susanto179@example.com,087799567490,Regular,SMB,Bali,Denpasar,2024-07-01
+CUST-0180,Budi Gunawan,Female,1993-01-18,budi.gunawan180@example.com,088760642358,Silver,Gadget Enthusiast,Jawa Barat,Bogor,2023-06-06
+CUST-0181,Adi Santoso,Male,1988-06-23,adi.santoso181@example.com,089863781331,Platinum,Student,Bali,Denpasar,2024-08-24
+CUST-0182,Budi Lestari,Male,1999-11-24,budi.lestari182@example.com,087100408092,Platinum,Gadget Enthusiast,Banten,Tangerang,2024-07-07
+CUST-0183,Nadia Halim,Female,1978-03-18,nadia.halim183@example.com,085203589186,Gold,Student,DKI Jakarta,Jakarta Selatan,2023-09-04
+CUST-0184,Rani Siregar,Male,1982-08-12,rani.siregar184@example.com,085961208540,Regular,Student,Banten,Tangerang Selatan,2022-03-07
+CUST-0185,Putra Susanto,Male,1977-02-20,putra.susanto185@example.com,085439176290,Silver,Student,DKI Jakarta,Jakarta Selatan,2023-05-17
+CUST-0186,Budi Halim,Male,1999-01-05,budi.halim186@example.com,082242377075,Gold,SMB,Banten,Tangerang,2023-10-16
+CUST-0187,Wahyu Susanto,Male,1984-03-22,wahyu.susanto187@example.com,083238756255,Regular,Family,Sumatera Utara,Deli Serdang,2022-05-05
+CUST-0188,Vina Susanto,Female,1992-08-02,vina.susanto188@example.com,089470922075,Platinum,Gadget Enthusiast,Sumatera Utara,Medan,2024-12-10
+CUST-0189,Lina Halim,Female,1987-03-25,lina.halim189@example.com,087605351600,Regular,Professional,Banten,Tangerang,2023-09-08
+CUST-0190,Eka Gunawan,Female,1992-09-05,eka.gunawan190@example.com,082668247132,Regular,Family,DKI Jakarta,Jakarta Utara,2022-06-11
+CUST-0191,Rani Permana,Male,1983-07-22,rani.permana191@example.com,081312606333,Gold,SMB,DKI Jakarta,Jakarta Selatan,2025-02-18
+CUST-0192,Gita Gunawan,Female,2005-01-07,gita.gunawan192@example.com,085025070544,Platinum,Student,Jawa Barat,Depok,2024-09-07
+CUST-0193,Hana Susanto,Female,2004-04-18,hana.susanto193@example.com,086510697299,Regular,Family,Sumatera Utara,Medan,2023-09-24
+CUST-0194,Indra Permana,Female,1978-12-16,indra.permana194@example.com,086167393219,Regular,Student,Bali,Badung,2023-03-30
+CUST-0195,Eka Pratama,Female,1984-03-07,eka.pratama195@example.com,082416760621,Regular,Professional,Jawa Timur,Sidoarjo,2024-10-19
+CUST-0196,Vina Permana,Female,1989-03-24,vina.permana196@example.com,088709361138,Regular,SMB,Jawa Timur,Malang,2024-09-27
+CUST-0197,Fajar Siregar,Male,2001-02-27,fajar.siregar197@example.com,083869963931,Gold,Gadget Enthusiast,Sumatera Utara,Medan,2022-10-09
+CUST-0198,Hana Saputra,Male,1981-09-15,hana.saputra198@example.com,082602884797,Silver,SMB,Sumatera Utara,Medan,2024-09-16
+CUST-0199,Sari Pratama,Male,1975-09-24,sari.pratama199@example.com,089493209128,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Utara,2023-01-03
+CUST-0200,Dewi Saputra,Male,1981-10-17,dewi.saputra200@example.com,086817280229,Gold,Student,Bali,Denpasar,2024-02-04
+CUST-0201,Nadia Gunawan,Male,1984-11-27,nadia.gunawan201@example.com,084641561499,Silver,Student,Bali,Denpasar,2022-07-11
+CUST-0202,Nadia Halim,Male,1995-01-23,nadia.halim202@example.com,081736086849,Silver,Gadget Enthusiast,Banten,Tangerang Selatan,2023-11-10
+CUST-0203,Wahyu Saputra,Male,1981-12-19,wahyu.saputra203@example.com,087337225482,Regular,Student,Bali,Denpasar,2023-07-29
+CUST-0204,Vina Susanto,Male,2004-06-01,vina.susanto204@example.com,085129478722,Silver,Gadget Enthusiast,Sumatera Utara,Medan,2022-06-07
+CUST-0205,Joko Wijaya,Female,1996-09-11,joko.wijaya205@example.com,084177181331,Gold,Student,Bali,Denpasar,2024-10-22
+CUST-0206,Maya Pratama,Male,2001-02-11,maya.pratama206@example.com,087853087029,Platinum,Family,DKI Jakarta,Jakarta Utara,2022-03-02
+CUST-0207,Indra Gunawan,Female,1992-07-14,indra.gunawan207@example.com,082632399901,Gold,Family,Banten,Tangerang,2023-05-20
+CUST-0208,Citra Saputra,Female,1997-11-05,citra.saputra208@example.com,088471762590,Regular,Student,Jawa Timur,Surabaya,2022-07-07
+CUST-0209,Adi Lestari,Female,1978-03-03,adi.lestari209@example.com,086099808894,Regular,SMB,Banten,Tangerang Selatan,2024-11-15
+CUST-0210,Putra Saputra,Female,1992-02-20,putra.saputra210@example.com,082654584280,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Pusat,2022-06-23
+CUST-0211,Vina Santoso,Female,1980-03-09,vina.santoso211@example.com,086588316233,Silver,Student,Bali,Denpasar,2022-12-09
+CUST-0212,Putra Lestari,Female,2000-02-12,putra.lestari212@example.com,087979466538,Silver,Professional,Banten,Tangerang Selatan,2024-07-26
+CUST-0213,Dewi Wijaya,Female,1985-10-13,dewi.wijaya213@example.com,086710338189,Regular,SMB,Jawa Timur,Surabaya,2022-10-06
+CUST-0214,Joko Permana,Female,1985-03-13,joko.permana214@example.com,089455610447,Regular,Gadget Enthusiast,Bali,Denpasar,2023-05-12
+CUST-0215,Lina Halim,Female,1978-10-07,lina.halim215@example.com,083343459102,Silver,SMB,Jawa Timur,Malang,2022-02-25
+CUST-0216,Rani Santoso,Male,2001-07-22,rani.santoso216@example.com,083144490990,Silver,Professional,Banten,Tangerang Selatan,2023-06-02
+CUST-0217,Eka Halim,Female,1994-08-19,eka.halim217@example.com,088265834251,Silver,Family,Banten,Tangerang,2025-01-04
+CUST-0218,Yuni Saputra,Female,1980-11-20,yuni.saputra218@example.com,089780187424,Platinum,Gadget Enthusiast,DKI Jakarta,Jakarta Selatan,2023-11-11
+CUST-0219,Putra Saputra,Female,1982-09-24,putra.saputra219@example.com,083470617247,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Pusat,2024-08-06
+CUST-0220,Wahyu Siregar,Male,1990-02-10,wahyu.siregar220@example.com,085130589741,Regular,Professional,Jawa Barat,Depok,2023-12-15
+CUST-0221,Joko Permana,Female,1986-08-04,joko.permana221@example.com,088287542751,Regular,Family,Banten,Tangerang,2022-04-02
+CUST-0222,Dewi Pratama,Male,1996-03-24,dewi.pratama222@example.com,085982744929,Silver,Gadget Enthusiast,Jawa Timur,Sidoarjo,2023-04-20
+CUST-0223,Nadia Wijaya,Female,1975-12-20,nadia.wijaya223@example.com,084792874364,Regular,Gadget Enthusiast,Jawa Barat,Bogor,2024-03-07
+CUST-0224,Adi Santoso,Male,1993-02-26,adi.santoso224@example.com,086097953682,Regular,Gadget Enthusiast,Jawa Barat,Depok,2022-08-22
+CUST-0225,Indra Gunawan,Female,1994-07-19,indra.gunawan225@example.com,085785590330,Regular,Gadget Enthusiast,Bali,Badung,2022-12-20
+CUST-0226,Joko Susanto,Male,1985-02-08,joko.susanto226@example.com,082311597141,Regular,Professional,Bali,Denpasar,2024-11-12
+CUST-0227,Nadia Halim,Female,1988-03-16,nadia.halim227@example.com,085294535887,Silver,Gadget Enthusiast,Bali,Denpasar,2023-08-15
+CUST-0228,Eka Wijaya,Male,2002-06-01,eka.wijaya228@example.com,083081379485,Regular,Gadget Enthusiast,Jawa Timur,Malang,2025-02-24
+CUST-0229,Tono Gunawan,Female,1997-08-16,tono.gunawan229@example.com,081718348264,Silver,Professional,Banten,Tangerang Selatan,2023-08-22
+CUST-0230,Budi Lestari,Male,1999-08-19,budi.lestari230@example.com,088584566722,Silver,Student,Jawa Barat,Depok,2022-08-22
+CUST-0231,Indra Siregar,Male,1999-12-15,indra.siregar231@example.com,083346569443,Platinum,Student,Jawa Timur,Sidoarjo,2023-05-22
+CUST-0232,Joko Pratama,Female,2002-02-15,joko.pratama232@example.com,084487036345,Regular,SMB,Banten,Tangerang Selatan,2023-12-20
+CUST-0233,Yuni Halim,Male,2001-04-26,yuni.halim233@example.com,089844874547,Regular,Family,Jawa Barat,Bekasi,2025-01-08
+CUST-0234,Fajar Permana,Female,1993-05-28,fajar.permana234@example.com,084501175349,Regular,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2022-05-02
+CUST-0235,Indra Wijaya,Male,1979-12-11,indra.wijaya235@example.com,084558302256,Gold,Gadget Enthusiast,Sumatera Utara,Medan,2024-09-29
+CUST-0236,Eka Susanto,Female,1987-08-03,eka.susanto236@example.com,085694806361,Silver,Family,Sumatera Utara,Deli Serdang,2024-01-26
+CUST-0237,Rani Gunawan,Male,2002-12-03,rani.gunawan237@example.com,087590302909,Regular,Gadget Enthusiast,Jawa Timur,Sidoarjo,2023-03-10
+CUST-0238,Sari Lestari,Female,1992-10-05,sari.lestari238@example.com,081207916194,Regular,Gadget Enthusiast,Jawa Timur,Malang,2022-02-03
+CUST-0239,Dewi Wijaya,Male,2005-07-07,dewi.wijaya239@example.com,084905874257,Gold,Family,Banten,Tangerang Selatan,2022-11-22
+CUST-0240,Indra Saputra,Female,1977-06-22,indra.saputra240@example.com,081710924824,Regular,Family,Sumatera Utara,Deli Serdang,2023-04-25
+CUST-0241,Putra Saputra,Male,1981-08-03,putra.saputra241@example.com,088215470878,Regular,Family,Sumatera Utara,Medan,2022-09-04
+CUST-0242,Putra Wijaya,Male,1987-02-24,putra.wijaya242@example.com,084461558269,Regular,Family,Banten,Tangerang,2023-09-05
+CUST-0243,Eka Halim,Male,1991-10-01,eka.halim243@example.com,085999842516,Regular,Professional,Jawa Barat,Bekasi,2022-11-07
+CUST-0244,Putra Susanto,Male,1977-02-05,putra.susanto244@example.com,084231729466,Silver,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2023-12-21
+CUST-0245,Putra Permana,Female,1995-02-08,putra.permana245@example.com,087904559790,Gold,Student,Jawa Barat,Bekasi,2023-09-10
+CUST-0246,Gita Siregar,Female,1984-11-02,gita.siregar246@example.com,086322929387,Regular,Professional,Bali,Denpasar,2024-10-20
+CUST-0247,Yuni Saputra,Female,2004-06-05,yuni.saputra247@example.com,087102562415,Silver,Professional,Bali,Denpasar,2024-08-22
+CUST-0248,Citra Pratama,Male,1983-04-02,citra.pratama248@example.com,084962447893,Platinum,Gadget Enthusiast,Bali,Denpasar,2024-11-03
+CUST-0249,Joko Siregar,Female,1977-11-18,joko.siregar249@example.com,085950724801,Regular,Student,Banten,Tangerang Selatan,2024-11-13
+CUST-0250,Gita Wijaya,Female,1993-11-25,gita.wijaya250@example.com,085578929439,Silver,Professional,Bali,Badung,2022-04-29
+CUST-0251,Hana Saputra,Female,1994-10-02,hana.saputra251@example.com,084181102664,Regular,Professional,Banten,Tangerang,2022-01-24
+CUST-0252,Fajar Gunawan,Female,1980-06-05,fajar.gunawan252@example.com,089046449694,Silver,Student,Jawa Timur,Sidoarjo,2022-03-02
+CUST-0253,Lina Halim,Male,1983-12-19,lina.halim253@example.com,083695232998,Silver,SMB,Jawa Timur,Sidoarjo,2024-01-08
+CUST-0254,Budi Gunawan,Female,1980-05-25,budi.gunawan254@example.com,084104309491,Regular,SMB,Bali,Denpasar,2022-01-06
+CUST-0255,Budi Pratama,Female,1986-07-05,budi.pratama255@example.com,089741819989,Gold,Gadget Enthusiast,Jawa Barat,Bandung,2023-04-05
+CUST-0256,Lina Santoso,Female,2001-02-19,lina.santoso256@example.com,082601198885,Silver,Student,Banten,Tangerang Selatan,2023-01-03
+CUST-0257,Hana Siregar,Male,2003-08-28,hana.siregar257@example.com,088923555411,Regular,SMB,DKI Jakarta,Jakarta Utara,2024-07-24
+CUST-0258,Adi Permana,Female,1998-10-08,adi.permana258@example.com,087287517250,Silver,Gadget Enthusiast,Jawa Barat,Depok,2023-02-05
+CUST-0259,Vina Santoso,Female,1975-04-18,vina.santoso259@example.com,084767539382,Platinum,Student,Jawa Barat,Bandung,2024-02-10
+CUST-0260,Joko Saputra,Female,1990-01-05,joko.saputra260@example.com,088351491401,Regular,Professional,Jawa Barat,Bekasi,2024-11-30
+CUST-0261,Putra Permana,Male,1991-03-21,putra.permana261@example.com,088816681105,Regular,SMB,Banten,Tangerang,2022-05-08
+CUST-0262,Putra Wijaya,Female,2002-06-26,putra.wijaya262@example.com,086696207128,Regular,Professional,Jawa Barat,Depok,2022-06-02
+CUST-0263,Gita Wijaya,Male,1978-03-15,gita.wijaya263@example.com,087296658772,Regular,SMB,Bali,Denpasar,2024-01-04
+CUST-0264,Gita Gunawan,Female,2002-02-03,gita.gunawan264@example.com,088241550421,Gold,SMB,Jawa Timur,Malang,2022-03-24
+CUST-0265,Gita Permana,Male,2005-06-13,gita.permana265@example.com,083205292512,Silver,Family,Jawa Barat,Bandung,2022-12-23
+CUST-0266,Adi Halim,Male,1989-02-26,adi.halim266@example.com,084409386903,Regular,Student,Banten,Tangerang,2023-04-01
+CUST-0267,Eka Santoso,Male,1993-10-09,eka.santoso267@example.com,081322067505,Platinum,Professional,Banten,Tangerang Selatan,2024-06-27
+CUST-0268,Eka Saputra,Male,2005-08-02,eka.saputra268@example.com,087759781156,Gold,Gadget Enthusiast,Jawa Timur,Surabaya,2024-10-13
+CUST-0269,Adi Halim,Male,1986-04-06,adi.halim269@example.com,086476005015,Regular,Professional,Sumatera Utara,Deli Serdang,2022-03-12
+CUST-0270,Yuni Susanto,Female,1990-07-18,yuni.susanto270@example.com,083057422183,Regular,Gadget Enthusiast,Bali,Denpasar,2022-10-09
+CUST-0271,Putra Santoso,Male,1987-12-12,putra.santoso271@example.com,088651205525,Regular,SMB,Sumatera Utara,Medan,2024-10-25
+CUST-0272,Lina Halim,Male,1985-10-08,lina.halim272@example.com,082206596621,Gold,Gadget Enthusiast,Jawa Timur,Surabaya,2024-12-20
+CUST-0273,Maya Susanto,Male,1982-11-08,maya.susanto273@example.com,088719734235,Regular,Professional,Jawa Barat,Bekasi,2022-12-27
+CUST-0274,Hana Susanto,Female,2004-10-01,hana.susanto274@example.com,085073211715,Gold,Gadget Enthusiast,Jawa Timur,Sidoarjo,2025-01-15
+CUST-0275,Joko Wijaya,Male,1976-04-20,joko.wijaya275@example.com,081939777262,Silver,Student,Banten,Tangerang,2023-11-11
+CUST-0276,Yuni Santoso,Male,2004-06-02,yuni.santoso276@example.com,081094115188,Silver,Professional,Jawa Barat,Depok,2022-08-16
+CUST-0277,Tono Permana,Female,1993-02-11,tono.permana277@example.com,086591038760,Regular,Professional,DKI Jakarta,Jakarta Barat,2024-06-13
+CUST-0278,Sari Permana,Male,1996-10-27,sari.permana278@example.com,086048096802,Regular,Family,Jawa Barat,Depok,2022-09-18
+CUST-0279,Fajar Pratama,Male,1980-10-11,fajar.pratama279@example.com,083429019820,Gold,Professional,Sumatera Utara,Deli Serdang,2023-11-10
+CUST-0280,Citra Santoso,Male,1995-02-27,citra.santoso280@example.com,089103115140,Regular,Family,Jawa Timur,Malang,2023-03-06
+CUST-0281,Hana Saputra,Male,1998-01-02,hana.saputra281@example.com,086952554500,Silver,Professional,Jawa Timur,Malang,2024-04-27
+CUST-0282,Sari Halim,Female,1978-08-26,sari.halim282@example.com,083951331472,Regular,Student,Jawa Timur,Sidoarjo,2022-03-10
+CUST-0283,Joko Pratama,Male,1977-06-06,joko.pratama283@example.com,089108603060,Regular,Student,Jawa Timur,Malang,2025-01-25
+CUST-0284,Citra Permana,Male,1988-11-06,citra.permana284@example.com,082864876473,Regular,Family,Bali,Badung,2023-02-25
+CUST-0285,Gita Halim,Female,1984-04-04,gita.halim285@example.com,085508149905,Silver,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2022-11-11
+CUST-0286,Budi Permana,Male,1984-11-21,budi.permana286@example.com,087872873371,Regular,Student,DKI Jakarta,Jakarta Utara,2023-02-28
+CUST-0287,Fajar Lestari,Male,1984-07-16,fajar.lestari287@example.com,088134112721,Regular,SMB,DKI Jakarta,Jakarta Utara,2024-03-04
+CUST-0288,Fajar Permana,Male,1989-01-09,fajar.permana288@example.com,087183638017,Regular,Family,Banten,Tangerang Selatan,2022-05-07
+CUST-0289,Eka Saputra,Female,1999-10-08,eka.saputra289@example.com,083377702111,Gold,SMB,DKI Jakarta,Jakarta Barat,2024-05-07
+CUST-0290,Vina Gunawan,Female,1984-02-13,vina.gunawan290@example.com,084067919621,Silver,SMB,Bali,Denpasar,2022-10-29
+CUST-0291,Dewi Gunawan,Male,2000-04-05,dewi.gunawan291@example.com,085478258887,Regular,Gadget Enthusiast,Jawa Barat,Bekasi,2023-02-18
+CUST-0292,Eka Susanto,Male,1977-07-18,eka.susanto292@example.com,084751509023,Gold,SMB,Jawa Timur,Malang,2024-12-06
+CUST-0293,Putra Saputra,Male,1993-10-19,putra.saputra293@example.com,085035765954,Gold,SMB,Banten,Tangerang,2022-07-26
+CUST-0294,Joko Siregar,Female,1987-11-16,joko.siregar294@example.com,083031719772,Regular,Gadget Enthusiast,Jawa Timur,Malang,2022-10-22
+CUST-0295,Yuni Susanto,Male,1987-06-23,yuni.susanto295@example.com,082020395327,Silver,Family,Sumatera Utara,Deli Serdang,2024-02-02
+CUST-0296,Adi Permana,Female,2001-08-28,adi.permana296@example.com,084731897202,Regular,Gadget Enthusiast,Jawa Timur,Malang,2023-10-20
+CUST-0297,Indra Halim,Male,1989-04-27,indra.halim297@example.com,089831336766,Gold,Student,Bali,Denpasar,2023-09-30
+CUST-0298,Tono Halim,Male,1981-04-27,tono.halim298@example.com,081247508299,Regular,Student,Jawa Barat,Bandung,2024-01-09
+CUST-0299,Gita Lestari,Female,1995-02-22,gita.lestari299@example.com,081131267917,Regular,SMB,Jawa Timur,Malang,2024-07-02
+CUST-0300,Fajar Gunawan,Female,1980-05-24,fajar.gunawan300@example.com,085683197659,Regular,Student,Bali,Badung,2022-11-30
+CUST-0301,Wahyu Santoso,Male,1983-11-14,wahyu.santoso301@example.com,083204526134,Gold,Student,Jawa Barat,Bekasi,2024-08-28
+CUST-0302,Eka Wijaya,Male,1983-10-26,eka.wijaya302@example.com,089345142789,Silver,Family,Bali,Denpasar,2024-05-17
+CUST-0303,Nadia Permana,Male,1989-05-22,nadia.permana303@example.com,087973335079,Silver,Student,Banten,Tangerang Selatan,2024-11-13
+CUST-0304,Maya Siregar,Female,1996-02-16,maya.siregar304@example.com,085569145346,Platinum,Family,Sumatera Utara,Deli Serdang,2023-07-22
+CUST-0305,Indra Lestari,Male,2003-01-26,indra.lestari305@example.com,089699264134,Silver,Family,Jawa Barat,Bekasi,2023-06-16
+CUST-0306,Putra Halim,Male,1985-12-23,putra.halim306@example.com,088666074487,Gold,Family,Banten,Tangerang,2024-11-04
+CUST-0307,Joko Wijaya,Female,1978-08-05,joko.wijaya307@example.com,088477189726,Silver,SMB,Sumatera Utara,Medan,2023-01-10
+CUST-0308,Lina Saputra,Male,1998-05-14,lina.saputra308@example.com,086717963562,Regular,Family,Jawa Barat,Depok,2024-08-07
+CUST-0309,Dewi Gunawan,Female,2003-04-17,dewi.gunawan309@example.com,088218541928,Silver,Gadget Enthusiast,DKI Jakarta,Jakarta Pusat,2022-04-21
+CUST-0310,Eka Wijaya,Female,1993-08-05,eka.wijaya310@example.com,084073772623,Gold,Gadget Enthusiast,Jawa Barat,Depok,2023-11-13
+CUST-0311,Fajar Permana,Male,1989-05-07,fajar.permana311@example.com,084283432667,Silver,Student,Sumatera Utara,Medan,2022-09-23
+CUST-0312,Yuni Halim,Female,1988-08-13,yuni.halim312@example.com,081020053819,Silver,Family,Sumatera Utara,Deli Serdang,2022-01-29
+CUST-0313,Lina Siregar,Male,1995-12-08,lina.siregar313@example.com,089061589784,Regular,Student,Jawa Barat,Bandung,2024-02-25
+CUST-0314,Tono Susanto,Male,2001-01-10,tono.susanto314@example.com,089368586475,Regular,SMB,Jawa Timur,Surabaya,2024-12-09
+CUST-0315,Lina Halim,Female,2003-08-12,lina.halim315@example.com,084221721910,Regular,Gadget Enthusiast,Sumatera Utara,Medan,2022-02-09
+CUST-0316,Hana Santoso,Male,1998-01-19,hana.santoso316@example.com,083167384632,Regular,Student,Sumatera Utara,Medan,2024-02-08
+CUST-0317,Indra Siregar,Male,1996-02-21,indra.siregar317@example.com,084591108099,Regular,Student,Bali,Denpasar,2024-05-03
+CUST-0318,Rani Halim,Female,1997-03-07,rani.halim318@example.com,083707166618,Regular,Student,DKI Jakarta,Jakarta Barat,2024-12-01
+CUST-0319,Indra Susanto,Female,2001-02-17,indra.susanto319@example.com,085800633419,Regular,Student,Bali,Denpasar,2024-10-16
+CUST-0320,Gita Susanto,Male,1986-12-14,gita.susanto320@example.com,082268523764,Regular,Gadget Enthusiast,Jawa Barat,Depok,2023-03-02
+CUST-0321,Sari Permana,Male,1996-02-04,sari.permana321@example.com,088168394616,Regular,Student,Jawa Barat,Bandung,2024-11-13
+CUST-0322,Citra Saputra,Male,1989-05-09,citra.saputra322@example.com,082994056084,Regular,Professional,Jawa Timur,Sidoarjo,2022-03-22
+CUST-0323,Joko Permana,Female,1998-02-04,joko.permana323@example.com,084823775103,Regular,Professional,Sumatera Utara,Deli Serdang,2022-12-16
+CUST-0324,Lina Permana,Male,1986-06-06,lina.permana324@example.com,085783872028,Regular,Gadget Enthusiast,Banten,Tangerang Selatan,2023-07-11
+CUST-0325,Nadia Gunawan,Male,1979-12-24,nadia.gunawan325@example.com,081684598046,Regular,SMB,Banten,Tangerang,2024-09-15
+CUST-0326,Wahyu Gunawan,Female,1994-01-28,wahyu.gunawan326@example.com,085856127658,Gold,Student,Jawa Barat,Bogor,2024-04-22
+CUST-0327,Rani Pratama,Female,1975-12-28,rani.pratama327@example.com,083426709025,Platinum,Family,DKI Jakarta,Jakarta Barat,2024-11-29
+CUST-0328,Tono Susanto,Male,1990-06-22,tono.susanto328@example.com,082653032484,Gold,SMB,DKI Jakarta,Jakarta Utara,2022-04-22
+CUST-0329,Adi Wijaya,Female,2002-03-03,adi.wijaya329@example.com,088522334580,Regular,Family,Bali,Badung,2023-07-24
+CUST-0330,Budi Siregar,Female,2001-04-03,budi.siregar330@example.com,087266763552,Gold,Gadget Enthusiast,Jawa Barat,Bogor,2022-06-30
+CUST-0331,Sari Gunawan,Female,1998-11-01,sari.gunawan331@example.com,085735817014,Regular,SMB,Jawa Timur,Surabaya,2025-01-29
+CUST-0332,Adi Saputra,Male,1995-11-15,adi.saputra332@example.com,089376711497,Regular,Student,Bali,Badung,2023-04-02
+CUST-0333,Rani Permana,Female,1997-08-04,rani.permana333@example.com,083829998009,Regular,Family,Bali,Badung,2023-08-21
+CUST-0334,Vina Siregar,Male,1976-03-16,vina.siregar334@example.com,088394040015,Regular,SMB,Jawa Timur,Sidoarjo,2023-02-06
+CUST-0335,Gita Saputra,Female,2001-04-23,gita.saputra335@example.com,082451413560,Silver,Student,Banten,Tangerang,2022-09-10
+CUST-0336,Rani Gunawan,Female,1975-09-24,rani.gunawan336@example.com,089798548049,Gold,SMB,Sumatera Utara,Medan,2024-09-16
+CUST-0337,Tono Wijaya,Male,1978-07-22,tono.wijaya337@example.com,089086117171,Silver,Gadget Enthusiast,Sumatera Utara,Medan,2024-05-07
+CUST-0338,Yuni Santoso,Female,1984-08-26,yuni.santoso338@example.com,081572827654,Regular,SMB,Jawa Timur,Malang,2023-09-05
+CUST-0339,Vina Permana,Male,1981-10-23,vina.permana339@example.com,083887823121,Platinum,Professional,Sumatera Utara,Medan,2024-10-28
+CUST-0340,Vina Permana,Female,1992-08-19,vina.permana340@example.com,088934097788,Gold,SMB,Sumatera Utara,Medan,2022-08-07
+CUST-0341,Adi Halim,Male,1981-05-25,adi.halim341@example.com,084373835078,Platinum,Family,Jawa Barat,Bandung,2022-10-27
+CUST-0342,Budi Lestari,Female,2001-08-04,budi.lestari342@example.com,082670255496,Silver,Family,Jawa Barat,Bandung,2022-04-07
+CUST-0343,Nadia Halim,Male,1975-12-09,nadia.halim343@example.com,086126033644,Regular,Student,Banten,Tangerang Selatan,2023-01-18
+CUST-0344,Fajar Siregar,Male,1988-05-18,fajar.siregar344@example.com,082134900434,Regular,Family,DKI Jakarta,Jakarta Utara,2022-01-12
+CUST-0345,Lina Gunawan,Male,1979-06-20,lina.gunawan345@example.com,088137764127,Silver,SMB,Sumatera Utara,Medan,2025-01-31
+CUST-0346,Maya Saputra,Male,2005-03-17,maya.saputra346@example.com,083169561289,Regular,SMB,Sumatera Utara,Deli Serdang,2024-04-06
+CUST-0347,Citra Permana,Female,1985-06-10,citra.permana347@example.com,087573442717,Platinum,Student,Jawa Barat,Bekasi,2022-08-23
+CUST-0348,Maya Gunawan,Male,1996-06-13,maya.gunawan348@example.com,085058691146,Regular,SMB,Jawa Barat,Bekasi,2023-08-03
+CUST-0349,Adi Siregar,Female,1990-01-10,adi.siregar349@example.com,086121801720,Silver,Student,Jawa Timur,Sidoarjo,2022-12-09
+CUST-0350,Vina Siregar,Male,1996-11-25,vina.siregar350@example.com,088238760130,Gold,Professional,DKI Jakarta,Jakarta Pusat,2025-01-06
+CUST-0351,Putra Saputra,Male,1989-12-11,putra.saputra351@example.com,081162720486,Regular,Professional,Sumatera Utara,Medan,2023-05-31
+CUST-0352,Vina Saputra,Female,1988-07-15,vina.saputra352@example.com,088001729836,Regular,Student,Bali,Denpasar,2024-03-08
+CUST-0353,Dewi Siregar,Male,1997-02-12,dewi.siregar353@example.com,085750815980,Gold,Family,DKI Jakarta,Jakarta Pusat,2022-06-27
+CUST-0354,Joko Gunawan,Male,1990-03-18,joko.gunawan354@example.com,081944316108,Silver,SMB,Banten,Tangerang Selatan,2023-08-28
+CUST-0355,Eka Lestari,Male,1992-09-05,eka.lestari355@example.com,081529290976,Regular,SMB,Sumatera Utara,Deli Serdang,2024-03-18
+CUST-0356,Vina Siregar,Male,1998-12-24,vina.siregar356@example.com,082476831585,Regular,SMB,DKI Jakarta,Jakarta Barat,2022-10-19
+CUST-0357,Fajar Wijaya,Male,1978-03-22,fajar.wijaya357@example.com,084660390742,Gold,SMB,Jawa Barat,Depok,2024-08-02
+CUST-0358,Vina Saputra,Male,1983-02-07,vina.saputra358@example.com,086715961218,Regular,Professional,Jawa Timur,Sidoarjo,2022-07-24
+CUST-0359,Joko Susanto,Female,1990-08-11,joko.susanto359@example.com,083508990774,Silver,Family,DKI Jakarta,Jakarta Selatan,2023-10-10
+CUST-0360,Putra Wijaya,Male,2000-04-23,putra.wijaya360@example.com,087168105904,Gold,Professional,DKI Jakarta,Jakarta Barat,2023-11-11
+CUST-0361,Sari Gunawan,Female,1990-09-04,sari.gunawan361@example.com,083605446007,Gold,Professional,Banten,Tangerang Selatan,2025-01-08
+CUST-0362,Gita Lestari,Male,2003-01-28,gita.lestari362@example.com,083534186676,Gold,SMB,Sumatera Utara,Medan,2023-06-18
+CUST-0363,Vina Siregar,Female,1987-04-25,vina.siregar363@example.com,088976459315,Regular,SMB,Banten,Tangerang,2024-11-11
+CUST-0364,Citra Halim,Male,1996-04-28,citra.halim364@example.com,083938451957,Silver,Professional,Jawa Timur,Sidoarjo,2024-07-02
+CUST-0365,Fajar Wijaya,Female,2005-06-02,fajar.wijaya365@example.com,083094407076,Regular,Family,Bali,Denpasar,2023-04-25
+CUST-0366,Budi Santoso,Female,1990-08-02,budi.santoso366@example.com,088080359881,Regular,SMB,Bali,Badung,2023-07-15
+CUST-0367,Indra Susanto,Female,1995-07-12,indra.susanto367@example.com,089924243978,Regular,Professional,Bali,Denpasar,2024-11-23
+CUST-0368,Nadia Permana,Female,2003-10-01,nadia.permana368@example.com,085891831621,Regular,Student,Jawa Timur,Malang,2024-11-19
+CUST-0369,Indra Santoso,Male,1986-10-23,indra.santoso369@example.com,084508795329,Silver,Gadget Enthusiast,Jawa Barat,Bekasi,2023-11-08
+CUST-0370,Dewi Gunawan,Female,1981-10-06,dewi.gunawan370@example.com,082764798660,Regular,Professional,Sumatera Utara,Deli Serdang,2022-11-26
+CUST-0371,Eka Siregar,Male,1980-05-06,eka.siregar371@example.com,083738568701,Gold,Family,DKI Jakarta,Jakarta Selatan,2022-06-25
+CUST-0372,Gita Gunawan,Female,1980-04-27,gita.gunawan372@example.com,084296344958,Silver,SMB,Bali,Badung,2023-06-26
+CUST-0373,Fajar Permana,Male,1987-07-05,fajar.permana373@example.com,081466305100,Regular,SMB,Banten,Tangerang,2024-05-09
+CUST-0374,Eka Susanto,Female,2003-10-20,eka.susanto374@example.com,081504729135,Silver,Professional,DKI Jakarta,Jakarta Selatan,2025-01-09
+CUST-0375,Adi Halim,Female,2002-01-23,adi.halim375@example.com,087570511906,Regular,Gadget Enthusiast,Bali,Badung,2024-02-20
+CUST-0376,Maya Susanto,Female,1979-05-16,maya.susanto376@example.com,084289338885,Gold,Student,Sumatera Utara,Medan,2023-08-04
+CUST-0377,Yuni Siregar,Male,1975-12-24,yuni.siregar377@example.com,084390543744,Silver,Student,Banten,Tangerang Selatan,2024-11-30
+CUST-0378,Adi Halim,Female,1988-06-04,adi.halim378@example.com,085959736235,Silver,Family,Sumatera Utara,Medan,2023-06-20
+CUST-0379,Vina Halim,Female,1996-07-25,vina.halim379@example.com,086169824924,Silver,SMB,Bali,Badung,2024-09-15
+CUST-0380,Fajar Permana,Female,1984-10-12,fajar.permana380@example.com,086281827528,Gold,Professional,Bali,Badung,2022-07-25
+CUST-0381,Gita Siregar,Male,1980-07-21,gita.siregar381@example.com,085919148165,Gold,Gadget Enthusiast,Banten,Tangerang Selatan,2022-06-30
+CUST-0382,Citra Lestari,Male,1994-01-24,citra.lestari382@example.com,089523139706,Silver,SMB,Jawa Barat,Depok,2023-08-10
+CUST-0383,Yuni Pratama,Female,1975-04-28,yuni.pratama383@example.com,082228388623,Regular,SMB,Jawa Barat,Bogor,2024-11-11
+CUST-0384,Tono Santoso,Male,1986-04-21,tono.santoso384@example.com,081676220116,Platinum,Gadget Enthusiast,Bali,Denpasar,2023-12-25
+CUST-0385,Nadia Halim,Male,1998-12-03,nadia.halim385@example.com,084947836984,Silver,SMB,Bali,Denpasar,2023-12-14
+CUST-0386,Maya Lestari,Female,2004-07-19,maya.lestari386@example.com,085314945131,Regular,SMB,Jawa Barat,Bekasi,2022-08-07
+CUST-0387,Vina Saputra,Female,2005-02-26,vina.saputra387@example.com,088626138802,Silver,SMB,Bali,Badung,2022-02-26
+CUST-0388,Sari Saputra,Female,1995-04-22,sari.saputra388@example.com,084011528431,Gold,Gadget Enthusiast,Jawa Timur,Surabaya,2023-12-25
+CUST-0389,Tono Siregar,Male,1984-02-13,tono.siregar389@example.com,088821456242,Regular,Professional,DKI Jakarta,Jakarta Barat,2024-09-02
+CUST-0390,Lina Permana,Male,2005-12-22,lina.permana390@example.com,086111730477,Silver,Professional,Jawa Barat,Depok,2023-05-11
+CUST-0391,Indra Santoso,Male,2001-10-12,indra.santoso391@example.com,081458227039,Gold,Gadget Enthusiast,Jawa Barat,Bekasi,2022-01-14
+CUST-0392,Vina Pratama,Female,1990-10-28,vina.pratama392@example.com,086474936701,Regular,SMB,Banten,Tangerang Selatan,2023-07-28
+CUST-0393,Nadia Santoso,Male,1991-07-16,nadia.santoso393@example.com,089729790084,Regular,Professional,Bali,Denpasar,2024-07-25
+CUST-0394,Dewi Siregar,Male,1975-11-07,dewi.siregar394@example.com,085727675931,Regular,Family,Banten,Tangerang Selatan,2023-01-19
+CUST-0395,Vina Lestari,Female,2005-10-11,vina.lestari395@example.com,082571632270,Silver,Professional,Jawa Barat,Depok,2024-05-08
+CUST-0396,Maya Permana,Female,1980-10-05,maya.permana396@example.com,083946398734,Gold,Family,Banten,Tangerang Selatan,2023-04-28
+CUST-0397,Vina Halim,Male,2000-12-05,vina.halim397@example.com,081041842844,Regular,Professional,Banten,Tangerang,2024-11-24
+CUST-0398,Vina Permana,Female,1992-10-02,vina.permana398@example.com,082711123163,Silver,Student,Banten,Tangerang Selatan,2023-03-18
+CUST-0399,Indra Gunawan,Female,1998-06-09,indra.gunawan399@example.com,086845287382,Silver,Family,Sumatera Utara,Medan,2023-12-06
+CUST-0400,Adi Halim,Male,1993-10-21,adi.halim400@example.com,088646369354,Regular,SMB,DKI Jakarta,Jakarta Barat,2024-09-25
+CUST-0401,Rani Saputra,Female,1995-03-28,rani.saputra401@example.com,086744039057,Silver,SMB,Banten,Tangerang Selatan,2024-04-08
+CUST-0402,Citra Saputra,Male,1985-06-21,citra.saputra402@example.com,088063693463,Regular,Gadget Enthusiast,Jawa Barat,Depok,2024-01-14
+CUST-0403,Wahyu Siregar,Male,1980-01-05,wahyu.siregar403@example.com,084125758723,Silver,Student,Banten,Tangerang Selatan,2023-03-08
+CUST-0404,Fajar Halim,Male,2004-08-18,fajar.halim404@example.com,081231178500,Gold,SMB,DKI Jakarta,Jakarta Pusat,2022-06-20
+CUST-0405,Dewi Lestari,Male,1995-07-10,dewi.lestari405@example.com,081985076350,Silver,Gadget Enthusiast,Bali,Denpasar,2022-09-16
+CUST-0406,Eka Siregar,Male,1996-06-28,eka.siregar406@example.com,089226032256,Gold,Gadget Enthusiast,Jawa Barat,Bandung,2025-01-12
+CUST-0407,Indra Siregar,Male,1993-10-15,indra.siregar407@example.com,087717262223,Silver,SMB,Banten,Tangerang,2023-09-27
+CUST-0408,Maya Gunawan,Male,1989-05-12,maya.gunawan408@example.com,087065369178,Regular,Student,Bali,Denpasar,2022-01-01
+CUST-0409,Tono Wijaya,Female,1992-01-23,tono.wijaya409@example.com,089255306810,Platinum,Gadget Enthusiast,Jawa Timur,Malang,2023-09-06
+CUST-0410,Adi Halim,Male,2000-01-18,adi.halim410@example.com,082604788242,Regular,SMB,Jawa Timur,Sidoarjo,2024-06-14
+CUST-0411,Nadia Santoso,Female,1982-05-03,nadia.santoso411@example.com,088235474949,Regular,SMB,Jawa Barat,Bogor,2023-07-05
+CUST-0412,Putra Santoso,Male,1984-02-21,putra.santoso412@example.com,087239587766,Silver,Gadget Enthusiast,DKI Jakarta,Jakarta Selatan,2023-01-20
+CUST-0413,Lina Pratama,Male,1980-02-10,lina.pratama413@example.com,082156184315,Silver,Student,Jawa Barat,Bandung,2023-04-22
+CUST-0414,Citra Wijaya,Male,1985-07-10,citra.wijaya414@example.com,086890105611,Silver,Student,DKI Jakarta,Jakarta Utara,2023-11-08
+CUST-0415,Citra Wijaya,Female,1977-09-16,citra.wijaya415@example.com,081779982123,Gold,Family,DKI Jakarta,Jakarta Barat,2024-02-21
+CUST-0416,Adi Saputra,Female,1999-08-08,adi.saputra416@example.com,081143925622,Regular,Student,Sumatera Utara,Medan,2024-12-03
+CUST-0417,Gita Gunawan,Female,1980-11-24,gita.gunawan417@example.com,089771121724,Gold,SMB,Banten,Tangerang Selatan,2022-09-08
+CUST-0418,Indra Gunawan,Male,1986-01-28,indra.gunawan418@example.com,083863432302,Platinum,Professional,Sumatera Utara,Deli Serdang,2024-06-08
+CUST-0419,Lina Pratama,Male,1987-04-01,lina.pratama419@example.com,085161114352,Silver,Gadget Enthusiast,Jawa Barat,Depok,2022-11-14
+CUST-0420,Maya Saputra,Female,1977-11-20,maya.saputra420@example.com,081257922823,Regular,Professional,Jawa Barat,Bekasi,2025-01-03
+CUST-0421,Dewi Wijaya,Female,1992-11-25,dewi.wijaya421@example.com,089125201729,Silver,Student,Banten,Tangerang,2024-02-13
+CUST-0422,Maya Wijaya,Female,1997-08-18,maya.wijaya422@example.com,088288721755,Regular,Professional,Jawa Timur,Surabaya,2025-01-18
+CUST-0423,Maya Permana,Female,2002-10-28,maya.permana423@example.com,083381646593,Regular,Professional,Sumatera Utara,Deli Serdang,2024-07-09
+CUST-0424,Joko Lestari,Female,1975-11-17,joko.lestari424@example.com,089670335754,Gold,SMB,Bali,Badung,2023-05-05
+CUST-0425,Lina Saputra,Male,1991-11-16,lina.saputra425@example.com,086510997463,Regular,Family,Sumatera Utara,Deli Serdang,2022-08-15
+CUST-0426,Dewi Siregar,Male,2001-03-06,dewi.siregar426@example.com,084751622928,Regular,Gadget Enthusiast,Sumatera Utara,Medan,2023-01-28
+CUST-0427,Dewi Pratama,Female,1991-10-23,dewi.pratama427@example.com,087830290429,Regular,Professional,Bali,Badung,2022-05-26
+CUST-0428,Adi Santoso,Male,1989-11-02,adi.santoso428@example.com,089119337640,Gold,Student,Sumatera Utara,Deli Serdang,2023-06-29
+CUST-0429,Tono Pratama,Female,1977-04-17,tono.pratama429@example.com,081417124022,Silver,SMB,Sumatera Utara,Medan,2024-02-29
+CUST-0430,Gita Santoso,Male,1992-12-18,gita.santoso430@example.com,088152161448,Gold,Professional,Bali,Denpasar,2023-01-05
+CUST-0431,Vina Halim,Male,1992-10-15,vina.halim431@example.com,089304405028,Gold,SMB,Bali,Badung,2023-10-27
+CUST-0432,Maya Halim,Female,1994-04-19,maya.halim432@example.com,083343446878,Regular,SMB,Sumatera Utara,Deli Serdang,2023-06-05
+CUST-0433,Maya Gunawan,Male,1998-01-10,maya.gunawan433@example.com,083558781873,Silver,Family,Banten,Tangerang Selatan,2022-01-14
+CUST-0434,Joko Santoso,Male,1999-12-27,joko.santoso434@example.com,081664494972,Regular,Family,Jawa Barat,Depok,2022-11-16
+CUST-0435,Eka Lestari,Male,1982-05-26,eka.lestari435@example.com,082289789131,Silver,SMB,Jawa Timur,Sidoarjo,2023-03-22
+CUST-0436,Citra Permana,Female,2001-12-23,citra.permana436@example.com,084898351305,Silver,Family,Banten,Tangerang,2022-03-18
+CUST-0437,Wahyu Halim,Female,1986-07-14,wahyu.halim437@example.com,084308800114,Silver,SMB,DKI Jakarta,Jakarta Pusat,2022-01-24
+CUST-0438,Nadia Pratama,Male,1985-09-19,nadia.pratama438@example.com,085937408591,Silver,Professional,Jawa Timur,Sidoarjo,2022-11-10
+CUST-0439,Budi Halim,Male,1988-05-26,budi.halim439@example.com,082693601838,Regular,Student,Banten,Tangerang,2024-09-01
+CUST-0440,Wahyu Pratama,Female,1977-07-17,wahyu.pratama440@example.com,083997331061,Gold,Gadget Enthusiast,Bali,Badung,2025-02-19
+CUST-0441,Gita Gunawan,Male,1982-02-09,gita.gunawan441@example.com,088631177201,Regular,SMB,Banten,Tangerang,2022-07-03
+CUST-0442,Dewi Halim,Female,1981-06-12,dewi.halim442@example.com,082309186996,Platinum,SMB,Banten,Tangerang Selatan,2024-06-24
+CUST-0443,Yuni Wijaya,Male,1981-11-12,yuni.wijaya443@example.com,081368570209,Silver,Professional,Banten,Tangerang,2022-10-30
+CUST-0444,Joko Pratama,Male,1984-08-16,joko.pratama444@example.com,085392669701,Regular,SMB,Jawa Timur,Sidoarjo,2023-03-10
+CUST-0445,Gita Siregar,Female,1994-12-05,gita.siregar445@example.com,083870157362,Regular,SMB,Bali,Badung,2022-03-31
+CUST-0446,Indra Wijaya,Male,2000-12-20,indra.wijaya446@example.com,082165144965,Regular,Student,DKI Jakarta,Jakarta Barat,2022-05-17
+CUST-0447,Nadia Lestari,Male,1975-05-28,nadia.lestari447@example.com,082660104622,Platinum,SMB,Sumatera Utara,Deli Serdang,2022-07-23
+CUST-0448,Lina Gunawan,Male,1981-09-15,lina.gunawan448@example.com,084060031897,Regular,SMB,Bali,Denpasar,2023-09-17
+CUST-0449,Lina Gunawan,Male,1986-11-12,lina.gunawan449@example.com,082298481206,Platinum,SMB,Banten,Tangerang,2023-07-19
+CUST-0450,Budi Lestari,Female,1982-03-11,budi.lestari450@example.com,089148305949,Silver,Student,Banten,Tangerang,2024-02-22
+CUST-0451,Tono Susanto,Female,1982-10-05,tono.susanto451@example.com,087895006867,Regular,Professional,Sumatera Utara,Medan,2023-02-28
+CUST-0452,Eka Susanto,Male,1984-12-23,eka.susanto452@example.com,084906542112,Regular,Professional,Bali,Denpasar,2022-11-20
+CUST-0453,Lina Saputra,Male,1985-03-24,lina.saputra453@example.com,089473523940,Platinum,Family,Bali,Denpasar,2024-06-26
+CUST-0454,Indra Wijaya,Male,1980-01-25,indra.wijaya454@example.com,087944732371,Silver,SMB,Jawa Barat,Bandung,2023-04-18
+CUST-0455,Yuni Santoso,Female,1977-12-25,yuni.santoso455@example.com,083046990957,Silver,SMB,Jawa Barat,Bandung,2024-08-18
+CUST-0456,Maya Wijaya,Female,1979-03-07,maya.wijaya456@example.com,081971835392,Regular,Student,Banten,Tangerang Selatan,2023-07-07
+CUST-0457,Putra Santoso,Male,1977-03-15,putra.santoso457@example.com,086354895816,Regular,Student,Sumatera Utara,Medan,2024-02-19
+CUST-0458,Lina Halim,Male,1989-08-27,lina.halim458@example.com,084769980437,Gold,Professional,Bali,Denpasar,2024-11-28
+CUST-0459,Vina Halim,Female,1991-11-02,vina.halim459@example.com,086110368314,Regular,Family,Sumatera Utara,Medan,2023-08-09
+CUST-0460,Rani Wijaya,Male,1997-09-05,rani.wijaya460@example.com,088069952132,Regular,SMB,Banten,Tangerang Selatan,2022-08-20
+CUST-0461,Fajar Susanto,Female,1988-06-15,fajar.susanto461@example.com,081106996713,Regular,Professional,Sumatera Utara,Medan,2024-07-20
+CUST-0462,Citra Lestari,Male,1997-12-04,citra.lestari462@example.com,081391663395,Silver,Family,Jawa Timur,Sidoarjo,2022-06-24
+CUST-0463,Tono Halim,Female,1992-07-02,tono.halim463@example.com,084299652989,Gold,SMB,Sumatera Utara,Medan,2022-11-04
+CUST-0464,Fajar Wijaya,Female,1984-05-24,fajar.wijaya464@example.com,087211631821,Silver,Student,Jawa Barat,Bandung,2022-09-27
+CUST-0465,Gita Pratama,Male,1989-08-28,gita.pratama465@example.com,084467990956,Silver,Gadget Enthusiast,Bali,Badung,2023-05-03
+CUST-0466,Gita Susanto,Female,1988-08-03,gita.susanto466@example.com,081028230917,Gold,Family,Sumatera Utara,Deli Serdang,2025-02-15
+CUST-0467,Gita Pratama,Male,1995-06-02,gita.pratama467@example.com,089729229346,Silver,SMB,Jawa Barat,Bekasi,2023-09-04
+CUST-0468,Lina Saputra,Female,1980-03-22,lina.saputra468@example.com,083414532686,Platinum,SMB,DKI Jakarta,Jakarta Pusat,2024-01-08
+CUST-0469,Budi Saputra,Female,2003-07-27,budi.saputra469@example.com,083364255319,Regular,Professional,Jawa Timur,Malang,2022-09-07
+CUST-0470,Indra Permana,Male,1997-04-20,indra.permana470@example.com,081249900899,Silver,SMB,Bali,Badung,2022-06-29
+CUST-0471,Sari Susanto,Female,1994-06-09,sari.susanto471@example.com,087711463369,Silver,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2024-10-05
+CUST-0472,Fajar Susanto,Male,1975-02-01,fajar.susanto472@example.com,084421940259,Silver,Professional,Jawa Barat,Depok,2024-04-29
+CUST-0473,Putra Pratama,Male,1975-11-07,putra.pratama473@example.com,088258568023,Regular,Student,Jawa Timur,Malang,2023-09-23
+CUST-0474,Joko Siregar,Male,1978-11-11,joko.siregar474@example.com,086761104130,Silver,SMB,Bali,Badung,2022-03-01
+CUST-0475,Fajar Santoso,Female,2004-08-26,fajar.santoso475@example.com,089742656117,Regular,Professional,Jawa Timur,Malang,2024-08-01
+CUST-0476,Vina Permana,Male,2001-09-10,vina.permana476@example.com,088207803934,Silver,Student,Banten,Tangerang Selatan,2023-03-03
+CUST-0477,Wahyu Permana,Male,1983-01-11,wahyu.permana477@example.com,089519577735,Silver,Professional,Jawa Timur,Surabaya,2024-03-08
+CUST-0478,Fajar Susanto,Female,1997-01-09,fajar.susanto478@example.com,082777556269,Silver,Professional,DKI Jakarta,Jakarta Barat,2024-02-01
+CUST-0479,Rani Lestari,Male,1978-06-26,rani.lestari479@example.com,085692698971,Silver,Gadget Enthusiast,Jawa Barat,Depok,2024-10-21
+CUST-0480,Eka Santoso,Female,1999-06-05,eka.santoso480@example.com,085263701409,Regular,Student,Jawa Timur,Malang,2024-07-29
+CUST-0481,Nadia Siregar,Female,2004-01-22,nadia.siregar481@example.com,084744675014,Regular,Student,DKI Jakarta,Jakarta Pusat,2022-07-31
+CUST-0482,Tono Lestari,Male,1985-04-07,tono.lestari482@example.com,086525764808,Silver,Gadget Enthusiast,DKI Jakarta,Jakarta Barat,2022-08-29
+CUST-0483,Indra Wijaya,Male,1975-10-18,indra.wijaya483@example.com,083207873733,Regular,Family,Jawa Barat,Depok,2025-01-30
+CUST-0484,Lina Lestari,Male,1980-02-10,lina.lestari484@example.com,082905452099,Regular,Gadget Enthusiast,Jawa Barat,Depok,2022-04-14
+CUST-0485,Dewi Halim,Female,1987-03-23,dewi.halim485@example.com,088298719245,Silver,Family,DKI Jakarta,Jakarta Pusat,2023-11-12
+CUST-0486,Gita Siregar,Male,1977-12-15,gita.siregar486@example.com,085712708693,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Utara,2024-08-21
+CUST-0487,Hana Santoso,Female,1987-03-23,hana.santoso487@example.com,086689805567,Silver,Student,Jawa Barat,Depok,2024-08-31
+CUST-0488,Dewi Permana,Male,1984-06-20,dewi.permana488@example.com,083468224333,Silver,Gadget Enthusiast,Banten,Tangerang Selatan,2022-08-08
+CUST-0489,Lina Siregar,Female,1992-08-13,lina.siregar489@example.com,087831299927,Regular,Professional,Sumatera Utara,Medan,2025-01-27
+CUST-0490,Fajar Gunawan,Female,1981-12-19,fajar.gunawan490@example.com,089504916685,Silver,Family,Banten,Tangerang,2025-01-20
+CUST-0491,Hana Wijaya,Female,1978-10-20,hana.wijaya491@example.com,087283143895,Silver,Gadget Enthusiast,Sumatera Utara,Medan,2022-12-27
+CUST-0492,Joko Halim,Female,1985-08-21,joko.halim492@example.com,083835386061,Regular,Professional,DKI Jakarta,Jakarta Pusat,2022-01-01
+CUST-0493,Eka Wijaya,Female,1994-10-15,eka.wijaya493@example.com,081840381733,Silver,Family,Banten,Tangerang Selatan,2023-09-06
+CUST-0494,Wahyu Lestari,Male,1993-01-20,wahyu.lestari494@example.com,082263513519,Regular,SMB,Banten,Tangerang Selatan,2022-04-19
+CUST-0495,Adi Siregar,Female,2002-01-08,adi.siregar495@example.com,087829701852,Silver,Gadget Enthusiast,Jawa Timur,Surabaya,2024-04-11
+CUST-0496,Nadia Halim,Male,1990-03-07,nadia.halim496@example.com,087680484812,Gold,Family,Bali,Denpasar,2024-05-04
+CUST-0497,Eka Lestari,Male,1975-02-21,eka.lestari497@example.com,081067464491,Silver,Gadget Enthusiast,Sumatera Utara,Medan,2024-06-13
+CUST-0498,Eka Saputra,Female,2003-12-20,eka.saputra498@example.com,089290622669,Silver,Gadget Enthusiast,Jawa Barat,Bogor,2024-11-09
+CUST-0499,Putra Siregar,Female,1982-03-14,putra.siregar499@example.com,083596622371,Silver,Professional,Banten,Tangerang Selatan,2024-10-24
+CUST-0500,Indra Halim,Male,1976-10-16,indra.halim500@example.com,088322414774,Regular,Gadget Enthusiast,Bali,Badung,2022-06-13
+CUST-0501,Eka Siregar,Male,1991-10-03,eka.siregar501@example.com,086348227727,Silver,Student,Jawa Timur,Malang,2025-01-09
+CUST-0502,Wahyu Lestari,Female,1992-01-16,wahyu.lestari502@example.com,089186444252,Silver,Family,Bali,Denpasar,2024-05-12
+CUST-0503,Maya Lestari,Male,1997-10-24,maya.lestari503@example.com,082118594780,Silver,SMB,Jawa Timur,Surabaya,2022-12-13
+CUST-0504,Wahyu Pratama,Male,1984-08-03,wahyu.pratama504@example.com,088661202977,Regular,SMB,Sumatera Utara,Deli Serdang,2023-07-30
+CUST-0505,Indra Lestari,Male,2004-10-24,indra.lestari505@example.com,087213328054,Gold,Family,DKI Jakarta,Jakarta Pusat,2023-04-29
+CUST-0506,Sari Wijaya,Female,1977-03-20,sari.wijaya506@example.com,089562384841,Gold,Professional,Bali,Denpasar,2024-06-20
+CUST-0507,Fajar Santoso,Male,1995-05-25,fajar.santoso507@example.com,084519858899,Regular,Gadget Enthusiast,Bali,Badung,2024-03-27
+CUST-0508,Sari Lestari,Female,1996-12-13,sari.lestari508@example.com,087333314020,Regular,Gadget Enthusiast,Banten,Tangerang,2022-01-25
+CUST-0509,Joko Gunawan,Male,1978-09-21,joko.gunawan509@example.com,088920947409,Silver,Family,Banten,Tangerang Selatan,2023-11-18
+CUST-0510,Indra Lestari,Female,1989-11-24,indra.lestari510@example.com,084309260670,Silver,Professional,DKI Jakarta,Jakarta Barat,2023-10-04
+CUST-0511,Vina Pratama,Male,1975-07-04,vina.pratama511@example.com,083255992861,Silver,Family,Sumatera Utara,Medan,2023-03-26
+CUST-0512,Joko Lestari,Male,1994-02-02,joko.lestari512@example.com,084588269668,Platinum,Student,Jawa Barat,Bandung,2022-09-03
+CUST-0513,Citra Susanto,Male,2003-02-23,citra.susanto513@example.com,086086370835,Regular,Student,Jawa Barat,Bogor,2024-07-17
+CUST-0514,Indra Halim,Female,1980-02-09,indra.halim514@example.com,084337644657,Regular,Family,Sumatera Utara,Deli Serdang,2022-05-04
+CUST-0515,Indra Lestari,Male,1990-04-20,indra.lestari515@example.com,082686352103,Silver,Student,Jawa Barat,Bogor,2022-10-22
+CUST-0516,Vina Halim,Female,1997-05-04,vina.halim516@example.com,081149726408,Regular,Family,Jawa Barat,Bandung,2024-07-02
+CUST-0517,Adi Gunawan,Male,1996-07-09,adi.gunawan517@example.com,089605842084,Silver,Gadget Enthusiast,Jawa Barat,Bandung,2024-09-06
+CUST-0518,Putra Halim,Male,1975-07-23,putra.halim518@example.com,083070459171,Silver,Family,Sumatera Utara,Medan,2023-11-14
+CUST-0519,Joko Halim,Female,1992-06-03,joko.halim519@example.com,088907814712,Gold,Family,DKI Jakarta,Jakarta Pusat,2023-02-20
+CUST-0520,Fajar Siregar,Male,1984-12-13,fajar.siregar520@example.com,084850269395,Silver,Family,DKI Jakarta,Jakarta Utara,2024-09-23
+CUST-0521,Citra Gunawan,Male,1976-04-01,citra.gunawan521@example.com,083546681221,Silver,Student,Sumatera Utara,Medan,2025-01-12
+CUST-0522,Joko Gunawan,Male,1976-06-02,joko.gunawan522@example.com,084096722936,Regular,Professional,Bali,Badung,2024-12-07
+CUST-0523,Rani Siregar,Male,1976-12-05,rani.siregar523@example.com,085376842282,Gold,SMB,Jawa Barat,Bekasi,2022-04-04
+CUST-0524,Hana Wijaya,Male,2003-05-27,hana.wijaya524@example.com,084408903107,Regular,Professional,DKI Jakarta,Jakarta Selatan,2022-05-11
+CUST-0525,Dewi Saputra,Male,2000-04-14,dewi.saputra525@example.com,087021581129,Regular,SMB,Banten,Tangerang,2025-01-22
+CUST-0526,Eka Permana,Male,1985-02-04,eka.permana526@example.com,082176363031,Silver,Professional,Jawa Barat,Bandung,2024-01-28
+CUST-0527,Vina Wijaya,Male,1979-02-26,vina.wijaya527@example.com,087925383538,Gold,Student,Banten,Tangerang,2024-09-24
+CUST-0528,Citra Pratama,Male,1997-11-19,citra.pratama528@example.com,089104238818,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Selatan,2022-09-17
+CUST-0529,Gita Wijaya,Female,1988-04-06,gita.wijaya529@example.com,089751516468,Regular,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2022-06-30
+CUST-0530,Joko Permana,Male,1981-02-17,joko.permana530@example.com,085195287460,Silver,SMB,Banten,Tangerang,2024-11-05
+CUST-0531,Hana Gunawan,Female,1976-04-04,hana.gunawan531@example.com,084421426659,Silver,Gadget Enthusiast,Sumatera Utara,Medan,2024-10-15
+CUST-0532,Fajar Wijaya,Male,1995-06-10,fajar.wijaya532@example.com,086195148443,Regular,SMB,Sumatera Utara,Medan,2024-07-17
+CUST-0533,Budi Saputra,Male,1980-01-16,budi.saputra533@example.com,083211494631,Regular,Professional,Sumatera Utara,Medan,2024-06-29
+CUST-0534,Wahyu Susanto,Male,1998-11-11,wahyu.susanto534@example.com,085767984371,Regular,Professional,Jawa Timur,Malang,2024-04-24
+CUST-0535,Gita Halim,Female,1993-08-02,gita.halim535@example.com,089119587751,Regular,SMB,Jawa Barat,Bandung,2024-07-20
+CUST-0536,Fajar Halim,Female,1998-04-21,fajar.halim536@example.com,082158329197,Regular,Student,Jawa Timur,Surabaya,2022-05-03
+CUST-0537,Indra Wijaya,Female,1988-03-25,indra.wijaya537@example.com,082475647712,Gold,SMB,DKI Jakarta,Jakarta Utara,2022-11-18
+CUST-0538,Yuni Wijaya,Male,1988-09-16,yuni.wijaya538@example.com,087282518886,Regular,Gadget Enthusiast,Bali,Denpasar,2023-05-21
+CUST-0539,Hana Permana,Male,2004-10-01,hana.permana539@example.com,081189941491,Platinum,SMB,Banten,Tangerang,2022-03-10
+CUST-0540,Putra Siregar,Male,1989-08-08,putra.siregar540@example.com,089946809956,Silver,Gadget Enthusiast,Banten,Tangerang Selatan,2023-03-23
+CUST-0541,Eka Permana,Male,1975-08-22,eka.permana541@example.com,082309263254,Silver,SMB,Jawa Timur,Surabaya,2022-02-19
+CUST-0542,Rani Gunawan,Male,2000-06-21,rani.gunawan542@example.com,083720442203,Gold,Student,Jawa Barat,Bogor,2024-02-28
+CUST-0543,Lina Siregar,Female,1999-05-23,lina.siregar543@example.com,084412260278,Gold,Student,DKI Jakarta,Jakarta Barat,2023-11-19
+CUST-0544,Budi Siregar,Male,1978-07-12,budi.siregar544@example.com,085470521233,Regular,SMB,Sumatera Utara,Deli Serdang,2022-05-18
+CUST-0545,Vina Santoso,Male,1992-02-21,vina.santoso545@example.com,086263212814,Regular,Family,Jawa Barat,Depok,2024-10-28
+CUST-0546,Putra Lestari,Female,1986-08-16,putra.lestari546@example.com,084562932351,Regular,SMB,DKI Jakarta,Jakarta Pusat,2024-12-27
+CUST-0547,Joko Gunawan,Male,1981-08-03,joko.gunawan547@example.com,085639296557,Gold,Family,Bali,Badung,2022-06-07
+CUST-0548,Dewi Wijaya,Male,1990-03-28,dewi.wijaya548@example.com,085392421278,Regular,SMB,Jawa Timur,Surabaya,2022-09-28
+CUST-0549,Sari Permana,Male,1984-04-03,sari.permana549@example.com,084444516981,Gold,SMB,Banten,Tangerang Selatan,2023-11-19
+CUST-0550,Putra Susanto,Female,1990-10-22,putra.susanto550@example.com,087207328566,Regular,Professional,Jawa Timur,Sidoarjo,2023-09-20
+CUST-0551,Fajar Lestari,Female,1984-01-05,fajar.lestari551@example.com,086811610014,Regular,Professional,Jawa Barat,Bogor,2022-11-26
+CUST-0552,Vina Lestari,Male,1980-04-04,vina.lestari552@example.com,085838166906,Regular,Professional,Jawa Barat,Bekasi,2023-02-25
+CUST-0553,Vina Pratama,Female,1979-06-15,vina.pratama553@example.com,082295189353,Gold,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2024-10-19
+CUST-0554,Eka Gunawan,Male,1998-09-17,eka.gunawan554@example.com,088324857808,Regular,Family,Jawa Timur,Surabaya,2022-10-29
+CUST-0555,Wahyu Gunawan,Male,1998-08-02,wahyu.gunawan555@example.com,083366355159,Regular,Gadget Enthusiast,Jawa Timur,Sidoarjo,2023-03-28
+CUST-0556,Rani Permana,Male,1994-11-07,rani.permana556@example.com,082193688100,Regular,SMB,DKI Jakarta,Jakarta Barat,2024-07-01
+CUST-0557,Citra Siregar,Female,1985-10-20,citra.siregar557@example.com,088158707130,Regular,Gadget Enthusiast,Banten,Tangerang,2024-01-28
+CUST-0558,Nadia Permana,Female,1986-05-15,nadia.permana558@example.com,081376233267,Silver,Gadget Enthusiast,DKI Jakarta,Jakarta Barat,2024-05-01
+CUST-0559,Rani Lestari,Female,1979-10-20,rani.lestari559@example.com,081369702097,Regular,Gadget Enthusiast,Jawa Barat,Bogor,2024-12-11
+CUST-0560,Lina Saputra,Male,1975-07-21,lina.saputra560@example.com,089222330478,Regular,SMB,Bali,Badung,2024-08-04
+CUST-0561,Wahyu Wijaya,Female,1984-09-16,wahyu.wijaya561@example.com,088843676736,Gold,Family,Jawa Barat,Bekasi,2024-10-08
+CUST-0562,Vina Gunawan,Male,1979-05-10,vina.gunawan562@example.com,083029548895,Silver,Family,Jawa Barat,Bandung,2024-05-04
+CUST-0563,Fajar Gunawan,Male,1978-05-16,fajar.gunawan563@example.com,089876515546,Silver,SMB,Sumatera Utara,Medan,2024-09-11
+CUST-0564,Wahyu Halim,Female,1997-02-12,wahyu.halim564@example.com,083470738735,Gold,Professional,Jawa Timur,Sidoarjo,2022-04-30
+CUST-0565,Eka Permana,Female,1980-01-09,eka.permana565@example.com,086846152492,Silver,Family,Banten,Tangerang,2022-04-10
+CUST-0566,Joko Lestari,Male,1999-11-06,joko.lestari566@example.com,084284315878,Silver,Professional,Bali,Denpasar,2025-01-18
+CUST-0567,Lina Permana,Female,1996-12-23,lina.permana567@example.com,082557023069,Silver,Family,Sumatera Utara,Deli Serdang,2022-10-22
+CUST-0568,Adi Wijaya,Female,1999-08-14,adi.wijaya568@example.com,084911804606,Regular,Professional,Bali,Badung,2024-10-27
+CUST-0569,Hana Santoso,Female,1989-02-04,hana.santoso569@example.com,084516911409,Gold,Gadget Enthusiast,Bali,Denpasar,2023-12-15
+CUST-0570,Joko Permana,Female,1980-12-10,joko.permana570@example.com,089713455851,Gold,Professional,Jawa Barat,Bogor,2022-09-21
+CUST-0571,Eka Santoso,Male,1979-02-14,eka.santoso571@example.com,084367382040,Regular,Gadget Enthusiast,Jawa Timur,Surabaya,2024-06-02
+CUST-0572,Budi Santoso,Male,1990-02-09,budi.santoso572@example.com,081185892639,Regular,Student,DKI Jakarta,Jakarta Pusat,2022-07-17
+CUST-0573,Dewi Susanto,Male,1996-06-01,dewi.susanto573@example.com,081389894192,Gold,Family,Jawa Barat,Bekasi,2023-12-14
+CUST-0574,Maya Wijaya,Male,1978-10-25,maya.wijaya574@example.com,089649996737,Regular,Professional,Bali,Denpasar,2023-08-01
+CUST-0575,Fajar Siregar,Male,2004-09-28,fajar.siregar575@example.com,088334756553,Regular,SMB,DKI Jakarta,Jakarta Pusat,2023-01-15
+CUST-0576,Rani Saputra,Female,1988-04-17,rani.saputra576@example.com,086272305209,Regular,Family,Jawa Barat,Depok,2022-09-11
+CUST-0577,Rani Saputra,Female,1999-06-23,rani.saputra577@example.com,084101552989,Regular,Gadget Enthusiast,Bali,Denpasar,2022-08-25
+CUST-0578,Nadia Lestari,Female,1982-09-14,nadia.lestari578@example.com,088968734873,Regular,Student,Banten,Tangerang Selatan,2024-09-01
+CUST-0579,Maya Wijaya,Male,1987-08-17,maya.wijaya579@example.com,081365097623,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Utara,2022-07-28
+CUST-0580,Fajar Saputra,Female,1981-10-28,fajar.saputra580@example.com,089549825267,Regular,Gadget Enthusiast,Jawa Timur,Surabaya,2024-10-19
+CUST-0581,Indra Susanto,Female,1986-08-22,indra.susanto581@example.com,082197826153,Gold,Student,Bali,Badung,2022-09-08
+CUST-0582,Indra Gunawan,Male,1975-02-24,indra.gunawan582@example.com,085588007201,Silver,Professional,Banten,Tangerang,2024-02-23
+CUST-0583,Yuni Permana,Male,1999-02-22,yuni.permana583@example.com,088591664389,Gold,Professional,Jawa Barat,Depok,2023-08-25
+CUST-0584,Sari Gunawan,Female,2000-09-18,sari.gunawan584@example.com,084281204295,Platinum,Student,Bali,Badung,2024-02-25
+CUST-0585,Rani Permana,Female,1976-01-06,rani.permana585@example.com,084032501215,Silver,Professional,Banten,Tangerang Selatan,2023-10-02
+CUST-0586,Nadia Gunawan,Female,1990-09-28,nadia.gunawan586@example.com,085534356444,Regular,SMB,DKI Jakarta,Jakarta Utara,2024-02-13
+CUST-0587,Yuni Permana,Male,1975-10-02,yuni.permana587@example.com,086868686656,Gold,SMB,Jawa Timur,Malang,2022-02-25
+CUST-0588,Lina Halim,Female,1986-07-12,lina.halim588@example.com,089832382243,Regular,Professional,DKI Jakarta,Jakarta Utara,2023-10-02
+CUST-0589,Wahyu Saputra,Female,1978-06-06,wahyu.saputra589@example.com,089674596936,Regular,Gadget Enthusiast,Sumatera Utara,Medan,2024-05-15
+CUST-0590,Wahyu Siregar,Male,1997-08-19,wahyu.siregar590@example.com,086654385989,Silver,Family,Banten,Tangerang Selatan,2022-07-20
+CUST-0591,Sari Saputra,Female,1990-09-26,sari.saputra591@example.com,082458310741,Silver,Family,Sumatera Utara,Medan,2024-06-11
+CUST-0592,Gita Gunawan,Male,1984-05-02,gita.gunawan592@example.com,087758219918,Gold,SMB,Sumatera Utara,Medan,2022-07-08
+CUST-0593,Wahyu Saputra,Female,1977-10-26,wahyu.saputra593@example.com,087575868324,Regular,Family,Bali,Badung,2022-06-07
+CUST-0594,Joko Siregar,Female,1981-07-13,joko.siregar594@example.com,087508461289,Silver,SMB,Jawa Timur,Malang,2023-01-05
+CUST-0595,Adi Siregar,Male,1996-12-15,adi.siregar595@example.com,089189797508,Gold,Student,Jawa Barat,Bogor,2024-12-05
+CUST-0596,Gita Permana,Male,1979-12-22,gita.permana596@example.com,088582893964,Gold,Gadget Enthusiast,Banten,Tangerang,2023-10-15
+CUST-0597,Citra Santoso,Female,1995-03-09,citra.santoso597@example.com,086309137211,Regular,Professional,Banten,Tangerang Selatan,2023-01-29
+CUST-0598,Adi Santoso,Female,1992-07-14,adi.santoso598@example.com,081158929824,Regular,Professional,Jawa Timur,Malang,2022-03-01
+CUST-0599,Indra Lestari,Male,2005-12-16,indra.lestari599@example.com,084359668379,Regular,Student,Sumatera Utara,Medan,2023-10-05
+CUST-0600,Yuni Lestari,Female,1996-11-03,yuni.lestari600@example.com,084619584847,Regular,SMB,DKI Jakarta,Jakarta Utara,2024-10-21
+CUST-0601,Dewi Siregar,Female,2003-02-08,dewi.siregar601@example.com,083576212952,Gold,Family,Sumatera Utara,Deli Serdang,2023-11-06
+CUST-0602,Wahyu Halim,Female,1981-03-04,wahyu.halim602@example.com,081752281823,Platinum,Gadget Enthusiast,Sumatera Utara,Medan,2024-04-16
+CUST-0603,Indra Susanto,Female,1997-02-11,indra.susanto603@example.com,087638924354,Regular,Professional,DKI Jakarta,Jakarta Utara,2023-07-23
+CUST-0604,Eka Permana,Female,1975-11-20,eka.permana604@example.com,089824750522,Gold,Professional,Banten,Tangerang Selatan,2023-06-03
+CUST-0605,Vina Halim,Female,2003-11-04,vina.halim605@example.com,087195072856,Regular,Gadget Enthusiast,Jawa Timur,Sidoarjo,2023-06-08
+CUST-0606,Joko Saputra,Male,2002-03-15,joko.saputra606@example.com,088006606505,Gold,Gadget Enthusiast,Jawa Barat,Depok,2022-03-11
+CUST-0607,Indra Saputra,Female,2004-06-23,indra.saputra607@example.com,085580012388,Regular,SMB,Banten,Tangerang Selatan,2023-11-01
+CUST-0608,Rani Pratama,Female,2000-11-05,rani.pratama608@example.com,085308177776,Regular,Family,DKI Jakarta,Jakarta Selatan,2023-10-05
+CUST-0609,Wahyu Saputra,Male,1991-12-25,wahyu.saputra609@example.com,084277758858,Gold,Gadget Enthusiast,DKI Jakarta,Jakarta Selatan,2023-10-17
+CUST-0610,Rani Gunawan,Female,1980-11-19,rani.gunawan610@example.com,088845911427,Gold,Professional,Sumatera Utara,Medan,2022-06-22
+CUST-0611,Putra Permana,Female,2005-10-08,putra.permana611@example.com,082986099771,Regular,Professional,Jawa Barat,Bogor,2022-04-12
+CUST-0612,Nadia Susanto,Male,1977-06-06,nadia.susanto612@example.com,081504016658,Silver,Gadget Enthusiast,Banten,Tangerang Selatan,2024-07-18
+CUST-0613,Sari Saputra,Male,2005-05-10,sari.saputra613@example.com,088500915689,Regular,Gadget Enthusiast,Jawa Barat,Bekasi,2023-02-28
+CUST-0614,Yuni Santoso,Male,1988-03-14,yuni.santoso614@example.com,084403604972,Regular,Family,Jawa Timur,Sidoarjo,2023-04-28
+CUST-0615,Yuni Gunawan,Female,1977-01-16,yuni.gunawan615@example.com,088271480813,Silver,Gadget Enthusiast,Jawa Barat,Depok,2024-05-16
+CUST-0616,Yuni Lestari,Male,1976-06-08,yuni.lestari616@example.com,084478291959,Regular,SMB,DKI Jakarta,Jakarta Pusat,2024-02-20
+CUST-0617,Joko Halim,Male,2005-09-02,joko.halim617@example.com,083493172294,Regular,SMB,Sumatera Utara,Deli Serdang,2024-10-06
+CUST-0618,Lina Gunawan,Female,1997-09-14,lina.gunawan618@example.com,085903975336,Regular,Student,Jawa Barat,Bandung,2022-09-19
+CUST-0619,Sari Lestari,Female,1984-05-20,sari.lestari619@example.com,089275186009,Silver,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2022-12-04
+CUST-0620,Lina Gunawan,Male,1981-03-02,lina.gunawan620@example.com,081987243526,Regular,Family,Jawa Barat,Bogor,2022-12-01
+CUST-0621,Rani Halim,Male,1989-06-23,rani.halim621@example.com,087703819127,Regular,Student,DKI Jakarta,Jakarta Utara,2022-10-31
+CUST-0622,Dewi Permana,Female,1980-03-24,dewi.permana622@example.com,083515465308,Silver,Student,DKI Jakarta,Jakarta Selatan,2024-12-13
+CUST-0623,Wahyu Wijaya,Male,1999-08-22,wahyu.wijaya623@example.com,082411574423,Regular,Student,Banten,Tangerang,2024-03-18
+CUST-0624,Maya Susanto,Male,1975-02-15,maya.susanto624@example.com,088127667126,Regular,Family,DKI Jakarta,Jakarta Barat,2022-01-12
+CUST-0625,Lina Pratama,Female,2005-12-24,lina.pratama625@example.com,081555426027,Gold,Family,Sumatera Utara,Deli Serdang,2023-10-24
+CUST-0626,Budi Saputra,Male,1987-05-06,budi.saputra626@example.com,082713336599,Regular,Professional,Bali,Badung,2022-11-30
+CUST-0627,Nadia Halim,Male,1978-05-16,nadia.halim627@example.com,088735667403,Silver,Family,Jawa Timur,Sidoarjo,2022-09-26
+CUST-0628,Maya Saputra,Male,1990-08-13,maya.saputra628@example.com,087341260172,Silver,Gadget Enthusiast,Jawa Timur,Sidoarjo,2022-07-04
+CUST-0629,Putra Permana,Female,1995-07-03,putra.permana629@example.com,089763614872,Regular,Gadget Enthusiast,Bali,Denpasar,2023-04-05
+CUST-0630,Eka Gunawan,Female,1989-07-03,eka.gunawan630@example.com,087346292485,Regular,Professional,Bali,Denpasar,2023-09-08
+CUST-0631,Hana Siregar,Male,1992-02-02,hana.siregar631@example.com,083205098571,Silver,Gadget Enthusiast,Banten,Tangerang Selatan,2022-07-13
+CUST-0632,Rani Susanto,Female,1993-02-25,rani.susanto632@example.com,083162277965,Regular,Gadget Enthusiast,Jawa Timur,Malang,2023-01-03
+CUST-0633,Fajar Halim,Female,2003-12-10,fajar.halim633@example.com,088404930275,Silver,Gadget Enthusiast,DKI Jakarta,Jakarta Pusat,2023-06-27
+CUST-0634,Lina Wijaya,Male,1998-10-09,lina.wijaya634@example.com,085751654002,Silver,Student,Jawa Barat,Bekasi,2024-03-19
+CUST-0635,Dewi Pratama,Female,1997-07-28,dewi.pratama635@example.com,088412733036,Regular,SMB,Jawa Barat,Bogor,2024-01-09
+CUST-0636,Nadia Lestari,Male,1975-04-04,nadia.lestari636@example.com,084504556843,Silver,Professional,DKI Jakarta,Jakarta Selatan,2022-02-24
+CUST-0637,Gita Gunawan,Male,1988-11-28,gita.gunawan637@example.com,081819971340,Regular,Gadget Enthusiast,Sumatera Utara,Medan,2022-10-31
+CUST-0638,Sari Halim,Male,2003-03-24,sari.halim638@example.com,088312603168,Platinum,Gadget Enthusiast,DKI Jakarta,Jakarta Pusat,2022-02-10
+CUST-0639,Rani Susanto,Female,1993-07-02,rani.susanto639@example.com,082433875095,Regular,Gadget Enthusiast,Jawa Barat,Bekasi,2024-05-01
+CUST-0640,Sari Susanto,Male,1990-07-16,sari.susanto640@example.com,089021427795,Regular,Student,Bali,Badung,2024-12-17
+CUST-0641,Adi Halim,Male,1983-11-14,adi.halim641@example.com,089113797058,Regular,SMB,Bali,Badung,2023-12-12
+CUST-0642,Rani Halim,Female,1998-04-16,rani.halim642@example.com,086771780593,Regular,Professional,DKI Jakarta,Jakarta Selatan,2023-11-26
+CUST-0643,Yuni Gunawan,Female,2005-07-27,yuni.gunawan643@example.com,086184921425,Silver,Student,Jawa Barat,Depok,2024-09-15
+CUST-0644,Eka Wijaya,Female,1978-07-16,eka.wijaya644@example.com,082304174972,Regular,Student,Jawa Barat,Bekasi,2022-02-07
+CUST-0645,Maya Lestari,Male,1980-09-02,maya.lestari645@example.com,084465246370,Regular,Student,Jawa Timur,Sidoarjo,2023-04-10
+CUST-0646,Dewi Siregar,Female,1985-06-25,dewi.siregar646@example.com,083875420006,Silver,Gadget Enthusiast,Jawa Barat,Bogor,2024-07-25
+CUST-0647,Dewi Saputra,Male,1991-02-06,dewi.saputra647@example.com,083705512079,Gold,Family,Bali,Denpasar,2022-11-18
+CUST-0648,Joko Gunawan,Male,1979-11-12,joko.gunawan648@example.com,081591728242,Gold,Gadget Enthusiast,Bali,Badung,2024-05-01
+CUST-0649,Adi Santoso,Female,1991-03-03,adi.santoso649@example.com,086437495734,Silver,Gadget Enthusiast,Banten,Tangerang Selatan,2024-01-09
+CUST-0650,Hana Wijaya,Male,1979-07-14,hana.wijaya650@example.com,089237833434,Gold,SMB,Bali,Badung,2024-01-11
+CUST-0651,Adi Gunawan,Male,1977-06-11,adi.gunawan651@example.com,084317315247,Regular,Gadget Enthusiast,Jawa Barat,Bandung,2022-03-17
+CUST-0652,Eka Susanto,Female,1987-11-23,eka.susanto652@example.com,088484828793,Gold,Student,DKI Jakarta,Jakarta Barat,2023-07-27
+CUST-0653,Tono Susanto,Female,1995-04-18,tono.susanto653@example.com,088081357418,Gold,Family,Jawa Barat,Bogor,2022-06-22
+CUST-0654,Budi Siregar,Male,1991-09-10,budi.siregar654@example.com,081917982759,Silver,Family,Jawa Timur,Malang,2024-12-03
+CUST-0655,Lina Wijaya,Female,1982-05-24,lina.wijaya655@example.com,083170137829,Silver,Family,DKI Jakarta,Jakarta Pusat,2023-06-16
+CUST-0656,Tono Permana,Male,1989-05-19,tono.permana656@example.com,084164784001,Regular,Professional,DKI Jakarta,Jakarta Pusat,2024-12-28
+CUST-0657,Yuni Santoso,Female,1996-12-19,yuni.santoso657@example.com,083888081200,Silver,SMB,Jawa Timur,Malang,2023-05-23
+CUST-0658,Dewi Permana,Female,1989-02-05,dewi.permana658@example.com,088351439626,Gold,Student,Bali,Denpasar,2022-07-08
+CUST-0659,Budi Halim,Male,1989-02-12,budi.halim659@example.com,088639993987,Gold,SMB,Jawa Barat,Bogor,2024-10-18
+CUST-0660,Putra Gunawan,Female,2001-03-05,putra.gunawan660@example.com,083172333857,Silver,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2022-09-22
+CUST-0661,Tono Siregar,Female,1990-01-24,tono.siregar661@example.com,087695968652,Gold,Student,DKI Jakarta,Jakarta Selatan,2024-04-16
+CUST-0662,Dewi Saputra,Female,1976-09-05,dewi.saputra662@example.com,085800666263,Regular,Family,Jawa Timur,Sidoarjo,2023-09-14
+CUST-0663,Joko Gunawan,Male,2000-10-14,joko.gunawan663@example.com,089135754389,Gold,Professional,DKI Jakarta,Jakarta Selatan,2023-01-10
+CUST-0664,Sari Pratama,Male,2002-01-14,sari.pratama664@example.com,086915482645,Gold,SMB,DKI Jakarta,Jakarta Barat,2022-09-29
+CUST-0665,Eka Siregar,Female,1996-08-05,eka.siregar665@example.com,082396793314,Gold,SMB,Sumatera Utara,Deli Serdang,2024-04-18
+CUST-0666,Nadia Santoso,Male,2005-11-15,nadia.santoso666@example.com,088455688681,Silver,Professional,Banten,Tangerang Selatan,2022-02-20
+CUST-0667,Wahyu Lestari,Male,1981-10-18,wahyu.lestari667@example.com,084852002754,Regular,SMB,Bali,Denpasar,2023-01-04
+CUST-0668,Adi Lestari,Female,1977-09-20,adi.lestari668@example.com,086671208652,Silver,Gadget Enthusiast,Jawa Barat,Bekasi,2022-02-17
+CUST-0669,Lina Halim,Male,2002-09-11,lina.halim669@example.com,086935691971,Regular,Student,Jawa Barat,Bogor,2025-01-14
+CUST-0670,Fajar Lestari,Female,1999-02-05,fajar.lestari670@example.com,081726670039,Silver,Family,Jawa Barat,Bekasi,2023-01-07
+CUST-0671,Adi Pratama,Male,1985-03-14,adi.pratama671@example.com,089130420445,Regular,Student,Jawa Timur,Malang,2022-04-17
+CUST-0672,Gita Santoso,Female,1991-09-13,gita.santoso672@example.com,085077457518,Regular,Family,Bali,Denpasar,2024-08-09
+CUST-0673,Vina Halim,Male,1988-11-08,vina.halim673@example.com,085374951767,Silver,SMB,DKI Jakarta,Jakarta Utara,2022-07-27
+CUST-0674,Hana Siregar,Female,1993-07-15,hana.siregar674@example.com,085157148297,Regular,Professional,Sumatera Utara,Medan,2023-05-18
+CUST-0675,Vina Halim,Male,1975-08-27,vina.halim675@example.com,087960982010,Silver,Professional,Bali,Badung,2022-01-02
+CUST-0676,Budi Gunawan,Female,2001-11-13,budi.gunawan676@example.com,089586678451,Gold,Professional,Jawa Timur,Sidoarjo,2024-11-11
+CUST-0677,Joko Pratama,Female,1977-07-23,joko.pratama677@example.com,082855264537,Silver,Family,Jawa Barat,Bandung,2023-12-03
+CUST-0678,Indra Gunawan,Female,1985-04-15,indra.gunawan678@example.com,082410713142,Gold,Professional,Jawa Timur,Surabaya,2022-01-05
+CUST-0679,Yuni Gunawan,Male,1988-09-23,yuni.gunawan679@example.com,088315616392,Gold,SMB,DKI Jakarta,Jakarta Pusat,2022-06-16
+CUST-0680,Citra Siregar,Male,1986-07-27,citra.siregar680@example.com,087877577855,Regular,Student,DKI Jakarta,Jakarta Utara,2022-09-13
+CUST-0681,Rani Permana,Male,1982-12-01,rani.permana681@example.com,088552360690,Silver,Family,Jawa Barat,Bogor,2023-01-28
+CUST-0682,Citra Susanto,Male,1982-08-12,citra.susanto682@example.com,085453005092,Silver,SMB,Sumatera Utara,Deli Serdang,2023-03-05
+CUST-0683,Adi Santoso,Male,2002-05-19,adi.santoso683@example.com,087443849558,Regular,Professional,Sumatera Utara,Deli Serdang,2022-12-26
+CUST-0684,Citra Susanto,Male,1983-10-28,citra.susanto684@example.com,088654717096,Regular,Student,Jawa Barat,Bandung,2024-12-27
+CUST-0685,Yuni Lestari,Male,2005-07-21,yuni.lestari685@example.com,083791857792,Gold,Family,Sumatera Utara,Deli Serdang,2024-06-04
+CUST-0686,Putra Lestari,Female,1986-09-25,putra.lestari686@example.com,084097617527,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Utara,2024-12-26
+CUST-0687,Rani Permana,Male,1985-02-19,rani.permana687@example.com,084468928756,Platinum,Professional,DKI Jakarta,Jakarta Utara,2024-05-17
+CUST-0688,Citra Santoso,Female,1984-02-21,citra.santoso688@example.com,083685620292,Regular,Gadget Enthusiast,Jawa Barat,Bekasi,2022-02-19
+CUST-0689,Wahyu Permana,Male,1990-04-11,wahyu.permana689@example.com,084575635519,Gold,SMB,Jawa Timur,Surabaya,2023-04-30
+CUST-0690,Citra Susanto,Male,1995-08-19,citra.susanto690@example.com,081536125194,Platinum,Student,Bali,Badung,2024-02-12
+CUST-0691,Lina Saputra,Female,1976-05-20,lina.saputra691@example.com,087984412292,Regular,Student,Jawa Barat,Bandung,2025-02-19
+CUST-0692,Budi Lestari,Male,1994-07-08,budi.lestari692@example.com,083680094643,Regular,Gadget Enthusiast,Banten,Tangerang Selatan,2024-05-26
+CUST-0693,Yuni Susanto,Male,1989-09-11,yuni.susanto693@example.com,083524639163,Regular,Student,DKI Jakarta,Jakarta Barat,2022-05-19
+CUST-0694,Wahyu Santoso,Female,1986-07-16,wahyu.santoso694@example.com,082909646911,Regular,Student,Bali,Denpasar,2022-05-04
+CUST-0695,Eka Lestari,Female,1984-10-18,eka.lestari695@example.com,084330728529,Regular,Family,Bali,Badung,2023-12-04
+CUST-0696,Joko Permana,Male,1982-09-27,joko.permana696@example.com,084688097893,Regular,Professional,DKI Jakarta,Jakarta Selatan,2023-02-15
+CUST-0697,Gita Saputra,Female,1997-12-15,gita.saputra697@example.com,089431299488,Silver,Gadget Enthusiast,Jawa Timur,Surabaya,2023-11-05
+CUST-0698,Fajar Saputra,Female,1982-01-21,fajar.saputra698@example.com,086283986629,Silver,Professional,Banten,Tangerang,2024-09-11
+CUST-0699,Lina Halim,Male,2001-01-12,lina.halim699@example.com,081042486233,Regular,SMB,Jawa Barat,Bogor,2022-08-24
+CUST-0700,Eka Lestari,Female,1976-01-07,eka.lestari700@example.com,086144619172,Regular,Family,Banten,Tangerang,2022-12-23
+CUST-0701,Lina Siregar,Male,1975-03-27,lina.siregar701@example.com,081434608701,Gold,Professional,Jawa Barat,Bekasi,2024-02-16
+CUST-0702,Dewi Permana,Female,1982-06-26,dewi.permana702@example.com,084053473268,Regular,Professional,Jawa Barat,Depok,2023-01-24
+CUST-0703,Gita Siregar,Female,1994-07-21,gita.siregar703@example.com,087594786332,Gold,Family,Banten,Tangerang Selatan,2023-05-22
+CUST-0704,Budi Lestari,Male,1998-02-26,budi.lestari704@example.com,081278627610,Silver,SMB,Jawa Barat,Bogor,2024-02-06
+CUST-0705,Sari Siregar,Female,1997-06-17,sari.siregar705@example.com,088277863632,Silver,Gadget Enthusiast,Banten,Tangerang,2024-08-28
+CUST-0706,Indra Susanto,Male,1982-04-15,indra.susanto706@example.com,084707279480,Regular,Family,Banten,Tangerang,2024-05-20
+CUST-0707,Nadia Susanto,Female,1992-02-05,nadia.susanto707@example.com,084228195145,Regular,SMB,Jawa Barat,Depok,2023-12-22
+CUST-0708,Hana Susanto,Female,1988-08-15,hana.susanto708@example.com,087152564962,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Utara,2023-10-12
+CUST-0709,Indra Halim,Female,1982-05-21,indra.halim709@example.com,085620905678,Gold,Family,DKI Jakarta,Jakarta Selatan,2024-10-24
+CUST-0710,Tono Siregar,Female,2004-04-04,tono.siregar710@example.com,081509331083,Regular,SMB,Sumatera Utara,Medan,2023-02-15
+CUST-0711,Lina Santoso,Female,1984-12-27,lina.santoso711@example.com,088926139828,Regular,SMB,Sumatera Utara,Deli Serdang,2022-10-10
+CUST-0712,Vina Lestari,Female,2001-06-26,vina.lestari712@example.com,089576372513,Platinum,SMB,DKI Jakarta,Jakarta Barat,2022-01-25
+CUST-0713,Sari Siregar,Male,1982-12-24,sari.siregar713@example.com,086196373651,Regular,SMB,Jawa Barat,Bogor,2025-02-05
+CUST-0714,Rani Gunawan,Female,2002-04-14,rani.gunawan714@example.com,088292602216,Regular,Gadget Enthusiast,Jawa Timur,Surabaya,2025-02-17
+CUST-0715,Adi Permana,Female,2005-12-01,adi.permana715@example.com,086818230909,Regular,Gadget Enthusiast,Jawa Barat,Bekasi,2024-04-06
+CUST-0716,Vina Lestari,Male,1993-01-05,vina.lestari716@example.com,089018466673,Platinum,Professional,Jawa Timur,Sidoarjo,2024-03-11
+CUST-0717,Citra Siregar,Female,1978-06-19,citra.siregar717@example.com,089426460165,Silver,Family,Banten,Tangerang,2022-07-10
+CUST-0718,Fajar Saputra,Male,2001-12-20,fajar.saputra718@example.com,083098578259,Regular,Student,Sumatera Utara,Medan,2024-03-01
+CUST-0719,Joko Santoso,Male,1989-01-12,joko.santoso719@example.com,083227076636,Regular,Gadget Enthusiast,Jawa Barat,Depok,2024-03-11
+CUST-0720,Fajar Saputra,Female,1998-02-13,fajar.saputra720@example.com,084718151021,Regular,Professional,Jawa Barat,Bogor,2023-09-27
+CUST-0721,Putra Gunawan,Male,1991-12-22,putra.gunawan721@example.com,087266170179,Regular,Professional,Jawa Barat,Depok,2024-07-01
+CUST-0722,Citra Halim,Female,2004-10-16,citra.halim722@example.com,087271530837,Silver,Student,Bali,Denpasar,2023-08-13
+CUST-0723,Rani Permana,Female,1994-03-14,rani.permana723@example.com,082070025912,Gold,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2024-07-26
+CUST-0724,Nadia Wijaya,Female,1997-01-08,nadia.wijaya724@example.com,085973281034,Gold,SMB,Sumatera Utara,Medan,2023-08-21
+CUST-0725,Citra Santoso,Male,1986-02-25,citra.santoso725@example.com,086695183060,Regular,Family,Banten,Tangerang Selatan,2023-03-01
+CUST-0726,Tono Pratama,Male,1995-12-22,tono.pratama726@example.com,088515059507,Regular,Gadget Enthusiast,Banten,Tangerang,2023-02-03
+CUST-0727,Nadia Pratama,Male,1997-03-11,nadia.pratama727@example.com,087288886727,Regular,Student,DKI Jakarta,Jakarta Barat,2025-01-28
+CUST-0728,Hana Gunawan,Female,2001-03-06,hana.gunawan728@example.com,084601312262,Silver,Professional,Jawa Barat,Bogor,2023-08-26
+CUST-0729,Dewi Siregar,Male,1977-11-25,dewi.siregar729@example.com,089638083814,Regular,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2024-01-04
+CUST-0730,Fajar Santoso,Male,1989-12-02,fajar.santoso730@example.com,084852628125,Regular,Family,Sumatera Utara,Medan,2024-06-28
+CUST-0731,Budi Susanto,Female,1999-04-08,budi.susanto731@example.com,082024522901,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Pusat,2022-02-27
+CUST-0732,Adi Permana,Male,2005-02-26,adi.permana732@example.com,083852325403,Silver,Student,Jawa Barat,Bandung,2024-05-01
+CUST-0733,Tono Saputra,Male,1994-04-18,tono.saputra733@example.com,082837731893,Regular,Student,Jawa Timur,Malang,2024-01-01
+CUST-0734,Lina Wijaya,Female,1975-07-07,lina.wijaya734@example.com,082970427638,Regular,Family,DKI Jakarta,Jakarta Utara,2024-01-26
+CUST-0735,Budi Saputra,Female,1999-10-16,budi.saputra735@example.com,086031378588,Platinum,SMB,Jawa Barat,Bogor,2023-10-27
+CUST-0736,Nadia Wijaya,Female,2002-11-16,nadia.wijaya736@example.com,085584935508,Regular,SMB,Jawa Timur,Surabaya,2024-07-08
+CUST-0737,Nadia Siregar,Male,1982-01-20,nadia.siregar737@example.com,085827784471,Regular,Gadget Enthusiast,Sumatera Utara,Medan,2023-05-14
+CUST-0738,Yuni Saputra,Female,1990-05-07,yuni.saputra738@example.com,085946387490,Regular,Student,DKI Jakarta,Jakarta Selatan,2023-05-03
+CUST-0739,Yuni Gunawan,Male,1983-06-21,yuni.gunawan739@example.com,089760047394,Gold,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2023-08-14
+CUST-0740,Adi Santoso,Female,1982-04-18,adi.santoso740@example.com,085245043800,Gold,Professional,Sumatera Utara,Deli Serdang,2024-02-21
+CUST-0741,Tono Permana,Male,1977-08-03,tono.permana741@example.com,085095943641,Regular,Professional,Jawa Barat,Bogor,2023-02-23
+CUST-0742,Eka Saputra,Male,1991-02-14,eka.saputra742@example.com,088408771795,Regular,Professional,Jawa Barat,Bekasi,2023-05-17
+CUST-0743,Putra Wijaya,Female,1984-10-15,putra.wijaya743@example.com,086159978032,Gold,Gadget Enthusiast,Bali,Denpasar,2022-06-13
+CUST-0744,Maya Halim,Female,1989-07-17,maya.halim744@example.com,083070177372,Gold,Gadget Enthusiast,Banten,Tangerang,2022-06-20
+CUST-0745,Joko Susanto,Male,1983-07-15,joko.susanto745@example.com,086608571382,Regular,SMB,Bali,Denpasar,2024-09-11
+CUST-0746,Citra Permana,Male,1979-04-01,citra.permana746@example.com,088410301978,Silver,Gadget Enthusiast,Jawa Barat,Bogor,2024-03-19
+CUST-0747,Maya Halim,Male,1988-01-04,maya.halim747@example.com,083429270402,Regular,Gadget Enthusiast,Banten,Tangerang Selatan,2023-06-07
+CUST-0748,Maya Siregar,Female,1997-01-21,maya.siregar748@example.com,082059962775,Regular,Family,Sumatera Utara,Deli Serdang,2022-02-27
+CUST-0749,Eka Lestari,Male,1983-04-20,eka.lestari749@example.com,081693325479,Regular,Student,Bali,Badung,2024-02-27
+CUST-0750,Nadia Susanto,Female,1980-07-09,nadia.susanto750@example.com,088266383743,Silver,SMB,DKI Jakarta,Jakarta Selatan,2024-02-23
+CUST-0751,Wahyu Lestari,Male,1978-11-19,wahyu.lestari751@example.com,085907917027,Silver,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2023-09-23
+CUST-0752,Adi Wijaya,Male,1977-12-14,adi.wijaya752@example.com,087549661883,Silver,Gadget Enthusiast,Banten,Tangerang,2022-12-16
+CUST-0753,Fajar Permana,Male,1990-03-17,fajar.permana753@example.com,085073704803,Regular,Professional,Jawa Barat,Bekasi,2023-01-16
+CUST-0754,Gita Pratama,Male,1983-07-15,gita.pratama754@example.com,083681869740,Gold,Professional,Sumatera Utara,Medan,2022-06-13
+CUST-0755,Joko Saputra,Female,1977-06-01,joko.saputra755@example.com,083515332140,Regular,Student,Banten,Tangerang,2022-01-20
+CUST-0756,Budi Lestari,Male,1981-09-26,budi.lestari756@example.com,085326157171,Silver,Family,DKI Jakarta,Jakarta Pusat,2024-09-22
+CUST-0757,Sari Permana,Female,1986-11-11,sari.permana757@example.com,089587551470,Gold,Family,Bali,Badung,2024-03-27
+CUST-0758,Nadia Susanto,Female,2000-02-01,nadia.susanto758@example.com,088294178468,Silver,Professional,DKI Jakarta,Jakarta Barat,2022-02-22
+CUST-0759,Yuni Saputra,Male,1986-08-20,yuni.saputra759@example.com,089030957760,Silver,Professional,Bali,Badung,2022-01-07
+CUST-0760,Lina Pratama,Male,2000-12-11,lina.pratama760@example.com,088206651996,Regular,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2024-03-30
+CUST-0761,Yuni Saputra,Female,1996-12-04,yuni.saputra761@example.com,088448666187,Regular,Professional,Jawa Timur,Malang,2022-10-21
+CUST-0762,Tono Susanto,Male,1990-02-10,tono.susanto762@example.com,083004903816,Gold,Student,Sumatera Utara,Medan,2024-09-14
+CUST-0763,Vina Santoso,Male,1999-11-23,vina.santoso763@example.com,081384106725,Regular,Student,Jawa Barat,Bekasi,2022-11-25
+CUST-0764,Lina Halim,Female,1996-08-22,lina.halim764@example.com,088410598437,Regular,Family,Jawa Timur,Surabaya,2023-04-04
+CUST-0765,Wahyu Susanto,Female,2004-12-24,wahyu.susanto765@example.com,088972064951,Gold,Professional,DKI Jakarta,Jakarta Barat,2023-06-15
+CUST-0766,Dewi Lestari,Male,1985-12-19,dewi.lestari766@example.com,085025289099,Silver,Student,DKI Jakarta,Jakarta Pusat,2024-01-24
+CUST-0767,Eka Permana,Female,1976-10-18,eka.permana767@example.com,087114738485,Gold,Professional,Banten,Tangerang,2024-11-30
+CUST-0768,Yuni Susanto,Female,1975-09-28,yuni.susanto768@example.com,087273241123,Regular,Family,Jawa Barat,Bandung,2023-03-25
+CUST-0769,Sari Gunawan,Male,1998-11-28,sari.gunawan769@example.com,084019219484,Silver,Family,Jawa Barat,Depok,2024-10-25
+CUST-0770,Dewi Lestari,Male,1990-05-23,dewi.lestari770@example.com,089446034734,Regular,Family,Sumatera Utara,Deli Serdang,2022-11-09
+CUST-0771,Gita Santoso,Male,2002-08-24,gita.santoso771@example.com,086977769260,Platinum,Professional,Sumatera Utara,Medan,2022-02-14
+CUST-0772,Vina Halim,Female,1986-07-13,vina.halim772@example.com,089898412960,Silver,Family,Jawa Timur,Malang,2023-02-04
+CUST-0773,Vina Halim,Female,1999-10-28,vina.halim773@example.com,084457757009,Gold,Family,DKI Jakarta,Jakarta Selatan,2024-07-26
+CUST-0774,Fajar Susanto,Female,1984-03-07,fajar.susanto774@example.com,084214278451,Silver,Student,Jawa Barat,Bogor,2024-01-12
+CUST-0775,Wahyu Saputra,Female,2005-07-22,wahyu.saputra775@example.com,084614902579,Gold,Student,Sumatera Utara,Medan,2023-12-30
+CUST-0776,Sari Wijaya,Female,1993-07-05,sari.wijaya776@example.com,082735141023,Regular,Professional,DKI Jakarta,Jakarta Pusat,2024-03-23
+CUST-0777,Sari Lestari,Female,1999-12-26,sari.lestari777@example.com,086936078258,Silver,Gadget Enthusiast,Sumatera Utara,Medan,2024-01-23
+CUST-0778,Adi Saputra,Male,1990-11-22,adi.saputra778@example.com,081966088651,Silver,SMB,DKI Jakarta,Jakarta Pusat,2024-09-09
+CUST-0779,Indra Saputra,Female,1990-11-23,indra.saputra779@example.com,087157507702,Silver,Student,Bali,Denpasar,2023-10-29
+CUST-0780,Citra Siregar,Male,1987-09-27,citra.siregar780@example.com,083098363243,Silver,SMB,Jawa Barat,Bogor,2025-01-08
+CUST-0781,Dewi Santoso,Male,2002-10-23,dewi.santoso781@example.com,081772825941,Silver,Family,Sumatera Utara,Medan,2022-09-09
+CUST-0782,Budi Wijaya,Male,1977-09-09,budi.wijaya782@example.com,081150346559,Platinum,SMB,Bali,Denpasar,2023-09-04
+CUST-0783,Maya Siregar,Male,1982-05-02,maya.siregar783@example.com,088657075548,Silver,Gadget Enthusiast,Jawa Barat,Bogor,2022-10-14
+CUST-0784,Wahyu Gunawan,Female,1994-09-17,wahyu.gunawan784@example.com,084520856549,Regular,Professional,Sumatera Utara,Deli Serdang,2022-10-18
+CUST-0785,Joko Santoso,Female,1983-03-24,joko.santoso785@example.com,087967780181,Regular,Family,Jawa Barat,Bekasi,2023-06-18
+CUST-0786,Nadia Wijaya,Male,2005-05-22,nadia.wijaya786@example.com,083982920803,Silver,Student,Banten,Tangerang Selatan,2023-07-06
+CUST-0787,Gita Permana,Female,2001-03-11,gita.permana787@example.com,087157381638,Regular,SMB,Bali,Denpasar,2023-05-22
+CUST-0788,Citra Lestari,Female,1977-06-21,citra.lestari788@example.com,085677108385,Gold,Family,DKI Jakarta,Jakarta Pusat,2022-10-27
+CUST-0789,Hana Lestari,Female,1982-07-04,hana.lestari789@example.com,081530443469,Silver,Family,DKI Jakarta,Jakarta Pusat,2024-09-29
+CUST-0790,Dewi Siregar,Female,1992-05-20,dewi.siregar790@example.com,081206000737,Regular,Gadget Enthusiast,Jawa Timur,Sidoarjo,2023-01-06
+CUST-0791,Maya Siregar,Female,1993-03-09,maya.siregar791@example.com,089630725905,Silver,Professional,Bali,Badung,2022-09-16
+CUST-0792,Eka Halim,Male,2004-12-21,eka.halim792@example.com,089480412265,Silver,Professional,Bali,Badung,2024-05-06
+CUST-0793,Rani Wijaya,Female,1991-05-09,rani.wijaya793@example.com,089386423260,Silver,Professional,Banten,Tangerang Selatan,2023-09-18
+CUST-0794,Citra Lestari,Male,1995-02-03,citra.lestari794@example.com,084135124384,Platinum,Professional,Banten,Tangerang Selatan,2022-04-28
+CUST-0795,Citra Lestari,Male,2005-07-22,citra.lestari795@example.com,084138750794,Regular,SMB,Bali,Badung,2024-12-26
+CUST-0796,Dewi Halim,Male,1997-07-23,dewi.halim796@example.com,082482024096,Platinum,SMB,DKI Jakarta,Jakarta Selatan,2022-03-28
+CUST-0797,Yuni Gunawan,Male,1977-06-27,yuni.gunawan797@example.com,085513609342,Silver,Professional,Jawa Barat,Bekasi,2024-02-04
+CUST-0798,Dewi Permana,Male,1984-05-16,dewi.permana798@example.com,086555733635,Regular,SMB,Sumatera Utara,Medan,2024-03-17
+CUST-0799,Gita Lestari,Female,2003-10-28,gita.lestari799@example.com,083097088483,Regular,SMB,Sumatera Utara,Medan,2024-07-31
+CUST-0800,Lina Lestari,Male,1986-12-06,lina.lestari800@example.com,087021836592,Regular,Gadget Enthusiast,Jawa Timur,Surabaya,2024-10-04
+CUST-0801,Gita Saputra,Female,1978-08-01,gita.saputra801@example.com,088115186493,Regular,Gadget Enthusiast,Bali,Denpasar,2024-02-06
+CUST-0802,Joko Permana,Female,1978-08-22,joko.permana802@example.com,088899980156,Regular,Family,Banten,Tangerang,2024-06-07
+CUST-0803,Adi Permana,Male,1981-05-02,adi.permana803@example.com,085869119942,Regular,Family,Sumatera Utara,Medan,2022-03-06
+CUST-0804,Fajar Santoso,Male,1988-08-18,fajar.santoso804@example.com,085842292127,Silver,Gadget Enthusiast,Banten,Tangerang Selatan,2024-10-24
+CUST-0805,Nadia Wijaya,Male,1979-03-12,nadia.wijaya805@example.com,083147487660,Gold,Professional,DKI Jakarta,Jakarta Pusat,2022-04-17
+CUST-0806,Lina Halim,Female,1990-05-10,lina.halim806@example.com,083087050235,Gold,Professional,Bali,Denpasar,2022-11-09
+CUST-0807,Tono Wijaya,Male,2002-05-23,tono.wijaya807@example.com,088819457893,Regular,Student,Jawa Barat,Depok,2024-10-25
+CUST-0808,Yuni Wijaya,Male,1978-03-13,yuni.wijaya808@example.com,085459749856,Platinum,Professional,Jawa Barat,Bekasi,2024-05-23
+CUST-0809,Adi Susanto,Male,1987-07-17,adi.susanto809@example.com,081993974205,Regular,Gadget Enthusiast,Jawa Barat,Bandung,2022-05-06
+CUST-0810,Tono Halim,Female,1978-05-12,tono.halim810@example.com,082795615023,Regular,Student,Sumatera Utara,Medan,2023-01-08
+CUST-0811,Budi Pratama,Male,1984-08-09,budi.pratama811@example.com,085727735496,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Barat,2024-01-15
+CUST-0812,Lina Lestari,Male,1996-09-25,lina.lestari812@example.com,084702151315,Regular,Family,DKI Jakarta,Jakarta Pusat,2024-12-19
+CUST-0813,Yuni Permana,Male,1993-07-03,yuni.permana813@example.com,084810468370,Regular,SMB,Jawa Barat,Depok,2022-09-04
+CUST-0814,Budi Susanto,Male,1997-08-04,budi.susanto814@example.com,086767702860,Silver,Professional,Sumatera Utara,Medan,2024-12-28
+CUST-0815,Eka Pratama,Female,1992-12-09,eka.pratama815@example.com,086866976974,Silver,Student,Jawa Barat,Bekasi,2024-06-12
+CUST-0816,Citra Gunawan,Male,1994-05-23,citra.gunawan816@example.com,085155324773,Regular,SMB,Banten,Tangerang,2022-05-05
+CUST-0817,Gita Halim,Male,1989-09-13,gita.halim817@example.com,086971064982,Silver,Professional,Banten,Tangerang,2023-01-12
+CUST-0818,Adi Wijaya,Male,2003-09-15,adi.wijaya818@example.com,086406653532,Gold,Family,Bali,Denpasar,2023-07-04
+CUST-0819,Vina Saputra,Male,1992-04-10,vina.saputra819@example.com,089757827766,Regular,Family,Jawa Barat,Bekasi,2022-09-30
+CUST-0820,Indra Pratama,Male,1992-02-01,indra.pratama820@example.com,088080878506,Silver,Family,Sumatera Utara,Medan,2023-10-27
+CUST-0821,Citra Siregar,Male,1988-10-10,citra.siregar821@example.com,089835879150,Gold,Family,Jawa Timur,Sidoarjo,2023-03-26
+CUST-0822,Indra Wijaya,Male,1998-12-23,indra.wijaya822@example.com,088103123072,Gold,SMB,Jawa Timur,Surabaya,2025-02-02
+CUST-0823,Gita Gunawan,Female,1981-10-21,gita.gunawan823@example.com,088528638280,Regular,Professional,Jawa Barat,Depok,2024-06-07
+CUST-0824,Maya Wijaya,Female,1980-08-06,maya.wijaya824@example.com,081756389067,Silver,Professional,Banten,Tangerang,2023-08-01
+CUST-0825,Adi Lestari,Female,1996-10-07,adi.lestari825@example.com,081298303177,Regular,Professional,Jawa Barat,Bekasi,2024-07-20
+CUST-0826,Nadia Saputra,Male,1994-02-13,nadia.saputra826@example.com,082649226867,Regular,Student,Sumatera Utara,Medan,2022-03-31
+CUST-0827,Eka Santoso,Male,2005-11-20,eka.santoso827@example.com,085150487885,Platinum,Student,DKI Jakarta,Jakarta Barat,2025-01-15
+CUST-0828,Lina Saputra,Female,1999-10-15,lina.saputra828@example.com,084502395169,Regular,Gadget Enthusiast,Jawa Barat,Bekasi,2022-11-13
+CUST-0829,Hana Pratama,Male,1975-01-04,hana.pratama829@example.com,087634187301,Regular,Gadget Enthusiast,Bali,Badung,2022-10-18
+CUST-0830,Adi Santoso,Female,1987-03-12,adi.santoso830@example.com,088109736800,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Selatan,2022-08-19
+CUST-0831,Sari Wijaya,Male,2005-05-12,sari.wijaya831@example.com,089917597402,Regular,Family,DKI Jakarta,Jakarta Selatan,2022-06-23
+CUST-0832,Budi Susanto,Female,1991-06-20,budi.susanto832@example.com,082826411454,Gold,Family,Jawa Barat,Bekasi,2023-08-11
+CUST-0833,Maya Saputra,Female,2004-05-26,maya.saputra833@example.com,084430319690,Gold,Professional,Jawa Timur,Malang,2022-10-28
+CUST-0834,Lina Wijaya,Female,2001-02-04,lina.wijaya834@example.com,087776783557,Platinum,Family,Banten,Tangerang Selatan,2022-10-24
+CUST-0835,Citra Permana,Female,1986-06-16,citra.permana835@example.com,087115312186,Silver,Gadget Enthusiast,Jawa Barat,Bekasi,2023-11-14
+CUST-0836,Eka Santoso,Female,1992-09-16,eka.santoso836@example.com,084527904178,Regular,SMB,Banten,Tangerang Selatan,2024-05-13
+CUST-0837,Tono Susanto,Male,1982-06-01,tono.susanto837@example.com,084653278198,Regular,Gadget Enthusiast,Sumatera Utara,Medan,2022-10-01
+CUST-0838,Dewi Pratama,Male,1984-08-05,dewi.pratama838@example.com,082808511815,Regular,Professional,Jawa Timur,Malang,2022-04-25
+CUST-0839,Eka Saputra,Female,1998-01-23,eka.saputra839@example.com,089439237908,Regular,Student,Sumatera Utara,Medan,2022-06-01
+CUST-0840,Sari Susanto,Male,1986-03-03,sari.susanto840@example.com,082052463740,Regular,Gadget Enthusiast,Jawa Barat,Bandung,2022-11-03
+CUST-0841,Fajar Gunawan,Female,1990-07-24,fajar.gunawan841@example.com,086743818629,Gold,Student,Sumatera Utara,Medan,2023-08-11
+CUST-0842,Dewi Wijaya,Male,1991-03-01,dewi.wijaya842@example.com,086271277159,Gold,Family,DKI Jakarta,Jakarta Pusat,2022-07-08
+CUST-0843,Tono Halim,Female,1994-01-08,tono.halim843@example.com,082684876851,Gold,SMB,Jawa Barat,Bekasi,2022-06-08
+CUST-0844,Rani Gunawan,Female,2001-07-06,rani.gunawan844@example.com,082822019158,Regular,Student,Jawa Timur,Sidoarjo,2022-06-09
+CUST-0845,Maya Susanto,Male,1984-03-18,maya.susanto845@example.com,081457261738,Regular,Student,Jawa Timur,Surabaya,2023-09-26
+CUST-0846,Gita Siregar,Male,1983-02-19,gita.siregar846@example.com,083425783849,Silver,Gadget Enthusiast,Jawa Barat,Bandung,2022-04-04
+CUST-0847,Budi Permana,Male,1986-05-13,budi.permana847@example.com,083148411730,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Barat,2023-12-30
+CUST-0848,Eka Saputra,Male,1991-03-01,eka.saputra848@example.com,086936124697,Silver,Student,Jawa Timur,Malang,2023-08-18
+CUST-0849,Fajar Wijaya,Male,2003-11-03,fajar.wijaya849@example.com,084086168237,Platinum,SMB,Sumatera Utara,Deli Serdang,2024-11-23
+CUST-0850,Yuni Siregar,Male,1985-05-12,yuni.siregar850@example.com,089332842743,Regular,Gadget Enthusiast,Jawa Timur,Malang,2023-05-05
+CUST-0851,Gita Susanto,Male,1993-11-16,gita.susanto851@example.com,081064174343,Gold,Family,Bali,Denpasar,2025-01-25
+CUST-0852,Citra Gunawan,Female,1980-05-06,citra.gunawan852@example.com,085587720178,Silver,Family,DKI Jakarta,Jakarta Utara,2022-07-02
+CUST-0853,Citra Wijaya,Female,1990-05-25,citra.wijaya853@example.com,089060184184,Silver,Professional,Sumatera Utara,Deli Serdang,2022-09-11
+CUST-0854,Wahyu Gunawan,Female,1987-07-28,wahyu.gunawan854@example.com,083923089394,Regular,SMB,DKI Jakarta,Jakarta Barat,2023-10-05
+CUST-0855,Maya Saputra,Female,1983-11-02,maya.saputra855@example.com,083765386801,Silver,Professional,Sumatera Utara,Deli Serdang,2025-02-22
+CUST-0856,Adi Wijaya,Female,1980-10-13,adi.wijaya856@example.com,084667168479,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Barat,2022-07-11
+CUST-0857,Maya Gunawan,Male,1977-03-24,maya.gunawan857@example.com,082860212181,Regular,Student,Banten,Tangerang Selatan,2023-10-12
+CUST-0858,Lina Susanto,Female,1978-05-15,lina.susanto858@example.com,089754355973,Regular,Gadget Enthusiast,Banten,Tangerang,2022-10-26
+CUST-0859,Gita Permana,Female,1976-06-26,gita.permana859@example.com,083033278918,Regular,Student,Bali,Denpasar,2024-05-16
+CUST-0860,Indra Lestari,Male,1979-02-09,indra.lestari860@example.com,082739755884,Regular,Gadget Enthusiast,Sumatera Utara,Medan,2024-05-09
+CUST-0861,Tono Santoso,Male,2001-01-03,tono.santoso861@example.com,087135508095,Platinum,Family,Sumatera Utara,Deli Serdang,2022-12-03
+CUST-0862,Gita Permana,Female,1992-12-26,gita.permana862@example.com,088287228425,Regular,SMB,Banten,Tangerang Selatan,2024-03-07
+CUST-0863,Adi Siregar,Male,1998-11-19,adi.siregar863@example.com,083647900506,Regular,Family,Bali,Denpasar,2022-01-30
+CUST-0864,Eka Gunawan,Female,1978-11-14,eka.gunawan864@example.com,084102194933,Platinum,Professional,Jawa Barat,Bogor,2024-07-09
+CUST-0865,Wahyu Saputra,Male,1988-12-18,wahyu.saputra865@example.com,084325955655,Silver,Professional,DKI Jakarta,Jakarta Selatan,2023-12-14
+CUST-0866,Gita Santoso,Female,2001-06-01,gita.santoso866@example.com,089585846518,Regular,Family,Sumatera Utara,Medan,2023-12-23
+CUST-0867,Vina Halim,Male,2004-03-15,vina.halim867@example.com,087134860926,Regular,SMB,Bali,Badung,2022-11-30
+CUST-0868,Vina Halim,Female,1995-05-23,vina.halim868@example.com,084680775250,Platinum,Student,Banten,Tangerang Selatan,2022-07-03
+CUST-0869,Adi Susanto,Female,1998-10-18,adi.susanto869@example.com,089730103138,Regular,Gadget Enthusiast,Banten,Tangerang,2023-03-10
+CUST-0870,Hana Gunawan,Male,1981-08-04,hana.gunawan870@example.com,087287605035,Gold,Gadget Enthusiast,Bali,Badung,2022-01-16
+CUST-0871,Maya Santoso,Female,2003-11-09,maya.santoso871@example.com,089200543022,Silver,Student,Bali,Badung,2024-04-29
+CUST-0872,Budi Pratama,Female,2001-09-27,budi.pratama872@example.com,086658494712,Regular,SMB,DKI Jakarta,Jakarta Selatan,2024-05-30
+CUST-0873,Hana Siregar,Female,2001-01-26,hana.siregar873@example.com,082842980985,Gold,Gadget Enthusiast,Banten,Tangerang,2022-12-22
+CUST-0874,Nadia Permana,Female,1982-02-23,nadia.permana874@example.com,084441007454,Silver,SMB,Bali,Denpasar,2024-03-13
+CUST-0875,Indra Siregar,Male,1977-02-01,indra.siregar875@example.com,082878709078,Silver,SMB,Jawa Barat,Depok,2022-11-10
+CUST-0876,Adi Susanto,Female,1975-12-24,adi.susanto876@example.com,082538119509,Regular,Professional,Sumatera Utara,Medan,2023-09-01
+CUST-0877,Gita Siregar,Female,1996-01-09,gita.siregar877@example.com,089689323679,Platinum,Student,Jawa Barat,Bogor,2022-08-16
+CUST-0878,Rani Susanto,Male,1984-05-06,rani.susanto878@example.com,081398474792,Silver,Family,DKI Jakarta,Jakarta Pusat,2023-03-02
+CUST-0879,Nadia Saputra,Female,1977-08-21,nadia.saputra879@example.com,081327760496,Silver,Gadget Enthusiast,Banten,Tangerang,2023-10-05
+CUST-0880,Rani Wijaya,Male,2003-03-22,rani.wijaya880@example.com,081135078768,Platinum,Family,Jawa Barat,Depok,2024-09-18
+CUST-0881,Yuni Susanto,Male,1991-12-09,yuni.susanto881@example.com,084979644466,Regular,Student,Bali,Denpasar,2025-01-02
+CUST-0882,Adi Siregar,Male,2002-06-04,adi.siregar882@example.com,084859338963,Regular,Professional,Bali,Denpasar,2023-03-27
+CUST-0883,Citra Wijaya,Female,1981-02-12,citra.wijaya883@example.com,088094961855,Regular,Gadget Enthusiast,Jawa Timur,Malang,2024-06-12
+CUST-0884,Tono Halim,Male,1981-11-28,tono.halim884@example.com,082687174501,Silver,SMB,Jawa Barat,Depok,2023-10-01
+CUST-0885,Fajar Santoso,Female,2003-08-14,fajar.santoso885@example.com,086940136692,Regular,Family,Sumatera Utara,Deli Serdang,2024-02-05
+CUST-0886,Citra Gunawan,Female,1993-07-10,citra.gunawan886@example.com,087573439658,Regular,Student,Jawa Barat,Bandung,2023-01-04
+CUST-0887,Lina Halim,Male,1977-04-22,lina.halim887@example.com,086891236110,Regular,Family,Jawa Barat,Depok,2022-09-08
+CUST-0888,Adi Permana,Female,1981-08-19,adi.permana888@example.com,088710494605,Gold,SMB,Sumatera Utara,Medan,2022-05-16
+CUST-0889,Nadia Lestari,Male,1978-09-09,nadia.lestari889@example.com,083883404698,Silver,Gadget Enthusiast,Bali,Denpasar,2024-06-10
+CUST-0890,Lina Permana,Male,2000-08-16,lina.permana890@example.com,086473572695,Regular,Gadget Enthusiast,Jawa Barat,Bekasi,2022-12-17
+CUST-0891,Yuni Permana,Male,1993-01-10,yuni.permana891@example.com,089666540904,Gold,SMB,Bali,Badung,2022-01-10
+CUST-0892,Rani Lestari,Male,2003-09-17,rani.lestari892@example.com,085462987469,Silver,Student,Jawa Barat,Bogor,2024-08-20
+CUST-0893,Dewi Halim,Female,1985-06-13,dewi.halim893@example.com,089932532156,Gold,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2022-04-07
+CUST-0894,Nadia Lestari,Female,2002-11-04,nadia.lestari894@example.com,088915949601,Gold,Student,Sumatera Utara,Deli Serdang,2022-03-01
+CUST-0895,Hana Pratama,Male,1985-12-24,hana.pratama895@example.com,082871241920,Regular,Professional,DKI Jakarta,Jakarta Selatan,2024-01-26
+CUST-0896,Vina Pratama,Female,2003-01-04,vina.pratama896@example.com,082306916015,Regular,SMB,Sumatera Utara,Medan,2024-02-17
+CUST-0897,Indra Wijaya,Male,1979-06-28,indra.wijaya897@example.com,089141012041,Silver,Student,Jawa Barat,Bogor,2024-12-04
+CUST-0898,Tono Santoso,Female,1983-06-25,tono.santoso898@example.com,088434006782,Regular,Family,Bali,Badung,2023-08-30
+CUST-0899,Citra Permana,Male,1997-02-03,citra.permana899@example.com,089468667078,Regular,Student,Bali,Denpasar,2023-03-19
+CUST-0900,Rani Halim,Male,1985-04-27,rani.halim900@example.com,088982019929,Gold,Family,Jawa Barat,Bogor,2024-07-18
+CUST-0901,Eka Siregar,Male,2004-06-13,eka.siregar901@example.com,089482838229,Gold,SMB,DKI Jakarta,Jakarta Selatan,2023-02-20
+CUST-0902,Nadia Santoso,Female,1980-11-10,nadia.santoso902@example.com,081438363066,Regular,Student,DKI Jakarta,Jakarta Barat,2022-08-14
+CUST-0903,Hana Pratama,Female,1975-08-22,hana.pratama903@example.com,087575102757,Regular,Student,Banten,Tangerang,2025-02-01
+CUST-0904,Citra Permana,Male,1987-09-14,citra.permana904@example.com,087476496385,Regular,Family,Banten,Tangerang,2024-01-28
+CUST-0905,Dewi Pratama,Female,1981-05-07,dewi.pratama905@example.com,082729549409,Silver,SMB,Sumatera Utara,Deli Serdang,2024-10-07
+CUST-0906,Tono Halim,Male,2005-02-08,tono.halim906@example.com,081494728301,Gold,SMB,DKI Jakarta,Jakarta Pusat,2023-06-30
+CUST-0907,Hana Saputra,Female,1982-10-23,hana.saputra907@example.com,088369405044,Regular,Student,Bali,Denpasar,2023-03-27
+CUST-0908,Indra Gunawan,Male,1986-11-10,indra.gunawan908@example.com,081013343914,Regular,SMB,Jawa Barat,Bekasi,2024-09-03
+CUST-0909,Joko Santoso,Male,1980-03-11,joko.santoso909@example.com,089159876163,Regular,Student,Jawa Barat,Depok,2024-08-29
+CUST-0910,Putra Permana,Female,2003-02-06,putra.permana910@example.com,084663992245,Silver,Gadget Enthusiast,DKI Jakarta,Jakarta Selatan,2022-01-03
+CUST-0911,Sari Santoso,Male,2001-01-19,sari.santoso911@example.com,083160997637,Silver,Student,Banten,Tangerang,2022-07-24
+CUST-0912,Joko Permana,Female,1992-05-22,joko.permana912@example.com,087384440186,Regular,Student,Banten,Tangerang Selatan,2023-12-24
+CUST-0913,Joko Permana,Male,1983-11-17,joko.permana913@example.com,081089022992,Platinum,Professional,Bali,Badung,2022-10-18
+CUST-0914,Maya Gunawan,Female,1986-04-24,maya.gunawan914@example.com,081383428853,Gold,Gadget Enthusiast,DKI Jakarta,Jakarta Selatan,2022-08-10
+CUST-0915,Indra Siregar,Female,2004-11-12,indra.siregar915@example.com,089108876355,Regular,Gadget Enthusiast,Banten,Tangerang,2023-07-20
+CUST-0916,Joko Santoso,Male,1988-08-19,joko.santoso916@example.com,088698043887,Regular,Student,DKI Jakarta,Jakarta Barat,2024-10-18
+CUST-0917,Eka Gunawan,Female,1994-09-22,eka.gunawan917@example.com,085993358302,Silver,Student,Sumatera Utara,Medan,2023-08-27
+CUST-0918,Adi Gunawan,Female,2001-10-04,adi.gunawan918@example.com,085523430696,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Selatan,2023-12-23
+CUST-0919,Adi Pratama,Female,2003-05-26,adi.pratama919@example.com,089959316663,Regular,Professional,Jawa Timur,Surabaya,2024-06-03
+CUST-0920,Wahyu Saputra,Male,1990-06-08,wahyu.saputra920@example.com,088031053243,Regular,Student,Jawa Timur,Surabaya,2023-06-20
+CUST-0921,Joko Susanto,Female,1996-06-26,joko.susanto921@example.com,083483210174,Silver,Professional,Jawa Timur,Surabaya,2023-05-28
+CUST-0922,Eka Halim,Female,1984-02-10,eka.halim922@example.com,087993576122,Silver,Gadget Enthusiast,Bali,Denpasar,2024-06-13
+CUST-0923,Dewi Wijaya,Female,1991-11-23,dewi.wijaya923@example.com,086830671474,Regular,Gadget Enthusiast,Bali,Badung,2024-05-11
+CUST-0924,Putra Gunawan,Female,1977-03-20,putra.gunawan924@example.com,089189853166,Gold,SMB,DKI Jakarta,Jakarta Pusat,2024-11-14
+CUST-0925,Maya Wijaya,Male,1999-07-05,maya.wijaya925@example.com,085320534569,Gold,SMB,Bali,Badung,2024-07-31
+CUST-0926,Budi Saputra,Male,1985-10-04,budi.saputra926@example.com,088825173287,Silver,Family,DKI Jakarta,Jakarta Barat,2022-05-05
+CUST-0927,Dewi Susanto,Male,1991-03-18,dewi.susanto927@example.com,083127317293,Regular,Professional,Sumatera Utara,Medan,2023-09-09
+CUST-0928,Joko Pratama,Male,1977-01-05,joko.pratama928@example.com,081416026153,Regular,Gadget Enthusiast,Banten,Tangerang,2022-02-20
+CUST-0929,Tono Gunawan,Male,1984-07-16,tono.gunawan929@example.com,085220648336,Gold,SMB,Banten,Tangerang,2023-06-18
+CUST-0930,Yuni Gunawan,Female,1979-11-01,yuni.gunawan930@example.com,081793743692,Gold,Professional,Sumatera Utara,Medan,2022-12-16
+CUST-0931,Tono Siregar,Female,1984-05-22,tono.siregar931@example.com,087823688564,Regular,Family,Jawa Barat,Bogor,2024-03-12
+CUST-0932,Nadia Saputra,Female,1979-01-10,nadia.saputra932@example.com,082963153449,Silver,Student,Banten,Tangerang Selatan,2023-09-13
+CUST-0933,Budi Susanto,Female,2005-03-15,budi.susanto933@example.com,087263566321,Regular,Professional,Banten,Tangerang,2024-01-03
+CUST-0934,Tono Siregar,Female,1991-02-06,tono.siregar934@example.com,083817151728,Regular,SMB,Jawa Barat,Depok,2023-11-26
+CUST-0935,Rani Wijaya,Female,2004-07-03,rani.wijaya935@example.com,088065796759,Regular,Gadget Enthusiast,Jawa Timur,Sidoarjo,2023-01-05
+CUST-0936,Wahyu Siregar,Male,1997-06-19,wahyu.siregar936@example.com,082734195515,Regular,Professional,Sumatera Utara,Deli Serdang,2023-04-20
+CUST-0937,Dewi Saputra,Female,1999-04-25,dewi.saputra937@example.com,082016263083,Gold,Professional,Banten,Tangerang Selatan,2024-02-26
+CUST-0938,Putra Saputra,Male,1976-12-03,putra.saputra938@example.com,086042580412,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Barat,2024-02-13
+CUST-0939,Eka Susanto,Male,1983-08-15,eka.susanto939@example.com,088210601642,Regular,Professional,Bali,Denpasar,2024-06-07
+CUST-0940,Tono Santoso,Male,1981-01-26,tono.santoso940@example.com,085317456982,Gold,SMB,DKI Jakarta,Jakarta Pusat,2025-01-24
+CUST-0941,Citra Permana,Male,2001-04-19,citra.permana941@example.com,088849378030,Silver,Family,Jawa Barat,Bogor,2025-02-18
+CUST-0942,Eka Saputra,Female,2002-02-19,eka.saputra942@example.com,081335625113,Gold,Family,Banten,Tangerang Selatan,2022-07-26
+CUST-0943,Dewi Gunawan,Female,1975-04-27,dewi.gunawan943@example.com,089334888790,Gold,Family,Jawa Barat,Bandung,2024-03-10
+CUST-0944,Maya Saputra,Male,1992-10-08,maya.saputra944@example.com,087442652840,Regular,Student,Jawa Barat,Depok,2025-01-23
+CUST-0945,Dewi Susanto,Male,1976-06-14,dewi.susanto945@example.com,082120475823,Regular,Student,Banten,Tangerang Selatan,2022-10-13
+CUST-0946,Gita Siregar,Male,1982-08-03,gita.siregar946@example.com,084468132414,Regular,Student,Sumatera Utara,Deli Serdang,2024-05-02
+CUST-0947,Yuni Susanto,Male,1983-12-02,yuni.susanto947@example.com,081446939534,Silver,Professional,DKI Jakarta,Jakarta Utara,2023-12-19
+CUST-0948,Putra Gunawan,Male,2004-01-01,putra.gunawan948@example.com,084484778286,Silver,Gadget Enthusiast,Jawa Timur,Surabaya,2022-02-07
+CUST-0949,Vina Gunawan,Female,1997-03-14,vina.gunawan949@example.com,088307190146,Silver,Student,DKI Jakarta,Jakarta Utara,2024-06-15
+CUST-0950,Dewi Susanto,Male,1985-07-02,dewi.susanto950@example.com,082022933267,Regular,Student,Jawa Timur,Malang,2023-04-11
+CUST-0951,Putra Siregar,Male,2002-12-08,putra.siregar951@example.com,084490184455,Regular,Professional,Bali,Denpasar,2024-06-17
+CUST-0952,Fajar Lestari,Female,1994-11-08,fajar.lestari952@example.com,089581726084,Regular,Gadget Enthusiast,DKI Jakarta,Jakarta Barat,2024-09-07
+CUST-0953,Dewi Saputra,Male,1990-12-24,dewi.saputra953@example.com,088788600364,Gold,Professional,DKI Jakarta,Jakarta Barat,2024-06-27
+CUST-0954,Joko Permana,Male,1991-05-11,joko.permana954@example.com,083162281537,Regular,Gadget Enthusiast,Bali,Badung,2024-09-22
+CUST-0955,Indra Saputra,Male,1984-12-18,indra.saputra955@example.com,081905248698,Regular,Professional,Jawa Barat,Bekasi,2022-03-15
+CUST-0956,Hana Gunawan,Male,1975-08-27,hana.gunawan956@example.com,085439948992,Regular,Gadget Enthusiast,Sumatera Utara,Deli Serdang,2023-09-08
+CUST-0957,Citra Pratama,Female,1990-01-28,citra.pratama957@example.com,086938171032,Regular,Professional,Jawa Timur,Sidoarjo,2023-02-26
+CUST-0958,Nadia Wijaya,Male,1996-05-02,nadia.wijaya958@example.com,089131100497,Gold,Family,Sumatera Utara,Deli Serdang,2023-03-20
+CUST-0959,Adi Permana,Female,2000-12-24,adi.permana959@example.com,084231536511,Gold,SMB,Sumatera Utara,Deli Serdang,2024-03-05
+CUST-0960,Joko Siregar,Female,1980-07-15,joko.siregar960@example.com,084971389346,Regular,Student,Banten,Tangerang Selatan,2023-07-29
+CUST-0961,Indra Saputra,Female,1993-07-02,indra.saputra961@example.com,087938722623,Regular,Family,Jawa Barat,Depok,2022-01-26
+CUST-0962,Dewi Lestari,Female,2002-03-15,dewi.lestari962@example.com,082987385603,Regular,Gadget Enthusiast,Bali,Badung,2022-03-17
+CUST-0963,Maya Gunawan,Female,1976-10-03,maya.gunawan963@example.com,085570031972,Regular,Family,Sumatera Utara,Medan,2023-06-16
+CUST-0964,Sari Wijaya,Male,2002-10-21,sari.wijaya964@example.com,081212943085,Regular,Student,Jawa Barat,Bekasi,2023-01-13
+CUST-0965,Tono Gunawan,Male,1992-12-08,tono.gunawan965@example.com,082105718202,Silver,Family,Bali,Badung,2025-01-11
+CUST-0966,Budi Susanto,Male,1977-09-15,budi.susanto966@example.com,081332646182,Regular,SMB,Jawa Barat,Depok,2024-01-31
+CUST-0967,Putra Saputra,Female,1979-01-11,putra.saputra967@example.com,086842387941,Platinum,Family,Sumatera Utara,Deli Serdang,2024-08-21
+CUST-0968,Joko Susanto,Female,1976-05-05,joko.susanto968@example.com,081109673244,Silver,Family,DKI Jakarta,Jakarta Selatan,2024-11-12
+CUST-0969,Tono Susanto,Male,1987-10-02,tono.susanto969@example.com,085939533165,Gold,Student,Sumatera Utara,Deli Serdang,2022-06-08
+CUST-0970,Hana Susanto,Male,2002-09-26,hana.susanto970@example.com,089810831226,Regular,SMB,Bali,Badung,2024-12-01
+CUST-0971,Rani Permana,Female,2004-04-11,rani.permana971@example.com,082554627667,Regular,Student,Jawa Timur,Surabaya,2023-05-09
+CUST-0972,Rani Halim,Female,1992-09-03,rani.halim972@example.com,089223296899,Silver,SMB,Jawa Timur,Surabaya,2023-04-17
+CUST-0973,Rani Halim,Male,1999-07-22,rani.halim973@example.com,086527129795,Regular,Student,Jawa Barat,Bekasi,2024-04-16
+CUST-0974,Putra Siregar,Male,2003-03-15,putra.siregar974@example.com,081066624635,Regular,Family,Jawa Barat,Bogor,2025-02-09
+CUST-0975,Sari Saputra,Female,1975-12-06,sari.saputra975@example.com,085251731939,Regular,SMB,Jawa Barat,Bandung,2024-03-05
+CUST-0976,Putra Permana,Male,1997-05-04,putra.permana976@example.com,084101737697,Regular,Family,Jawa Barat,Bogor,2024-07-08
+CUST-0977,Putra Gunawan,Female,1999-08-23,putra.gunawan977@example.com,081359873139,Gold,SMB,Sumatera Utara,Deli Serdang,2024-01-28
+CUST-0978,Rani Halim,Male,1991-12-19,rani.halim978@example.com,084320036885,Regular,Gadget Enthusiast,Jawa Timur,Malang,2023-11-30
+CUST-0979,Budi Susanto,Female,1985-07-11,budi.susanto979@example.com,084252579672,Platinum,Student,Bali,Badung,2023-03-08
+CUST-0980,Putra Siregar,Female,1978-06-10,putra.siregar980@example.com,081711214547,Regular,Gadget Enthusiast,Jawa Timur,Sidoarjo,2024-06-17
+CUST-0981,Hana Wijaya,Male,2004-04-22,hana.wijaya981@example.com,082196701188,Regular,SMB,Jawa Timur,Malang,2024-11-07
+CUST-0982,Fajar Pratama,Male,1975-08-27,fajar.pratama982@example.com,084532173418,Regular,Family,Bali,Denpasar,2024-05-23
+CUST-0983,Rani Siregar,Female,2004-02-23,rani.siregar983@example.com,084628148396,Regular,Gadget Enthusiast,Jawa Barat,Bogor,2024-10-07
+CUST-0984,Indra Saputra,Male,2005-06-26,indra.saputra984@example.com,089929525100,Gold,Student,Jawa Barat,Depok,2023-11-01
+CUST-0985,Fajar Siregar,Female,1995-12-17,fajar.siregar985@example.com,089908142289,Silver,Student,Jawa Timur,Malang,2024-06-06
+CUST-0986,Dewi Siregar,Male,2005-11-21,dewi.siregar986@example.com,081034233408,Regular,Gadget Enthusiast,Jawa Timur,Surabaya,2023-03-27
+CUST-0987,Gita Lestari,Female,2001-03-24,gita.lestari987@example.com,087428390960,Regular,Student,Banten,Tangerang,2024-11-23
+CUST-0988,Gita Pratama,Female,1992-10-07,gita.pratama988@example.com,084049386023,Regular,Family,Banten,Tangerang,2024-02-18
+CUST-0989,Wahyu Santoso,Female,1991-11-06,wahyu.santoso989@example.com,089065474628,Gold,Family,Sumatera Utara,Deli Serdang,2024-09-20
+CUST-0990,Sari Halim,Female,1984-02-08,sari.halim990@example.com,086528788381,Platinum,Family,Bali,Badung,2023-05-22
+CUST-0991,Putra Saputra,Female,1996-02-12,putra.saputra991@example.com,088288424566,Silver,Gadget Enthusiast,Jawa Barat,Bogor,2024-09-28
+CUST-0992,Yuni Halim,Male,1984-05-17,yuni.halim992@example.com,082756666624,Silver,Family,Sumatera Utara,Medan,2023-06-20
+CUST-0993,Lina Halim,Female,1987-05-02,lina.halim993@example.com,086447381055,Silver,Family,Banten,Tangerang Selatan,2022-04-04
+CUST-0994,Joko Gunawan,Male,1992-04-25,joko.gunawan994@example.com,083685585090,Platinum,SMB,Banten,Tangerang,2023-11-07
+CUST-0995,Eka Susanto,Male,2000-07-03,eka.susanto995@example.com,089862513734,Regular,Professional,Bali,Denpasar,2024-01-12
+CUST-0996,Vina Santoso,Male,1984-03-12,vina.santoso996@example.com,086718758028,Regular,Professional,Jawa Barat,Bogor,2022-01-28
+CUST-0997,Budi Pratama,Female,2000-08-02,budi.pratama997@example.com,085969043107,Regular,Professional,Bali,Denpasar,2023-05-22
+CUST-0998,Budi Lestari,Female,1995-07-05,budi.lestari998@example.com,089060028594,Gold,Student,Sumatera Utara,Medan,2022-06-01
+CUST-0999,Tono Halim,Male,1978-12-19,tono.halim999@example.com,088699244299,Regular,SMB,DKI Jakarta,Jakarta Pusat,2023-10-02

@@ -1,0 +1,22 @@
+promotion_id,promotion_name,promotion_type,discount_rate,start_date,end_date
+PROMO-NONE,No Promotion,No Promotion,0.0,2024-01-01,2026-12-31
+PROMO-001,Cashback Campaign 1,Bank Discount,0.03,2025-02-12,2025-04-22
+PROMO-002,Bank Discount Campaign 2,Loyalty Reward,0.08,2024-10-28,2024-12-28
+PROMO-003,Bundling Campaign 3,Bundling,0.08,2025-07-31,2025-10-19
+PROMO-004,Loyalty Reward Campaign 4,Bank Discount,0.12,2024-07-28,2024-09-12
+PROMO-005,Flash Sale Campaign 5,Bundling,0.08,2025-04-28,2025-05-29
+PROMO-006,Loyalty Reward Campaign 6,Flash Sale,0.03,2024-06-17,2024-08-10
+PROMO-007,Bundling Campaign 7,Bundling,0.1,2025-03-02,2025-03-24
+PROMO-008,Bank Discount Campaign 8,Bundling,0.05,2024-01-06,2024-02-01
+PROMO-009,Flash Sale Campaign 9,Bank Discount,0.03,2025-07-04,2025-07-25
+PROMO-010,Flash Sale Campaign 10,Loyalty Reward,0.05,2025-10-01,2025-10-23
+PROMO-011,Loyalty Reward Campaign 11,Bundling,0.08,2024-12-24,2025-01-08
+PROMO-012,Bank Discount Campaign 12,Bank Discount,0.1,2024-07-16,2024-10-12
+PROMO-013,Bank Discount Campaign 13,Loyalty Reward,0.1,2024-11-09,2024-12-25
+PROMO-014,Loyalty Reward Campaign 14,Bundling,0.03,2025-07-28,2025-10-25
+PROMO-015,Cashback Campaign 15,Bundling,0.08,2024-06-05,2024-07-11
+PROMO-016,Loyalty Reward Campaign 16,Cashback,0.05,2024-09-26,2024-12-15
+PROMO-017,Flash Sale Campaign 17,Bank Discount,0.12,2025-08-24,2025-11-21
+PROMO-018,Bank Discount Campaign 18,Loyalty Reward,0.15,2025-09-11,2025-11-24
+PROMO-019,Bundling Campaign 19,Cashback,0.05,2024-08-02,2024-09-12
+PROMO-020,Loyalty Reward Campaign 20,Bundling,0.05,2024-04-03,2024-05-08
