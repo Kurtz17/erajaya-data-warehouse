@@ -2,9 +2,9 @@
 
 ## Overview
 
-The dataset is synthetically generated for a retail electronics data warehouse case study based on Erajaya Group's omnichannel business context. It is designed to represent multiple operational source systems and to support normalization, ETL, dimensional modeling, data quality validation, OLAP aggregation, and dashboard development.
+The raw dataset is stored as fixed operational CSV source data for a retail electronics data warehouse case study based on Erajaya Group's omnichannel business context. It is designed to represent multiple operational source systems and to support normalization, ETL, dimensional modeling, data quality validation, OLAP aggregation, and dashboard development.
 
-The generated dataset is stored in:
+The raw source dataset is stored in:
 
 ```text
 data/raw/
@@ -78,7 +78,7 @@ Dataset validation is performed in:
 notebooks/02_transform_validate.ipynb
 ```
 
-The validation step checks whether the generated source data and transformed warehouse data are consistent enough to be loaded into PostgreSQL and used for dashboard analysis.
+The validation step checks whether the raw source data and transformed warehouse data are consistent enough to be loaded into PostgreSQL and used for dashboard analysis.
 
 | Validation Check | Purpose |
 |---|---|

@@ -25,9 +25,9 @@ output,dq_summary.csv,11,5
 output,mart_sales_overview.csv,4688,30
 validation,dq_summary.csv,11,5
 validation,etl_summary_overall_status.csv,6,4
-validation,etl_summary_processed_tables.csv,34,4
+validation,etl_summary_processed_tables.csv,37,4
 validation,etl_summary_rejected_records.csv,2,3
-validation,extract_profile_summary.csv,8,8
+validation,extract_profile_summary.csv,8,7
 validation,load_column_validation.csv,9,6
 validation,load_final_counts.csv,20,2
 validation,load_results.csv,20,4

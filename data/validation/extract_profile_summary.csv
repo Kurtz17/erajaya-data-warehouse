@@ -1,9 +1,9 @@
-file_name,row_count,column_count,primary_key,duplicate_key_count,duplicate_row_count,missing_value_count,is_extract_valid
-customers.csv,501,11,customer_id,0,0,5,True
-inventory.csv,2500,7,inventory_id,0,0,0,True
-payments.csv,2000,5,payment_id,0,0,0,True
-products.csv,100,9,product_id,0,0,0,True
-promotions.csv,21,6,promotion_id,0,0,1,True
-sales_details.csv,4692,7,detail_id,0,0,0,True
-sales_transactions.csv,2000,9,transaction_id,0,0,951,True
-stores.csv,25,7,store_id,0,0,0,True
+file_name,row_count,column_count,duplicate_row_count,missing_value_count,columns,is_extract_valid
+customers.csv,1000,11,0,5,"customer_id, customer_name, gender, birth_date, email, phone, loyalty_tier, customer_segment, province, city, registered_date",True
+products.csv,100,9,0,0,"product_id, product_name, brand, category, subcategory, unit_price, cost_price, launch_date, is_active",True
+stores.csv,25,7,0,0,"store_id, store_name, store_type, province, city, region, open_date",True
+promotions.csv,21,6,0,0,"promotion_id, promotion_name, promotion_type, discount_rate, start_date, end_date",True
+sales_transactions.csv,2000,9,0,943,"transaction_id, transaction_date, customer_id, store_id, channel_id, channel_name, channel_type, payment_id, salesperson_id",True
+sales_details.csv,4688,7,0,0,"detail_id, transaction_id, product_id, promotion_id, quantity, unit_price, discount_amount",True
+payments.csv,2000,5,0,0,"payment_id, payment_method, payment_status, payment_provider, paid_amount",True
+inventory.csv,2500,7,0,0,"inventory_id, snapshot_date, store_id, product_id, stock_quantity, reorder_level, stock_status",True
